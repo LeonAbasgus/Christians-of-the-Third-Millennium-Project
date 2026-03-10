@@ -1,3 +1,5 @@
+DOI: https://doi.org/10.5281/zenodo.18940872
+
 # Christians of the Third Millennium (XTT)
 
 A philosophical–theological project exploring the ontology of the subject, faith as competence, and the Church as a practice of forming eschatological subjectivity.
