@@ -23,13 +23,20 @@ It explores how Christian practice forms a type of subject capable of living fro
 
 The project consists of several interconnected texts:
 
-1. Prolegomena  
-2. On the Nature of Faith  
-3. Toward a Metaphysics of Personality  
-4. Logos, Subject and Church  
-5. The Church as Infrastructure of Personal Eschatology  
-6. Faith as Competence  
-
+An Essay in Applied Metaphysics of the Subject
+Prolegomena 
+The Origin. Once Primordial 
+On the Nature of Faith 
+Toward a Metaphysics of the Person 
+The Language of God 
+The Functionality of the Church 
+Toward an Ontology of the Logos 
+Faith as Competence
+The Church as the Infrastructure of the Formation of Personal Eschatology 
+The Metaphysics of the CTT Project (“To Christians of the Third Millennium”) 
+Terminological Commentary on the Project “To Christians of the Third Millennium” 
+Key Terms of the Project “To Christians of the Third Millennium” 
+Afterword
 ## Author
 
 Hierodeacon Panteleimon (Leon Adzhindzhal)
