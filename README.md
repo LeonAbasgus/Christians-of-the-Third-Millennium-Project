@@ -12,19 +12,20 @@ It explores how Christian practice forms a type of subject capable of living fro
 
 ## Key Concepts
 
-Logocentric ontology
-Logofugal ontology
-Competitive ontology
-Solidaric ontology
-Ontological stop
-Ontological re-addressing
-Decolonization of personality
-Faith as competence
-Personal eschatology
-Re-actualization of the Church
-Liturgy as an ontological process
-Quality of ontology
-Ontology of the subject
+● Logocentric ontology
+● Logofugal ontology
+● Competitive ontology
+● Solidaric ontology
+● Ontological stop
+● Ontological re-addressing
+● Decolonization of personality
+● Faith as competence
+● Personal eschatology
+● Re-actualization of the Church
+● Liturgy as an ontological process
+● Quality of ontology
+● Ontology of the subject
+
 
 ## Structure
 
