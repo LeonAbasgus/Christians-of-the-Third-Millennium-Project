@@ -1,4 +1,5 @@
-DOI: https://doi.org/10.5281/zenodo.18940872
+**Canonical version (Zenodo DOI):**
+https://doi.org/10.5281/zenodo.19776054
 
 # Christians of the Third Millennium (XTT)
 
