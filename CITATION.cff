@@ -1,15 +1,11 @@
 cff-version: 1.2.0
 title: "Christians of the Third Millennium (XTT)"
 message: "If you use this project, please cite it as follows."
-type: book
+type: software
 authors:
-  - family-names: Adzhindzhal
-    given-names: Leon
-    name-particle: Hierodeacon Panteleimon
-year: 2026
-abstract: >
-  A philosophical–theological project exploring the ontology of the subject,
-  faith as competence, and the Church as an infrastructure for the formation
-  of personal eschatology.
-license: CC-BY-4.0
-repository-code: https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-Project
+  - family-names: "Adzhindzhal"
+    given-names: "Leon"
+version: "3.0"
+date-released: "2026-04-26"
+doi: "10.5281/zenodo.19776054"
+url: "https://doi.org/10.5281/zenodo.19776054"
