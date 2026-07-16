@@ -1,55 +1,70 @@
-**Canonical version (Zenodo DOI):**
-https://doi.org/10.5281/zenodo.19776054
+# To Christians of the Third Millennium (CTM)
 
-# Christians of the Third Millennium (XTT)
-
-A philosophical–theological project exploring the ontology of the subject, faith as competence, and the Church as a practice of forming eschatological subjectivity.
+**Canonical version (Zenodo DOI):** https://doi.org/10.5281/zenodo.19776054
 
 ## About the Project
 
-The project "Christians of the Third Millennium" proposes a philosophical language for interpreting the Christian tradition in terms of ontology of the subject, responsibility, and participation in the Logos.
+**To Christians of the Third Millennium (CTM)** is a philosophical–theological project that develops an applied metaphysics of **subjecthood** in response to the crisis of the autonomous subject in modern philosophy.
 
-It explores how Christian practice forms a type of subject capable of living from the horizon of the Eschaton.
+The project proposes a philosophical language for interpreting the Christian tradition through the categories of subjecthood, responsibility, ontological communication, and participation in the Logos.
+
+Its central thesis is that Christian faith is not only trust, but also an ontological competence that enables the formation of authentic subjecthood and provides the highest possible quality of human orientation in reality.
 
 ## Key Concepts
 
-● Logocentric ontology
-● Logofugal ontology
-● Competitive ontology
-● Solidaric ontology
-● Ontological stop
-● Ontological re-addressing
-● Decolonization of personality
-● Faith as competence
-● Personal eschatology
-● Re-actualization of the Church
-● Liturgy as an ontological process
-● Quality of ontology
-● Ontology of the subject
-
+- Subjecthood
+- Projectuality
+- Logos-centred ontology
+- Logofugal ontology
+- Ontological communication
+- Ontological competence
+- Faith as ontological competence
+- Ontological navigation
+- Ontological re-addressing
+- Ontological stop
+- Quality of ontology
+- Personal eschatology
+- The Church as the infrastructure of ontological communication
+- Competitive ontology
+- Solidary ontology
 
 ## Structure
 
-The project consists of several interconnected texts:
+The project currently consists of the following interconnected studies:
 
-An Essay in Applied Metaphysics of the Subject
-Prolegomena 
-The Origin. Once Primordial 
-On the Nature of Faith 
-Toward a Metaphysics of the Person 
-The Language of God 
-The Functionality of the Church 
-Toward an Ontology of the Logos 
-Faith as Competence
-The Church as the Infrastructure of the Formation of Personal Eschatology 
-The Metaphysics of the CTT Project (“To Christians of the Third Millennium”) 
-Terminological Commentary on the Project “To Christians of the Third Millennium” 
-Key Terms of the Project “To Christians of the Third Millennium” 
-Afterword
+- Prolegomena
+- The Origin
+- Once Primordial
+- On the Nature of Faith
+- Toward a Metaphysics of the Person
+- The Language of God
+- The Functionality of the Church
+- Toward an Ontology of the Logos
+- Faith as Competence
+- The Church as the Infrastructure of Personal Eschatology
+- The Metaphysics of the CTM Project ("To Christians of the Third Millennium")
+- Ontogenesis of Subjecthood
+- Terminological Commentary
+- Key Terms of the Project
+- Afterword
+
+## Current multilingual editions
+
+The current release includes the following language editions:
+
+- Russian
+- English
+- German
+- French
+- Greek
+- Serbian
+
+The English, German, French, and Greek editions have undergone a major terminological revision restoring the fundamental distinction between **subjecthood** and **subjectivity** throughout the project.
+
 ## Author
 
 Hierodeacon Panteleimon (Leon Adzhindzhal)
 
 ## License
 
-Creative Commons Attribution 4.0 (CC BY 4.0)
+Creative Commons Attribution 4.0 International (CC BY 4.0)
