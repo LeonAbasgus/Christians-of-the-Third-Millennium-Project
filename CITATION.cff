@@ -1,11 +1,20 @@
 cff-version: 1.2.0
-title: "Christians of the Third Millennium (CTM)"
-message: "If you use this project, please cite it as follows."
-type: software
+
+title: "To Christians of the Third Millennium"
+
+message: "If you use this work, please cite it as follows."
+
+type: book
+
 authors:
   - family-names: "Adzhindzhal"
     given-names: "Leon"
+    name-particle: "Hierodeacon Panteleimon"
+
 version: "3.0"
+
 date-released: "2026-04-26"
+
 doi: "10.5281/zenodo.19776054"
+
 url: "https://doi.org/10.5281/zenodo.19776054"
