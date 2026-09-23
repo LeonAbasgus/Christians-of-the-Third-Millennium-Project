@@ -1,70 +1,58 @@
 # To Christians of the Third Millennium (CTM)
 
-**Canonical version (Zenodo DOI):** https://doi.org/10.5281/zenodo.19776054
+**Author:** Leon Adzhindzhal / Hierodeacon Panteleimon
 
-## About the Project
+**Canonical project site:** https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/
 
-**To Christians of the Third Millennium (CTM)** is a philosophical–theological project that develops an applied metaphysics of **subjecthood** in response to the crisis of the autonomous subject in modern philosophy.
+## What CTM is
 
-The project proposes a philosophical language for interpreting the Christian tradition through the categories of subjecthood, responsibility, ontological communication, and participation in the Logos.
+**To Christians of the Third Millennium (CTM)** is a philosophical-theological project that developed into a **generative research platform** centered on human **subjecthood**: its emergence, architecture, realization, distribution, transformation, historical productivity, and eschatological orientation.
 
-Its central thesis is that Christian faith is not only trust, but also an ontological competence that enables the formation of authentic subjecthood and provides the highest possible quality of human orientation in reality.
+The primary source corpus of **CTM I–III is Russian**. Later explicit methodological formulations in CTM III govern current methodological usage where they refine earlier formulations, without retroactively rewriting the conceptual genealogy of CTM I–II.
 
-## Key Concepts
+## Current architecture
 
-- Subjecthood
-- Projectuality
-- Logos-centred ontology
-- Logofugal ontology
-- Ontological communication
-- Ontological competence
-- Faith as ontological competence
-- Ontological navigation
-- Ontological re-addressing
-- Ontological stop
-- Quality of ontology
-- Personal eschatology
-- The Church as the infrastructure of ontological communication
-- Competitive ontology
-- Solidary ontology
+- **CTM** — project as a whole / generative research platform.
+- **Applied Metaphysics of the Subject** — historical designation of the central inquiry of CTM I.
+- **Applied Metaphysics of Subjecthood** — later programmatic explication of the field made visible through CTM I–III; it is not a retrospective renaming of CTM I.
+- **CTM Analysis** — methodology developed in CTM III.
+- **Vector Analysis of Subjecthood** — defining analytical core of CTM Analysis.
 
-## Structure
+> **CTM analysis is the vector analysis of the level, direction, bearer, and distribution of subjecthood.**
 
-The project currently consists of the following interconnected studies:
+The developed result is a **vector profile**, not a single score or label.
 
-- Prolegomena
-- The Origin
-- Once Primordial
-- On the Nature of Faith
-- Toward a Metaphysics of the Person
-- The Language of God
-- The Functionality of the Church
-- Toward an Ontology of the Logos
-- Faith as Competence
-- The Church as the Infrastructure of Personal Eschatology
-- The Metaphysics of the CTM Project ("To Christians of the Third Millennium")
-- Ontogenesis of Subjecthood
-- Terminological Commentary
-- Key Terms of the Project
-- Afterword
+## Canonical Meta-Document v1.0
 
-## Current multilingual editions
+The project website publishes the complete **CANONICAL META-DOCUMENT v1.0** in six languages:
 
-The current release includes the following language editions:
+- English — original Final English Edition
+- Russian — authorized translation
+- German — authorized translation
+- French — authorized translation
+- Greek — authorized translation
+- Serbian — authorized translation
 
-- Russian
-- English
-- German
-- French
-- Greek
-- Serbian
+The Meta-Document records provenance, precedence, definition genealogy, core non-equivalences, the Non-Expansion Rule, Graph Subordination, and the fail-closed principle.
 
-The English, German, French, and Greek editions have undergone a major terminological revision restoring the fundamental distinction between **subjecthood** and **subjectivity** throughout the project.
+## Core safeguards
 
-## Author
+- **Reality ≠ map**
+- **DIS ≠ OS ≠ subjecthood**
+- **Scenario Book ≠ scenario ≠ response**
+- **subjecthood ≠ subjectivity**
+- **operative ontology ≠ operational ontology ≠ Operating System**
+- **no transition without a demonstrated transition**
+- fail-closed blocks unauthorized continuation; it does not prove an alternative outcome
+- the graph records established architecture; it does not generate architecture
+- GTOA is a future research horizon, not a completed independent theory or methodology in CTM I–III
 
-Hierodeacon Panteleimon (Leon Adzhindzhal)
+## Official repositories
+
+- CTM project / multilingual editions: https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-Project
+- CTM II: https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-II
+- CTM III: https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-III
 
 ## License
 
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+Creative Commons Attribution 4.0 International (CC BY 4.0), where applicable to the repository contents.
