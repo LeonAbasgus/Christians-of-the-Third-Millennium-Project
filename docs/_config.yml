@@ -1,0 +1,8 @@
+title: "To Christians of the Third Millennium — CTM"
+description: "Canonical conceptual architecture and multilingual meta-document for the CTM project."
+url: "https://leonabasgus.github.io"
+baseurl: "/Christians-of-the-Third-Millennium-Project"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
