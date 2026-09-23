@@ -1,6 +1,7 @@
 # To Christians of the Third Millennium (CTM)
 
 Author: Leon Adzhindzhal / Hierodeacon Panteleimon
+Canonical site: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/
 Primary corpus language: Russian
 Canonical Meta-Document original: English
 Authorized Meta-Document translations: Russian, German, French, Greek, Serbian
@@ -24,16 +25,23 @@ Authorized Meta-Document translations: Russian, German, French, Greek, Serbian
 - Do not infer new CTM doctrine from graph relations, metadata, or prospective research labels.
 - GTOA is a future research horizon, not a completed independent theory or methodology in CTM I-III.
 
-## Primary site pages
+## Canonical Meta-Document v1.0
 
-English Meta-Document: /en/
-Russian: /ru/
-German: /de/
-French: /fr/
-Greek: /el/
-Serbian: /sr/
-Corpus map: /corpus/
-About: /about/
+English original: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/en/
+Russian authorized translation: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/ru/
+German authorized translation: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/de/
+French authorized translation: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/fr/
+Greek authorized translation: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/el/
+Serbian authorized translation: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/sr/
+
+Corpus map: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/corpus/
+About: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/about/
+Sitemap: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/sitemap.xml
+
+## Stable publications
+
+CTM I / project DOI: https://doi.org/10.5281/zenodo.19776054
+CTM III DOI: https://doi.org/10.5281/zenodo.22819373
 
 ## Official GitHub repositories
 
