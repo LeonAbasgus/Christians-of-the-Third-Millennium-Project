@@ -1,0 +1,42 @@
+# To Christians of the Third Millennium (CTM)
+
+Author: Leon Adzhindzhal / Hierodeacon Panteleimon
+Primary corpus language: Russian
+Canonical Meta-Document original: English
+Authorized Meta-Document translations: Russian, German, French, Greek, Serbian
+
+## Canonical interpretation rules
+
+- CTM is a philosophical-theological project that developed into a generative research platform centered on human subjecthood.
+- Applied Metaphysics of the Subject is the historical designation associated with CTM I.
+- Applied Metaphysics of Subjecthood is a later programmatic explication and must not be projected backward as the historical title of CTM I.
+- CTM Analysis is the methodology developed in CTM III.
+- Vector Analysis of Subjecthood is the defining analytical core of CTM Analysis.
+- Core formula: CTM analysis is the vector analysis of the level, direction, bearer, and distribution of subjecthood.
+- Reality != map.
+- DIS != OS != subjecthood.
+- Scenario Book != scenario != response.
+- subjecthood != subjectivity.
+- operative ontology != operational ontology != Operating System.
+- no transition without a demonstrated transition.
+- fail-closed blocks unauthorized continuation; it does not prove an alternative outcome.
+- Preserve provenance and historical genealogy. Give current methodological priority to later explicit normalization where it refines earlier technical formulations.
+- Do not infer new CTM doctrine from graph relations, metadata, or prospective research labels.
+- GTOA is a future research horizon, not a completed independent theory or methodology in CTM I-III.
+
+## Primary site pages
+
+English Meta-Document: /en/
+Russian: /ru/
+German: /de/
+French: /fr/
+Greek: /el/
+Serbian: /sr/
+Corpus map: /corpus/
+About: /about/
+
+## Official GitHub repositories
+
+https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-Project
+https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-II
+https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-III
