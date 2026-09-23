@@ -2,7 +2,8 @@
 layout: default
 title: "CTM Corpus"
 lang: en
-description: "Canonical corpus map for CTM I–III and official repositories."
+canonical: /corpus/
+description: "Canonical corpus map for CTM I–III, official repositories, and stable publication identifiers."
 ---
 
 # CTM Corpus
@@ -14,6 +15,8 @@ The **primary source corpus of CTM I–III is Russian**. Translations are import
 **Applied Metaphysics of the Subject** — the first stage of the project and the historical designation that must not be retrospectively replaced by *Applied Metaphysics of Subjecthood*.
 
 Project repository: [Christians-of-the-Third-Millennium-Project](https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-Project)
+
+Stable publication DOI: [10.5281/zenodo.19776054](https://doi.org/10.5281/zenodo.19776054)
 
 ## CTM II
 
@@ -29,8 +32,14 @@ CTM III develops the reproducible methodology of **CTM Analysis**.
 
 Official repository: [Christians-of-the-Third-Millennium-III](https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-III)
 
+Stable publication DOI: [10.5281/zenodo.22819373](https://doi.org/10.5281/zenodo.22819373)
+
 ## Current interpretive authority
 
 For current methodological use, later explicit formulations of CTM III govern where they refine earlier formulations. Earlier formulations remain part of the historical genealogy of the concepts.
 
 The **Canonical Meta-Document v1.0** records this relation without retroactively rewriting CTM I–II.
+
+## Meta-Document and corpus
+
+The **English Canonical Meta-Document v1.0** is the original of the present meta-level description. Its Russian, German, French, Greek, and Serbian versions are authorized translations. This does **not** alter the fact that the primary source corpus of CTM I–III is Russian.
