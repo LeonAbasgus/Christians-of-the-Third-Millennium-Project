@@ -417,6 +417,10 @@ Son existence doit pouvoir être reconstruite à partir de caractéristiques sta
 
 Trois niveaux analytiques doivent être distingués :
 
+> **métaphysique ≠ ontologie**
+
+> **métaphysique de premier/second niveau ≠ Première/Deuxième Ontologie**
+
 > **Livre des scénarios ≠ scénario ≠ réponse**
 
 Le **Livre des scénarios** contient des règles relativement stables d’assemblage situationnel.
