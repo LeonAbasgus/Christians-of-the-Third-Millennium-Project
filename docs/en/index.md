@@ -3,7 +3,7 @@ layout: default
 title: "CTM: Conceptual Architecture and Research Program"
 lang: en
 canonical: /en/
-description: "CANONICAL META-DOCUMENT v1.0 — Final English Edition."
+description: "CANONICAL META-DOCUMENT v1.1 — Final English Edition."
 hreflang:
   - {lang: en, url: /en/}
   - {lang: ru, url: /ru/}
@@ -19,7 +19,7 @@ hreflang:
 **Leon Adzhindzhal / Hierodeacon Panteleimon**
 
 **Project:** *To Christians of the Third Millennium (CTM)*  
-**Document status:** **CANONICAL META-DOCUMENT v1.0**  
+**Document status:** **CANONICAL META-DOCUMENT v1.1**  
 **Edition:** Final English Edition  
 **Function:** machine-readable conceptual map and authorial normalization of CTM I–III  
 **Language:** English
@@ -254,7 +254,74 @@ The distinction between Reality and map makes verification, correction, learning
 
 ---
 
-# 5. Operative Ontology
+# 5. Metaphysical Presuppositions and Ontology
+
+## Basic Relation
+
+**Provenance: CORPUS / CANONICAL**
+
+CTM I defines metaphysics, in this context, as the set of presuppositions through which a subject perceives and interprets Reality.
+
+It explicitly establishes the direction of dependence:
+
+> **metaphysical presuppositions → ontology / ontological horizon**
+
+Metaphysics determines the limit of ontology; verification and rationalization of metaphysics make possible the modernization and expansion of ontology.
+
+Ontology is therefore the resulting architecture or world-picture through which Reality is available to the subject, while the metaphysics of that ontology consists in the presuppositions on the basis of which that architecture is constituted.
+
+This relation does not identify metaphysics with ontology:
+
+> **metaphysics ≠ ontology**
+
+## Functional Metaphysical Status
+
+**Provenance: AUTHORIAL NORMALIZATION**
+
+Within current CTM usage, the metaphysical status of a proposition is determined not solely by its subject matter or disciplinary origin but by the function it performs in the construction of an ontology.
+
+Accordingly, a proposition that is the result of cognition or verification at one level may function as a metaphysical presupposition at another.
+
+Thus:
+
+> **result of cognition at one level → metaphysical presupposition at another → construction or restructuring of ontology**
+
+## First- and Second-Level Metaphysics
+
+**Provenance: AUTHORIAL NORMALIZATION**
+
+First-level metaphysics designates the metaphysical presuppositions that function directly as grounds for the construction of a given ontology.
+
+Second-level metaphysics designates a level of metaphysical grounding at which a proposition obtained as a result of cognition or verification at a preceding level functions as a metaphysical presupposition for the construction or restructuring of ontology.
+
+In schematic form:
+
+> **M₁ → O**  
+> **M₂ → M₁ → O**
+
+These expressions indicate relations of grounding, not chronological stages and not the First and Second Ontologies of CTM.
+
+> **First-/second-level metaphysics ≠ First/Second Ontology**
+
+## Space of Metaphysics
+
+**Provenance: CORPUS / CANONICAL for the conceptual field; AUTHORIAL NORMALIZATION for the present relation**
+
+CTM distinguishes a plurality and variability of metaphysical possibilities and develops the concept of a space of possible metaphysics.
+
+The space of metaphysics designates the field of available or possible configurations of metaphysical presuppositions through which different ontological architectures may become possible.
+
+A change within this field must be distinguished from a merely local change inside an already constituted ontology.
+
+Accordingly, the present architecture is:
+
+> **Reality → metaphysical presuppositions → ontology / operative ontology → response → consequences → verification and correction**
+
+Verification may disclose a mismatch between Reality and the operative map; correction of metaphysical presuppositions may therefore require a corresponding restructuring of ontology.
+
+---
+
+# 6. Operative Ontology
 
 ## Working Concept
 
@@ -336,7 +403,7 @@ The earlier formulations remain part of the genealogy of the model.
 
 ---
 
-# 6. Scenario Book
+# 7. Scenario Book
 
 **Provenance: CORPUS / CANONICAL**
 
@@ -372,7 +439,7 @@ The narrower formulations developed in CTM II remain part of the historical gene
 
 ---
 
-# 7. Subject Architecture
+# 8. Subject Architecture
 
 **Provenance: CORPUS / CANONICAL**
 
@@ -403,7 +470,7 @@ The analysis reconstructs the **actual distribution of subjecthood**.
 
 ---
 
-# 8. CTM Analysis
+# 9. CTM Analysis
 
 **Provenance: CORPUS / CANONICAL**
 
@@ -443,7 +510,7 @@ Later evidence may require returning to an earlier analytical stage.
 
 ---
 
-# 9. Vector Analysis of Subjecthood
+# 10. Vector Analysis of Subjecthood
 
 **Provenance: CORPUS / CANONICAL**
 
@@ -512,7 +579,7 @@ The developed result of vector analysis is represented as a **vector profile** r
 
 ---
 
-# 10. Projectuality and Generativity
+# 11. Projectuality and Generativity
 
 **Provenance: CORPUS / CANONICAL**
 
@@ -538,7 +605,7 @@ A subject may give a response of his own within an already existing architecture
 
 ---
 
-# 11. Ontological Solvency and Ontological Creditworthiness
+# 12. Ontological Solvency and Ontological Creditworthiness
 
 **Provenance: CORPUS / CANONICAL**
 
@@ -558,7 +625,7 @@ Creditworthiness concerns the justified expectation that authorship and responsi
 
 ---
 
-# 12. Operative Ontology, Operational Ontology, and Operating System
+# 13. Operative Ontology, Operational Ontology, and Operating System
 
 **Provenance: AUTHORIAL NORMALIZATION based on distinct corpus usages**
 
@@ -588,7 +655,7 @@ This distinction is mandatory for current English technical usage.
 
 ---
 
-# 13. Domain-Specific Research and Applications
+# 14. Domain-Specific Research and Applications
 
 **Provenance: CORPUS / CANONICAL**
 
@@ -622,7 +689,7 @@ They are **not defined in this meta-document**.
 
 ---
 
-# 14. Core Non-Equivalences
+# 15. Core Non-Equivalences
 
 The following distinctions protect the conceptual architecture of CTM from semantic collapse.
 
@@ -678,7 +745,7 @@ They prohibit their treatment as interchangeable.
 
 ---
 
-# 15. Negative Verification and Fail-Closed
+# 16. Negative Verification and Fail-Closed
 
 ## Negative Verification
 
@@ -718,7 +785,7 @@ It prevents unauthorized continuation.
 
 ---
 
-# 16. Definition Genealogy and Precedence
+# 17. Definition Genealogy and Precedence
 
 **Provenance: AUTHORIAL NORMALIZATION**
 
@@ -756,6 +823,12 @@ The later formulation governs current methodological use.
 
 The earlier formulation remains part of the genealogy of the concept.
 
+Version 1.1 restores the corpus-established dependency between metaphysical presuppositions and ontology and explicitly normalizes the functional status of metaphysical propositions and the distinction between first- and second-level metaphysics. It does not retroactively attribute the latter terminology to CTM I–III.
+
+**Provenance: AUTHORIAL NORMALIZATION**
+
+### v1.1 Normalization Note
+
 ## Metadata Versioning
 
 **Provenance: AUTHORIAL NORMALIZATION**
@@ -778,7 +851,7 @@ It does not rewrite the historical source.
 
 ---
 
-# 17. Terminological Standard
+# 18. Terminological Standard
 
 **Provenance: AUTHORIAL NORMALIZATION based on RU ↔ EN corpus audit**
 
@@ -841,7 +914,7 @@ These distinctions must be preserved in all future machine-readable representati
 
 ---
 
-# 18. Future Research Horizon: GTOA
+# 19. Future Research Horizon: GTOA
 
 ## General Theory of Ontological Architectures
 
@@ -900,6 +973,6 @@ No such structure should be inferred from the prospective designation alone.
 
 ---
 
-**End of CANONICAL META-DOCUMENT v1.0**
+**End of CANONICAL META-DOCUMENT v1.1**
 
-**Status:** `CANONICAL META-DOCUMENT v1.0 — Final English Edition`
+**Status:** `CANONICAL META-DOCUMENT v1.1 — Final English Edition`
