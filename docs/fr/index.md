@@ -3,7 +3,7 @@ layout: default
 title: "CTM : Architecture conceptuelle et programme de recherche"
 lang: fr
 canonical: /fr/
-description: "MÉTA-DOCUMENT CANONIQUE v1.0 — Édition française définitive."
+description: "MÉTA-DOCUMENT CANONIQUE v1.1 — Édition française définitive."
 hreflang:
   - {lang: en, url: /en/}
   - {lang: ru, url: /ru/}
@@ -19,7 +19,7 @@ hreflang:
 **Leon Adzhindzhal / Hiérodiacre Pantéléimon**
 
 **Projet :** *Aux chrétiens du troisième millénaire (CTM)*  
-**Statut du document :** **MÉTA-DOCUMENT CANONIQUE v1.0**  
+**Statut du document :** **MÉTA-DOCUMENT CANONIQUE v1.1**  
 **Édition :** Édition française définitive  
 **Fonction :** carte conceptuelle lisible par machine et normalisation auctoriale de CTM I–III  
 **Langue :** français
@@ -254,7 +254,74 @@ La distinction entre Réalité et carte rend intelligibles, au sein de l’archi
 
 ---
 
-# 5. Ontologie opérante
+# 5. Présuppositions métaphysiques et ontologie
+
+## Relation fondamentale
+
+**Provenance : CORPUS / CANONIQUE**
+
+CTM I définit la métaphysique, dans ce contexte, comme l'ensemble des présuppositions à travers lesquelles un sujet perçoit et interprète la Réalité.
+
+Il établit explicitement le sens de la dépendance :
+
+> **présuppositions métaphysiques → ontologie / horizon ontologique**
+
+La métaphysique détermine la limite de l'ontologie ; la vérification et la rationalisation de la métaphysique rendent possibles la modernisation et l'expansion de l'ontologie.
+
+L'ontologie est donc l'architecture résultante, ou l'image du monde, à travers laquelle la Réalité est accessible au sujet, tandis que la métaphysique de cette ontologie consiste dans les présuppositions sur la base desquelles cette architecture est constituée.
+
+Cette relation n'identifie pas la métaphysique à l'ontologie :
+
+> **métaphysique ≠ ontologie**
+
+## Statut métaphysique fonctionnel
+
+**Provenance : NORMALISATION AUCTORIALE**
+
+Dans l'usage actuel de CTM, le statut métaphysique d'une proposition n'est pas déterminé uniquement par son objet ou son origine disciplinaire, mais par la fonction qu'elle remplit dans la construction d'une ontologie.
+
+Ainsi, une proposition qui est le résultat d'une connaissance ou d'une vérification à un niveau peut fonctionner comme présupposition métaphysique à un autre.
+
+Ainsi :
+
+> **résultat de la connaissance à un niveau → présupposition métaphysique à un autre → construction ou restructuration de l'ontologie**
+
+## Métaphysique de premier et de second niveau
+
+**Provenance : NORMALISATION AUCTORIALE**
+
+La **métaphysique de premier niveau** désigne les présuppositions métaphysiques qui fonctionnent directement comme fondements de la construction d'une ontologie donnée.
+
+La **métaphysique de second niveau** désigne un niveau de fondation métaphysique auquel une proposition obtenue comme résultat d'une connaissance ou d'une vérification à un niveau précédent fonctionne comme présupposition métaphysique pour la construction ou la restructuration d'une ontologie.
+
+Schématiquement :
+
+> **M₁ → O**  
+> **M₂ → M₁ → O**
+
+Ces expressions indiquent des relations de fondation, non des étapes chronologiques ni les Première et Deuxième Ontologies de CTM.
+
+> **métaphysique de premier/second niveau ≠ Première/Deuxième Ontologie**
+
+## Espace des métaphysiques
+
+**Provenance : CORPUS / CANONIQUE pour le champ conceptuel ; NORMALISATION AUCTORIALE pour la relation présente**
+
+CTM distingue une pluralité et une variabilité de possibilités métaphysiques et développe le concept d'un espace de métaphysiques possibles.
+
+L'**espace des métaphysiques** désigne le champ des configurations disponibles ou possibles de présuppositions métaphysiques à travers lesquelles différentes architectures ontologiques peuvent devenir possibles.
+
+Une modification à l'intérieur de ce champ doit être distinguée d'une modification simplement locale à l'intérieur d'une ontologie déjà constituée.
+
+En conséquence, l'architecture actuelle est :
+
+> **Réalité → présuppositions métaphysiques → ontologie / ontologie opérante → réponse → conséquences → vérification et correction**
+
+La vérification peut révéler une inadéquation entre la Réalité et la carte opérante ; la correction des présuppositions métaphysiques peut donc exiger une restructuration correspondante de l'ontologie.
+
+---
+
+# 6. Ontologie opérante
 
 ## Concept de travail
 
@@ -336,7 +403,7 @@ Les formulations antérieures demeurent partie intégrante de la généalogie du
 
 ---
 
-# 6. Livre des scénarios
+# 7. Livre des scénarios
 
 **Provenance : CORPUS / CANONIQUE**
 
@@ -372,7 +439,7 @@ Les formulations plus étroites développées dans CTM II demeurent partie inté
 
 ---
 
-# 7. Architecture du sujet
+# 8. Architecture du sujet
 
 **Provenance : CORPUS / CANONIQUE**
 
@@ -403,7 +470,7 @@ L’analyse reconstruit la **distribution effective de la subjectalité**.
 
 ---
 
-# 8. Analyse CTM
+# 9. Analyse CTM
 
 **Provenance : CORPUS / CANONIQUE**
 
@@ -443,7 +510,7 @@ Des données ultérieures peuvent exiger un retour à une étape analytique ant�
 
 ---
 
-# 9. Analyse vectorielle de la subjectalité
+# 10. Analyse vectorielle de la subjectalité
 
 **Provenance : CORPUS / CANONIQUE**
 
@@ -512,7 +579,7 @@ Le résultat développé de l’analyse vectorielle est représenté sous la for
 
 ---
 
-# 10. Projectualité et générativité
+# 11. Projectualité et générativité
 
 **Provenance : CORPUS / CANONIQUE**
 
@@ -538,7 +605,7 @@ Un sujet peut donner une réponse propre au sein d’une architecture déjà exi
 
 ---
 
-# 11. Solvabilité ontologique et créditabilité ontologique
+# 12. Solvabilité ontologique et créditabilité ontologique
 
 **Provenance : CORPUS / CANONIQUE**
 
@@ -558,7 +625,7 @@ La créditabilité concerne l’attente justifiée que l’autorat et la respons
 
 ---
 
-# 12. Ontologie opérante, ontologie opérationnelle et Système d’exploitation
+# 13. Ontologie opérante, ontologie opérationnelle et Système d’exploitation
 
 **Provenance : NORMALISATION AUCTORIALE fondée sur des usages distincts dans le corpus**
 
@@ -588,7 +655,7 @@ Cette distinction est obligatoire pour l’usage technique français actuel.
 
 ---
 
-# 13. Recherches et applications propres à des domaines spécifiques
+# 14. Recherches et applications propres à des domaines spécifiques
 
 **Provenance : CORPUS / CANONIQUE**
 
@@ -622,7 +689,7 @@ Elles **ne sont pas définies dans le présent méta-document**.
 
 ---
 
-# 14. Non-équivalences fondamentales
+# 15. Non-équivalences fondamentales
 
 Les distinctions suivantes protègent l’architecture conceptuelle de CTM contre la fusion sémantique.
 
@@ -678,7 +745,7 @@ Elles interdisent de les traiter comme interchangeables.
 
 ---
 
-# 15. Vérification négative et fail-closed
+# 16. Vérification négative et fail-closed
 
 ## Vérification négative
 
@@ -718,7 +785,7 @@ Il empêche une continuation non autorisée.
 
 ---
 
-# 16. Généalogie des définitions et priorité
+# 17. Généalogie des définitions et priorité
 
 **Provenance : NORMALISATION AUCTORIALE**
 
@@ -778,7 +845,7 @@ Elle ne réécrit pas la source historique.
 
 ---
 
-# 17. Standard terminologique
+# 18. Standard terminologique
 
 **Provenance : NORMALISATION AUCTORIALE fondée sur l’audit du corpus RU ↔ EN**
 
@@ -841,7 +908,7 @@ Ces distinctions doivent être préservées dans toutes les futures représentat
 
 ---
 
-# 18. Horizon de recherche futur : GTOA
+# 19. Horizon de recherche futur : GTOA
 
 ## Théorie générale des architectures ontologiques
 
@@ -900,6 +967,6 @@ Aucune structure de ce type ne doit être inférée de la seule désignation pro
 
 ---
 
-**Fin du MÉTA-DOCUMENT CANONIQUE v1.0**
+**Fin du MÉTA-DOCUMENT CANONIQUE v1.1**
 
-**Statut :** `MÉTA-DOCUMENT CANONIQUE v1.0 — Édition française définitive`
+**Statut :** `MÉTA-DOCUMENT CANONIQUE v1.1 — Édition française définitive`
