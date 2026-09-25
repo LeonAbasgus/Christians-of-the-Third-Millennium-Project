@@ -15,6 +15,14 @@ Authorized Meta-Document translations: Russian, German, French, Greek, Serbian
 - Vector Analysis of Subjecthood is the defining analytical core of CTM Analysis.
 - Core formula: CTM analysis is the vector analysis of the level, direction, bearer, and distribution of subjecthood.
 - Reality != map.
+- metaphysics != ontology.
+- metaphysical presuppositions → ontology / ontological horizon.
+- The metaphysical status of a proposition is functional: a result of cognition or verification at one level may function as a metaphysical presupposition at another.
+- First-level metaphysics grounds a given ontology directly; second-level metaphysics describes grounding in which a result from a preceding level functions as a metaphysical presupposition for constructing or restructuring ontology.
+- M1 → O; M2 → M1 → O.
+- first-/second-level metaphysics != First/Second Ontology.
+- Space of metaphysics = the field of available or possible configurations of metaphysical presuppositions through which different ontological architectures may become possible.
+- Current architecture: Reality → metaphysical presuppositions → ontology / operative ontology → response → consequences → verification and correction.
 - DIS != OS != subjecthood.
 - Scenario Book != scenario != response.
 - subjecthood != subjectivity.
@@ -25,7 +33,7 @@ Authorized Meta-Document translations: Russian, German, French, Greek, Serbian
 - Do not infer new CTM doctrine from graph relations, metadata, or prospective research labels.
 - GTOA is a future research horizon, not a completed independent theory or methodology in CTM I-III.
 
-## Canonical Meta-Document v1.0
+## Canonical Meta-Document v1.1
 
 English original: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/en/
 Russian authorized translation: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/ru/
