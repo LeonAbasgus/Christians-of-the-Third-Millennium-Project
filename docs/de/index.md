@@ -419,6 +419,10 @@ Seine Existenz muss anhand stabiler Merkmale des Übergangs von der Situation zu
 
 Drei analytische Ebenen sind zu unterscheiden:
 
+> **Metaphysik ≠ Ontologie**
+
+> **Metaphysik erster/zweiter Ebene ≠ Erste/Zweite Ontologie**
+
 > **Szenariobuch ≠ Szenario ≠ Antwort**
 
 Das **Szenariobuch** enthält relativ stabile Regeln situativer Zusammenfügung.
