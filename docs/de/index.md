@@ -3,7 +3,7 @@ layout: default
 title: "CTM: Konzeptuelle Architektur und Forschungsprogramm"
 lang: de
 canonical: /de/
-description: "KANONISCHES METADOKUMENT v1.0 — Endgültige deutsche Ausgabe."
+description: "KANONISCHES METADOKUMENT v1.1 — Endgültige deutsche Ausgabe."
 hreflang:
   - {lang: en, url: /en/}
   - {lang: ru, url: /ru/}
@@ -19,7 +19,7 @@ hreflang:
 **Leon Adzhindzhal / Hierodiakon Panteleimon**
 
 **Projekt:** *An die Christen des dritten Jahrtausends (CTM)*  
-**Dokumentstatus:** **KANONISCHES METADOKUMENT v1.0**  
+**Dokumentstatus:** **KANONISCHES METADOKUMENT v1.1**  
 **Ausgabe:** Endgültige deutsche Ausgabe  
 **Funktion:** maschinenlesbare konzeptuelle Karte und autoriale Normalisierung von CTM I–III  
 **Sprache:** Deutsch
@@ -254,7 +254,74 @@ Die Unterscheidung zwischen Realität und Karte macht innerhalb der analytischen
 
 ---
 
-# 5. Wirkende Ontologie
+# 5. Metaphysische Voraussetzungen und Ontologie
+
+## Grundrelation
+
+**Provenienz: KORPUS / KANONISCH**
+
+CTM I definiert Metaphysik in diesem Zusammenhang als die Gesamtheit der Voraussetzungen, durch die ein Subjekt die Realität wahrnimmt und interpretiert.
+
+Es bestimmt ausdrücklich die Richtung der Abhängigkeit:
+
+> **metaphysische Voraussetzungen → Ontologie / ontologischer Horizont**
+
+Die Metaphysik bestimmt die Grenze der Ontologie; Verifikation und Rationalisierung der Metaphysik ermöglichen Modernisierung und Erweiterung der Ontologie.
+
+Ontologie ist somit die daraus hervorgehende Architektur oder das Weltbild, durch das die Realität dem Subjekt zugänglich ist, während die Metaphysik dieser Ontologie in den Voraussetzungen besteht, auf deren Grundlage diese Architektur konstituiert wird.
+
+Diese Relation setzt Metaphysik und Ontologie nicht gleich:
+
+> **Metaphysik ≠ Ontologie**
+
+## Funktionaler metaphysischer Status
+
+**Provenienz: AUTORIALE NORMALISIERUNG**
+
+Im gegenwärtigen CTM-Gebrauch wird der metaphysische Status einer Aussage nicht allein durch ihren Gegenstand oder ihre disziplinäre Herkunft bestimmt, sondern durch die Funktion, die sie bei der Konstruktion einer Ontologie erfüllt.
+
+Dementsprechend kann eine Aussage, die auf einer Ebene Ergebnis von Erkenntnis oder Verifikation ist, auf einer anderen Ebene als metaphysische Voraussetzung fungieren.
+
+Somit:
+
+> **Ergebnis der Erkenntnis auf einer Ebene → metaphysische Voraussetzung auf einer anderen → Konstruktion oder Umstrukturierung der Ontologie**
+
+## Metaphysik erster und zweiter Ebene
+
+**Provenienz: AUTORIALE NORMALISIERUNG**
+
+**Metaphysik erster Ebene** bezeichnet die metaphysischen Voraussetzungen, die unmittelbar als Grundlagen für die Konstruktion einer gegebenen Ontologie fungieren.
+
+**Metaphysik zweiter Ebene** bezeichnet eine Ebene metaphysischer Begründung, auf der eine durch Erkenntnis oder Verifikation auf einer vorausgehenden Ebene gewonnene Aussage als metaphysische Voraussetzung für die Konstruktion oder Umstrukturierung einer Ontologie fungiert.
+
+Schematisch:
+
+> **M₁ → O**  
+> **M₂ → M₁ → O**
+
+Diese Ausdrücke bezeichnen Begründungsrelationen, nicht chronologische Stadien und nicht die Erste und Zweite Ontologie des CTM.
+
+> **Metaphysik erster/zweiter Ebene ≠ Erste/Zweite Ontologie**
+
+## Raum der Metaphysiken
+
+**Provenienz: KORPUS / KANONISCH für das Begriffsfeld; AUTORIALE NORMALISIERUNG für die vorliegende Relation**
+
+CTM unterscheidet eine Pluralität und Veränderlichkeit metaphysischer Möglichkeiten und entwickelt den Begriff eines Raums möglicher Metaphysiken.
+
+Der **Raum der Metaphysiken** bezeichnet das Feld verfügbarer oder möglicher Konfigurationen metaphysischer Voraussetzungen, durch die unterschiedliche ontologische Architekturen möglich werden können.
+
+Eine Veränderung innerhalb dieses Feldes ist von einer bloß lokalen Veränderung innerhalb einer bereits konstituierten Ontologie zu unterscheiden.
+
+Dementsprechend lautet die gegenwärtige Architektur:
+
+> **Realität → metaphysische Voraussetzungen → Ontologie / wirkende Ontologie → Antwort → Folgen → Verifikation und Korrektur**
+
+Verifikation kann eine Nichtübereinstimmung zwischen Realität und wirkender Karte offenlegen; die Korrektur metaphysischer Voraussetzungen kann daher eine entsprechende Umstrukturierung der Ontologie erfordern.
+
+---
+
+# 6. Wirkende Ontologie
 
 ## Arbeitsbegriff
 
@@ -338,7 +405,7 @@ Die früheren Formulierungen bleiben Teil der Genealogie des Modells.
 
 ---
 
-# 6. Szenariobuch
+# 7. Szenariobuch
 
 **Provenienz: KORPUS / KANONISCH**
 
@@ -374,7 +441,7 @@ Die engeren, in CTM II entwickelten Formulierungen bleiben Teil der historischen
 
 ---
 
-# 7. Subjektarchitektur
+# 8. Subjektarchitektur
 
 **Provenienz: KORPUS / KANONISCH**
 
@@ -405,7 +472,7 @@ Die Analyse rekonstruiert die **tatsächliche Verteilung der Subjekthaftigkeit**
 
 ---
 
-# 8. CTM-Analyse
+# 9. CTM-Analyse
 
 **Provenienz: KORPUS / KANONISCH**
 
@@ -445,7 +512,7 @@ Spätere Evidenz kann eine Rückkehr zu einer früheren analytischen Stufe erfor
 
 ---
 
-# 9. Vektoranalyse der Subjekthaftigkeit
+# 10. Vektoranalyse der Subjekthaftigkeit
 
 **Provenienz: KORPUS / KANONISCH**
 
@@ -514,7 +581,7 @@ Das ausgearbeitete Ergebnis der Vektoranalyse wird als **Vektorprofil** dargeste
 
 ---
 
-# 10. Projektualität und Generativität
+# 11. Projektualität und Generativität
 
 **Provenienz: KORPUS / KANONISCH**
 
@@ -540,7 +607,7 @@ Ein Subjekt kann innerhalb einer bereits bestehenden Architektur eine eigene Ant
 
 ---
 
-# 11. Ontologische Zahlungsfähigkeit und ontologische Kreditwürdigkeit
+# 12. Ontologische Zahlungsfähigkeit und ontologische Kreditwürdigkeit
 
 **Provenienz: KORPUS / KANONISCH**
 
@@ -560,7 +627,7 @@ Kreditwürdigkeit betrifft die begründete Erwartung, dass Autorschaft und Veran
 
 ---
 
-# 12. Wirkende Ontologie, operationale Ontologie und Betriebssystem
+# 13. Wirkende Ontologie, operationale Ontologie und Betriebssystem
 
 **Provenienz: AUTORIALE NORMALISIERUNG auf Grundlage unterschiedlicher Gebrauchsweisen im Korpus**
 
@@ -590,7 +657,7 @@ Diese Unterscheidung ist für den gegenwärtigen technischen deutschen Gebrauch 
 
 ---
 
-# 13. Domänenspezifische Forschung und Anwendungen
+# 14. Domänenspezifische Forschung und Anwendungen
 
 **Provenienz: KORPUS / KANONISCH**
 
@@ -626,7 +693,7 @@ Sie werden **in diesem Metadokument nicht definiert**.
 
 ---
 
-# 14. Zentrale Nicht-Äquivalenzen
+# 15. Zentrale Nicht-Äquivalenzen
 
 Die folgenden Unterscheidungen schützen die konzeptuelle Architektur von CTM vor semantischer Verschmelzung.
 
@@ -682,7 +749,7 @@ Sie verbieten lediglich, sie als austauschbar zu behandeln.
 
 ---
 
-# 15. Negative Verifikation und fail-closed
+# 16. Negative Verifikation und fail-closed
 
 ## Negative Verifikation
 
@@ -722,7 +789,7 @@ Es verhindert eine nicht autorisierte Fortsetzung.
 
 ---
 
-# 16. Definitionsgenealogie und Priorität
+# 17. Definitionsgenealogie und Priorität
 
 **Provenienz: AUTORIALE NORMALISIERUNG**
 
@@ -760,6 +827,8 @@ Die spätere Formulierung bestimmt den gegenwärtigen methodologischen Gebrauch.
 
 Die frühere Formulierung bleibt Teil der Genealogie des Begriffs.
 
+Version 1.1 stellt die im Korpus etablierte Abhängigkeit zwischen metaphysischen Voraussetzungen und Ontologie wieder her und normalisiert ausdrücklich den funktionalen Status metaphysischer Aussagen sowie die Unterscheidung zwischen Metaphysik erster und zweiter Ebene. Sie schreibt diese letztere Terminologie CTM I–III nicht rückwirkend zu.
+
 ## Metadaten-Versionierung
 
 **Provenienz: AUTORIALE NORMALISIERUNG**
@@ -782,7 +851,7 @@ Sie schreibt die historische Quelle nicht um.
 
 ---
 
-# 17. Terminologischer Standard
+# 18. Terminologischer Standard
 
 **Provenienz: AUTORIALE NORMALISIERUNG auf Grundlage des RU ↔ EN-Korpusaudits**
 
@@ -845,7 +914,7 @@ Diese Unterscheidungen müssen in allen künftigen maschinenlesbaren Repräsenta
 
 ---
 
-# 18. Künftiger Forschungshorizont: GTOA
+# 19. Künftiger Forschungshorizont: GTOA
 
 ## Allgemeine Theorie ontologischer Architekturen
 
@@ -904,6 +973,6 @@ Keine solche Struktur darf allein aus der prospektiven Bezeichnung abgeleitet we
 
 ---
 
-**Ende des KANONISCHEN METADOKUMENTS v1.0**
+**Ende des KANONISCHEN METADOKUMENTS v1.1**
 
-**Status:** `KANONISCHES METADOKUMENT v1.0 — Endgültige deutsche Ausgabe`
+**Status:** `KANONISCHES METADOKUMENT v1.1 — Endgültige deutsche Ausgabe`
