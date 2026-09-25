@@ -38,8 +38,8 @@ Stable publication DOI: [10.5281/zenodo.22819373](https://doi.org/10.5281/zenodo
 
 For current methodological use, later explicit formulations of CTM III govern where they refine earlier formulations. Earlier formulations remain part of the historical genealogy of the concepts.
 
-The **Canonical Meta-Document v1.0** records this relation without retroactively rewriting CTM I–II.
+The **Canonical Meta-Document v1.1** records this relation without retroactively rewriting CTM I–II.
 
 ## Meta-Document and corpus
 
-The **English Canonical Meta-Document v1.0** is the original of the present meta-level description. Its Russian, German, French, Greek, and Serbian versions are authorized translations. This does **not** alter the fact that the primary source corpus of CTM I–III is Russian.
+The **English Canonical Meta-Document v1.1** is the original of the present meta-level description. Its Russian, German, French, Greek, and Serbian versions are authorized translations. This does **not** alter the fact that the primary source corpus of CTM I–III is Russian.
