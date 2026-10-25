@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 22382)
-Total output lines: 661
-
 # Philosophy and Theology of the CTM Project
 
 Systematic Exposition and Critical Analysis
@@ -266,7 +263,85 @@ Faith as competence is the capacity to maintain orientation towards God and trut
 
 Competitive ontology understands being through the struggle for preservation, superiority, and control. In such a world, even God may be conceived as the strongest participant, expected to secure victory for one's own side. Solidaric ontology presupposes another kind of relationship: the fullness of one should not be realised through the destruction of another. Humility here involves refusing to appropriate the centre of being, while purposiveness involves readiness to enter genuinely into a different relationship to life.
 
-This reading explains why Christianity is not obliged to confirm every human expectation of power. It does not, however, resolve every question of theodicy. The fact that coercive intervention may suppress freedom does not yet explain every instance of suffering, especially the suffering of those unable to accept it meaningfully. The chapter should therefore be read as an interpretation of the Christian way of responding, not presented as a completed proof that everything that happens is justifie…2382 tokens truncated…ecome living and significant for the person, affect them, and become capable of changing their way of life. Intense presence does not, however, certify truth: fear, an idol, or a false picture can also occupy consciousness completely.
+This reading explains why Christianity is not obliged to confirm every human expectation of power. It does not, however, resolve every question of theodicy. The fact that coercive intervention may suppress freedom does not yet explain every instance of suffering, especially the suffering of those unable to accept it meaningfully. The chapter should therefore be read as an interpretation of the Christian way of responding, not presented as a completed proof that everything that happens is justified. [I, “The Language of God”.]
+
+### Repentance and ascetic practice
+
+In CTM, repentance concerns the grounds of perception and action. A person not only regrets a transgression but examines what understanding of themselves and the world made it possible. If they still regard another person as a means to their own reassurance, an isolated apology may leave the recurrent structure of the relationship unchanged.
+
+Ontological asceticism denotes the discipline of relinquishing unsustainable elements of one's own map. This is a difficult capacity: a mistaken construction may sustain dignity, belonging, and familiar security. Relinquishing it requires not only an argument but also readiness to live differently.
+
+Constant examination does not, however, mean chronic psychological destabilisation. Stable habits, skills, and forms of life can support a response. What matters is their openness to correction, not the compulsory destruction of stability in every act. Here the later method permits a more careful reading of Volume I's language of continuous rupture.
+
+## 11 The Church as Event and Historical Form
+
+### Communion rather than mutual confirmation
+
+Ontological communication begins where the other can not only give me information but also change the grounds of my understanding. I acknowledge that the other exists as more than a character in my picture of the world. Their response may disclose something my map cannot accommodate.
+
+For CTM, this is essential in relation to both God and other human beings. Communion is not reducible to intensity of experience or agreement. Even conflict can become an event of encounter if its participants permit their grounds to be examined. Conversely, unanimity may result from the systematic exclusion of dissenters.
+
+The Church is considered as the space in which such communication should acquire a stable historical form. The theological meaning of the assembly and the Eucharist is connected with participation in the life of the Kingdom and the experience of communion not exhausted by the rules of the competitive world. Conversation does not replace the sacrament: the question concerns the human form of participation in God's action. [I, “The Starting Point: Once the Original”; “Essay”, chs. 6–7; II, “Eschatological Subjecthood”, §§9–10.]
+
+### Why infrastructure is needed
+
+An individual event of encounter may prove impossible to transmit or reproduce. Historical form—worship, teaching, community, discipline, memory, and guidance—creates conditions in which a new person can enter the experience and develop a response of their own.
+
+The word “infrastructure” must therefore not imply that the Church is merely a service organisation. It isolates one aspect of the Church's historical existence: what makes the formation, support, verification, and reproduction of eschatological subjecthood possible. This is a functional perspective within a theological understanding, not an exhaustive dogmatic definition.
+
+An ecclesial form may fulfil its function, be in the process of acquiring it, compensate for the absence of a result, simulate that result, or produce the opposite effect. For example, guidance intended to teach discernment may consolidate an inability to decide without a guide. Such a diagnosis requires concrete evidence about practice; a critical tone alone is insufficient. [III, Part XIII; “In Search of Pneumatology”, §16.]
+
+### Obedience and responsibility
+
+CTM makes it possible to put a rigorous question to obedience: does it enable a fuller personal response, or transfer authorship of the person's life to someone else? Outwardly similar actions may have different meanings. Voluntary acceptance of discipline can expand freedom; coercive suppression of objections can diminish it.
+
+The distinction cannot be established from the word “obedience” or the fact of restriction alone. One must determine whether verification, responsibility, the possibility of identifying a discrepancy, and recognition of the limits of the guide's authority are preserved. An institution cannot declare itself the ultimate addressee of readdressing and appropriate God's action.
+
+This is CTM's most radical ecclesiological question: does ecclesial life produce people able to answer God themselves? Its radical character does not require the rejection of the institution. On the contrary, it requires the institution to demonstrate its fidelity to the purpose for which it exists.
+
+## 12 Eschatology and the Openness of History
+
+### The future as a ground of present action
+
+A person acts not only under the influence of the past. They relate the present to what does not yet exist: raising a child, founding an institution, keeping a promise. The future is present in action as a horizon, not as an already existing object.
+
+Eschatological subjecthood in CTM unfolds this structure in relation to ultimate fullness. It is not reducible to a forecast of final events. A person can assess the existing order from the perspective of what human existence is called to become. Historical success therefore does not automatically acquire the status of ultimate truth.
+
+The eschatological horizon performs a metaprojective function: it opens a space of possible models without dictating a single political or economic programme. Between the Ground and a concrete institution stand human interpretation, choice, resources, risk, and responsibility. Attributing unconditional divine authority to one's project means eliminating precisely these transitions. [II, “Eschatological Subjecthood”, §§1–8.]
+
+### Openness and false completion
+
+Utopianism attempts to produce ultimate fullness by historical means. Apocalyptic paralysis, conversely, abandons action because it expects the end. Messianic narcissism assigns a person the role of indispensable saviour; eschatological inflation declares every event the final battle.
+
+The common defect of these modes is the loss of the distinction between the ultimate horizon and a finite historical form. CTM preserves the right to act decisively without declaring one's action final. Corrigibility is not the absence of conviction; the limitations of a project do not cancel the obligation to carry it out if it is justified.
+
+History tests more than the quality of execution. Reality's resistance may reveal an error in the model itself or in the ordering of values. Fidelity to the Ground therefore sometimes requires changing a project originally understood as an expression of that fidelity.
+
+### The eschaton is not an endless discussion
+
+In historical action, openness means the possibility of correction and refusal to sacralise finite forms. Yet in CTM the final eschaton is not reducible to eternal incompleteness. It includes the resurrection of the body, the transfiguration of creation, the Kingdom of God, and the fullness of communion.
+
+The formula of eternal ontological communication means participation in God's life with the preservation of the person and the distinction between Creator and creature. It does not mean an endless exchange of information. What rises is not merely the capacity to think: the person enters fullness in the entirety of created being.
+
+An overview that ends everything with the single word “openness” therefore loses the positive content of Christian hope. CTM joins the historical incompleteness of human constructions with the promise of a fullness the human being cannot produce through their own powers. [II, “Eschatological Subjecthood”, §§11–15.]
+
+## 13 The Trinitarian Ground and Pneumatology
+
+### Why grace is not an additional module
+
+“In Search of Pneumatology” begins with a lacuna acknowledged by the author. The architecture of human response had already been developed, but the place of the Holy Spirit and grace had received no dedicated explanation. The solution is not to add a fourth element to DIS, OS, and subjecthood, but to read the entire architecture theologically.
+
+The argument here proceeds in one direction. The Trinity is not deduced from the fact that the anthropological model happens to have three dimensions. The project already proceeds from the Christian confession and examines whether independently introduced distinctions permit a more precise description of one aspect of the image of God.
+
+This is a fundamental limitation. An anthropological scheme does not prove a dogma; a dogmatic confession does not automatically make every proposed anthropological analogy true. The correspondence must demonstrate explanatory power and withstand negative verification. [III, “In Search of Pneumatology”, §§1–4.]
+
+### Three correspondences and their asymmetry
+
+Subjecthood is correlated primarily with the paternal principle of beginning, authorship, and responsibility. The human being is not without beginning but can be a real derivative beginning of a response. This is not a degree of divinity; it distinguishes the received capacity from one's own performance of the act.
+
+OS is correlated primarily with the filial, logos-related principle of differentiation and operation. The world is not absolutely undifferentiated chaos, and a human response can possess determinate meaning. Yet the logos-related dimension is broader than OS: it concerns both the determinacy of Reality itself and the structure of its presence.
+
+DIS is partially correlated with the pneumatological dimension through the structure of presence. Truth must not only be named correctly but become living and significant for the person, affect them, and become capable of changing their way of life. Intense presence does not, however, certify truth: fear, an idol, or a false picture can also occupy consciousness completely.
 
 These correspondences are deliberately asymmetrical. The pneumatological dimension runs through the entire architecture: openness, the enlivening of the relationship to truth, healing, and the passage from knowledge to actual response. It is not confined to DIS. Likewise, subjecthood is not the Father's exclusive sphere of action, nor are operations the Son's exclusive sphere. The action of the Trinity is one. [Ibid., §§3–15.]
 
