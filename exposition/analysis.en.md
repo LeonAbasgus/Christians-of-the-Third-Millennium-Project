@@ -10,7 +10,7 @@ An entire research programme grows out of this question. CTM first asks what the
 
 The philosophical and theological parts are substantively connected. Philosophy examines the conditions of human response and the limits of self-grounding. Theology unfolds this response as a relationship with the Triune God, opened through the incarnation, Cross, and resurrection of Christ. The methodology brings the inquiry back into concrete life: what human capacity does a practice actually produce when it describes itself as Christian, educational, governmental, or emancipatory?
 
-I see the project's principal achievement in bringing together three questions that are easily discussed separately: what sustains a person's life, whether they can respond in their own right, and what social conditions make such a response possible. Its principal difficulty lies in demonstrating the transitions between these questions. The impossibility of absolute self-grounding still requires a separate argument leading to a personal God; a structural analogy with the Trinity requires examination; a powerful diagnosis of human practice does not constitute proof of salvation.
+One of the project's significant achievements is to bring together three questions that are often considered separately: what sustains a person's life, whether they can become the author of their own response, and what social conditions make such a response possible. Its principal difficulty lies in demonstrating the transitions between these questions. The impossibility of absolute self-grounding still requires a separate argument leading to a personal God; a structural analogy with the Trinity requires examination; a powerful diagnosis of human practice does not constitute proof of salvation.
 
 The exposition below moves from the initial intuition to the philosophical apparatus, then to theology, social questions, and methodology. The critical part examines specific arguments, preserving the distinction between what the author asserts and how adequately the assertion is justified. Brief references in square brackets point to the volumes and sections listed at the end. The illustrative examples belong to this analysis and are not presented as cases studied by the author of CTM.
 
@@ -28,7 +28,7 @@ CTM connects this claim with the fullness of humanity. Christ does not come to s
 
 CTM could mistakenly be read as proposing that the Church be assessed by the standards of a business: how many people attended, how many services were provided, and how satisfied the participants were. The author's question is different. If God the Logos is confessed as the principal acting Person in the Church's sacraments, what does this mean for human life? How does participation in a sacrament relate to the development of the human being's logos-bearing nature?
 
-The functional question belongs within theology. It requires us to trace the connection between what is confessed and the fruits of ecclesial life. A person may know the correct formulas yet be unable to distinguish truth from their own fear. They may be a disciplined parishioner yet transfer responsibility for everything that happens to a spiritual director. They may speak of communion yet encounter only confirmation of their own picture of the world. These discrepancies are precisely what the inquiry examines.
+The functional question belongs within theology. It requires tracing the connection between what is confessed and the fruits of ecclesial life. A person may know the correct formulas yet be unable to distinguish truth from their own fear. They may be a disciplined parishioner yet transfer responsibility for everything that happens to a spiritual director. They may speak of communion yet encounter only confirmation of their own picture of the world. These discrepancies are precisely what the inquiry examines.
 
 Observing human outcomes does not, however, give the researcher direct access to the action of grace. The method can establish that a particular arrangement of leadership blocks a response of one's own. It cannot use this finding to pass an exhaustive judgement on the mystery of the Church or a person's ultimate destiny. This limitation is formulated especially clearly in Volume III. [III, Part XIII; “In Search of Pneumatology”, §§16–17.]
 
@@ -46,7 +46,7 @@ CTM therefore distinguishes Reality from the map. A map is necessary: meaningful
 
 Volume I describes truth through the acknowledgement of Reality. The distinction is between “I know that this happened” and “I am willing to build my subsequent life in the light of what happened”. A person may acknowledge defeat in conversation while continuing to make decisions as though no defeat had occurred. Knowledge has not yet become a ground for action.
 
-This broadens the question of truth without dispensing with the accuracy of statements. If the facts are wrong, willingness to live “according to truth” may mean no more than consistently following an error. A strong reading of CTM therefore combines the verifiability of judgements with an existential willingness to accept their consequences. In Volume III, this combination is protected by the requirement to distinguish fact, interpretation, norm, project, and forecast.
+This broadens the question of truth without dispensing with the accuracy of statements. If the facts are wrong, willingness to live “according to truth” may mean no more than consistently following an error. On the interpretation proposed here, CTM therefore combines the verifiability of judgements with an existential willingness to accept their consequences. In Volume III, this combination is protected by the requirement to distinguish fact, interpretation, norm, project, and forecast.
 
 The concept of discrepancy information belongs here. This is information that reveals a gap between reality and the operative model, between the scale of a task and the capacities of an instrument, or between a declared function and its result. It does not always supply a ready-made solution. Sometimes its only reliable content is that the previous way of acting can no longer be considered justified.
 
@@ -80,7 +80,7 @@ Response does not mean arbitrary novelty. An unusual act may be accidental, whil
 
 Volumes II–III distinguish subjecthood from the moral truth of a response. A person can independently initiate a destructive project. They may be intelligent, consistent, enterprising, and responsible in a limited sense while directing those capacities against others. The strength of authorship does not certify the rightness of its ground.
 
-This distinction is also necessary for understanding the image of God. The possibility of responding does not automatically disappear when a response is false; otherwise responsibility for evil would become unintelligible. We must distinguish the possession of a capacity, its actual realisation, and the quality of its direction. At the same time, several formulations in Volume I use “subjecthood” in a stricter, normatively charged sense, as an already truthful relationship to Reality. This is a significant shift of emphasis, to which the critical part will return. [III, §§11–13, 125; II, “The Ontogenesis of Subjecthood”, §15.]
+This distinction is also necessary for understanding the image of God. The possibility of responding does not automatically disappear when a response is false; otherwise responsibility for evil would become unintelligible. It is necessary to distinguish the possession of a capacity, its actual realisation, and the quality of its direction. At the same time, several formulations in Volume I use “subjecthood” in a stricter, normatively charged sense, as an already truthful relationship to Reality. This is a significant shift of emphasis, to which the critical part will return. [III, §§11–13, 125; II, “The Ontogenesis of Subjecthood”, §15.]
 
 ## 4 Autonomy and Ontological Readdressing
 
@@ -148,9 +148,9 @@ This distinction protects the project against intellectualism. An extensive theo
 
 The starting point is the presumption of Reality's determinate meaningfulness: the distinction between correspondence and non-correspondence exists and can be discovered. On the human side, receptivity to freedom and the possibility of going beyond what has already been realised are necessary. Yet a “taste for freedom” can itself become arbitrariness. It must be connected with acceptance of reality, a hermeneutics of responsibility, orientation towards the maximal Ground, and readiness for verification.
 
-Self-acceptance in this process does not mean complacency. A person accepts the bearer of their history in order to become able to continue and change it. Identity emerges as continuity of response: while changing, I can acknowledge an earlier act as mine, correct its consequences, and avoid attributing the past to a stranger I supposedly once was.
+Self-acceptance in this process does not mean complacency. A person accepts the bearer of their history in order to become able to continue and change it. Identity emerges as continuity of response: while changing, a person can acknowledge an earlier act as their own, correct its consequences, and avoid attributing the past to a stranger they supposedly once were.
 
-Ontic subjecthood—the capacity to act and answer within a concrete world—forms the necessary basis of subsequent levels. One cannot leap over it directly into a universal mission. If a person speaks in the name of humanity's destiny but systematically evades simple obligations, the scale of their declaration tells us nothing in itself about the quality of their subjecthood. [II, “The Genesis of Subjecthood”; “The Ontogenesis of Subjecthood”, §§1–9.]
+Ontic subjecthood—the capacity to act and answer within a concrete world—forms the necessary basis of subsequent levels. One cannot leap over it directly into a universal mission. If a person speaks in the name of humanity's destiny but systematically evades simple obligations, the scale of their declaration indicates nothing in itself about the quality of their subjecthood. [II, “The Genesis of Subjecthood”; “The Ontogenesis of Subjecthood”, §§1–9.]
 
 ### Breakthrough and crystallisation
 
@@ -213,11 +213,11 @@ The formula “Christ bin”, which runs through Volume I, expresses the radical
 
 ### Absolute significance without absolute being
 
-One of Volume II's most substantial formulations distinguishes God's absoluteness from the person's absolute significance for God. The human being is finite and created. But this finitude does not mean that the person is replaceable or may be sacrificed to an impersonal totality as expendable material.
+Volume II distinguishes God's absoluteness from the person's absolute significance for God. The human being is finite and created. But this finitude does not mean that the person is replaceable or may be sacrificed to an impersonal totality as expendable material.
 
 The Christian promise of eternal life concerns the concrete person, not merely the preservation of information about them, their social contribution, or a general human type. The question of personhood therefore acquires eschatological depth: what enables this very person to preserve their identity in definitive communion with God?
 
-Here CTM offers a strong theological ground for irreplaceability. But the assertion that no other philosophical ground for irreplaceability is possible would be a separate, broader thesis. Showing the strength of the Christian solution is not enough to establish it: competing arguments must be considered. [II, “Eschatological Subjecthood”, §§11–12.]
+Within its Christian presuppositions, CTM here offers a theological grounding of irreplaceability. But the assertion that no other philosophical ground for irreplaceability is possible would be a separate, broader thesis. Showing the strength of the Christian solution is not enough to establish it: competing arguments must be considered. [II, “Eschatological Subjecthood”, §§11–12.]
 
 ## 9 Incarnation Cross and Resurrection
 
@@ -231,7 +231,7 @@ This also limits a negative attitude towards the ontic. If the Son assumes body 
 
 ### The Cross as a test of the ground
 
-The Cross occupies a central place in CTM because it separates fidelity to truth from a guarantee of one's own success. If only what preserves my strength, prestige, and safety is regarded as true, I remain my own ultimate ground. The practice of the Cross means the possibility of relinquishing this condition.
+The Cross occupies a central place in CTM because it separates fidelity to truth from a guarantee of one's own success. If a person regards as true only what preserves their strength, prestige, and safety, they continue to treat themselves as their ultimate ground. The practice of the Cross means the possibility of relinquishing this condition.
 
 Yet not every sacrifice becomes Christian. A person can die for a false project, under someone else's coercion, or for their own grandiosity. The magnitude of the loss does not prove the truth of its addressee. Christian discernment requires examining the relationship to truth, the other's freedom, responsibility, and Christ Himself.
 
@@ -277,7 +277,7 @@ Constant examination does not, however, mean chronic psychological destabilisati
 
 ### Communion rather than mutual confirmation
 
-Ontological communication begins where the other can not only give me information but also change the grounds of my understanding. I acknowledge that the other exists as more than a character in my picture of the world. Their response may disclose something my map cannot accommodate.
+Ontological communication begins where encountering the other can not only provide new information but also change the grounds of a person’s understanding. This requires recognising the interlocutor’s independent reality, which cannot be reduced to their place in one’s own picture of the world. The other’s response may disclose something that this map cannot accommodate.
 
 For CTM, this is essential in relation to both God and other human beings. Communion is not reducible to intensity of experience or agreement. Even conflict can become an event of encounter if its participants permit their grounds to be examined. Conversely, unanimity may result from the systematic exclusion of dissenters.
 
@@ -297,7 +297,7 @@ CTM makes it possible to put a rigorous question to obedience: does it enable a 
 
 The distinction cannot be established from the word “obedience” or the fact of restriction alone. One must determine whether verification, responsibility, the possibility of identifying a discrepancy, and recognition of the limits of the guide's authority are preserved. An institution cannot declare itself the ultimate addressee of readdressing and appropriate God's action.
 
-This is CTM's most radical ecclesiological question: does ecclesial life produce people able to answer God themselves? Its radical character does not require the rejection of the institution. On the contrary, it requires the institution to demonstrate its fidelity to the purpose for which it exists.
+One of CTM's central ecclesiological questions can therefore be formulated as follows: does ecclesial life produce people able to answer God themselves? Posing the question in this way does not require the rejection of the institution. It requires the institution to demonstrate its fidelity to the purpose for which it exists.
 
 ## 12 Eschatology and the Openness of History
 
@@ -454,7 +454,7 @@ The argument for realism can be reconstructed as follows. Error is meaningful on
 
 This argument supports minimal realism and the requirement of correction. By itself, however, it does not yet prove that Reality as a whole has a personal ground or a single ultimate meaning. The transition from independent constraint to the Logos requires additional premises.
 
-The strongest objection does not deny all reality. It asks: why cannot acknowledgement of the fallibility of maps coexist with limited, revisable criteria without a single maximal Ground? CTM's answer appeals to the regress of criteria and the danger of absolutising the partial. Completing the argument requires showing why this regress demands a specifically personal ground, and how human recourse to it avoids turning one's own image of God into another map protected against verification.
+One significant objection does not deny all reality. It asks: why cannot acknowledgement of the fallibility of maps coexist with limited, revisable criteria without a single maximal Ground? CTM's answer appeals to the regress of criteria and the danger of absolutising the partial. Completing the argument requires showing why this regress demands a specifically personal ground, and how human recourse to it avoids turning one's own image of God into another map protected against verification.
 
 ### Has human authorship been demonstrated
 
@@ -548,7 +548,7 @@ The fourth test is application to ecclesial or educational practice involving a 
 
 ### The central conclusion
 
-The most comprehensive concise reconstruction of CTM is this: the human being receives being but is called to respond in their own right; a response of one's own requires distinguishing Reality from one's map, accepting consequences, and remaining open to correction; Christianity discloses the ultimate ground of this response in the Triune God and its purpose in eternal communion; historical forms are to be assessed by whether they make such a response possible.
+CTM’s central thesis can be reconstructed as follows: the human being receives being but is called to respond in their own right; a response of one's own requires distinguishing Reality from one's map, accepting consequences, and remaining open to correction; Christianity discloses the ultimate ground of this response in the Triune God and its purpose in eternal communion; historical forms are to be assessed by whether they make such a response possible.
 
 This is a coherent and substantial research position. Its strength does not require declaring every metaphysical transition already proven, the theory of synergy complete, or the entire method empirically confirmed. On the contrary, CTM's own requirement to preserve Reality's right to change the map provides an appropriate standard for further work on the project itself.
 

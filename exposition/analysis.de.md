@@ -1,6 +1,6 @@
 # Philosophie und Theologie des CTM-Projekts
 
-Eine verständliche systematische Darstellung und kritische Analyse der drei Bände des Projekts „An die Christen des dritten Jahrtausends“ von Hierodiakon Panteleimon Adzhindzhal
+Eine verständliche systematische Darstellung und kritische Analyse der drei Bände des Projekts „An die Christen des dritten Jahrtausends“ von Hierodiakon Panteleimon (Adzhindzhal)
 
 ## Einleitung
 
@@ -10,7 +10,7 @@ Aus dieser Frage entsteht ein umfassendes Forschungsprogramm. Zunächst fragt CT
 
 Der philosophische und der theologische Teil sind hier inhaltlich miteinander verbunden. Die Philosophie untersucht die Bedingungen menschlicher Antwort und die Grenzen der Selbstbegründung. Die Theologie erschließt diese Antwort als Beziehung zum dreieinigen Gott, eröffnet durch die Menschwerdung, das Kreuz und die Auferstehung Christi. Die Methodologie führt die Überlegung in das konkrete Leben zurück: Welche menschliche Fähigkeit bringt eine Praxis tatsächlich hervor, die sich als christlich, bildend, staatlich oder befreiend bezeichnet?
 
-Die wichtigste Leistung des Projekts sehe ich in der Verbindung dreier Fragen, die sich leicht getrennt behandeln lassen: Woraus lebt der Mensch, kann er selbst antworten, und welche gesellschaftlichen Bedingungen ermöglichen eine solche Antwort? Die größte Schwierigkeit liegt in der Begründung der Übergänge zwischen diesen Fragen. Von der Unmöglichkeit absoluter Selbstbegründung zum persönlichen Gott ist ein eigener Übergang erforderlich; die strukturelle Analogie zur Trinität bedarf der Prüfung; eine überzeugende Diagnose menschlicher Praxis ist kein Beweis für das Heil.
+Eine wesentliche Leistung des Projekts besteht in der Verbindung dreier Fragen, die häufig getrennt behandelt werden: Woraus lebt der Mensch, kann er zum Autor seiner eigenen Antwort werden, und welche gesellschaftlichen Bedingungen ermöglichen eine solche Antwort? Die größte Schwierigkeit liegt in der Begründung der Übergänge zwischen diesen Fragen. Von der Unmöglichkeit absoluter Selbstbegründung zum persönlichen Gott ist ein eigener Übergang erforderlich; die strukturelle Analogie zur Trinität bedarf der Prüfung; eine überzeugende Diagnose menschlicher Praxis ist kein Beweis für das Heil.
 
 Die folgende Darstellung führt von der ursprünglichen Einsicht zum philosophischen Begriffsapparat, dann zur Theologie, zur gesellschaftlichen Problematik und zur Methodologie. Der kritische Teil prüft konkrete Argumente und unterscheidet dabei zwischen dem, was der Autor behauptet, und dem Grad seiner Begründung. Kurze Verweise in eckigen Klammern beziehen sich auf die am Ende aufgeführten Bände und Abschnitte. Die erläuternden Beispiele stammen aus dieser Analyse; sie werden nicht als vom Autor des CTM-Projekts untersuchte Fälle ausgegeben.
 
@@ -46,7 +46,7 @@ Deshalb unterscheidet CTM zwischen Realität und Karte. Die Karte ist notwendig:
 
 Im I. Band wird Wahrheit über die Anerkennung der Realität beschrieben. Es geht um den Unterschied zwischen „Ich weiß, dass dies geschehen ist“ und „Ich bin bereit, mein weiteres Leben unter Berücksichtigung des Geschehenen zu gestalten“. Ein Mensch kann im Gespräch eine Niederlage anerkennen und weiterhin Entscheidungen treffen, als hätte sie nicht stattgefunden. Das Wissen ist noch nicht zum Handlungsgrund geworden.
 
-Dies erweitert die Wahrheitsfrage, hebt die Genauigkeit von Aussagen aber nicht auf. Sind die Tatsachen falsch, kann die Bereitschaft, „nach der Wahrheit“ zu leben, lediglich die konsequente Befolgung eines Irrtums bedeuten. Eine starke Lesart von CTM verbindet deshalb die Überprüfbarkeit von Urteilen mit der existenziellen Bereitschaft, ihre Folgen anzunehmen. Im III. Band wird diese Verbindung durch die Forderung geschützt, Tatsache, Interpretation, Norm, Projekt und Prognose zu unterscheiden.
+Dies erweitert die Wahrheitsfrage, hebt die Genauigkeit von Aussagen aber nicht auf. Sind die Tatsachen falsch, kann die Bereitschaft, „nach der Wahrheit“ zu leben, lediglich die konsequente Befolgung eines Irrtums bedeuten. In der hier vorgeschlagenen Interpretation verbindet CTM deshalb die Überprüfbarkeit von Urteilen mit der existenziellen Bereitschaft, ihre Folgen anzunehmen. Im III. Band wird diese Verbindung durch die Forderung geschützt, Tatsache, Interpretation, Norm, Projekt und Prognose zu unterscheiden.
 
 Hierher gehört der Begriff der Diskrepanzinformation. Gemeint ist Information, die eine Kluft sichtbar macht: zwischen Wirklichkeit und wirkendem Modell, dem Maßstab einer Aufgabe und den Möglichkeiten eines Instruments, der erklärten Funktion und dem Ergebnis. Sie liefert nicht immer eine fertige Lösung. Manchmal besteht ihr einziger verlässlicher Gehalt darin, dass die bisherige Handlungsweise nicht länger als gerechtfertigt gelten kann.
 
@@ -148,7 +148,7 @@ Die „Genesis der Subjekthaftigkeit“ untersucht die Bedingungen des Entstehen
 
 Ausgangspunkt ist die Annahme einer sinnhaften Bestimmtheit der Realität: Der Unterschied zwischen Entsprechung und Nichtentsprechung besteht und lässt sich entdecken. Auf menschlicher Seite sind Empfänglichkeit für Freiheit und die Möglichkeit erforderlich, über das bereits Verwirklichte hinauszugehen. Doch der „Geschmack an der Freiheit“ kann für sich genommen zur Willkür werden. Er muss mit der Annahme der Wirklichkeit, einer Hermeneutik der Verantwortung, der Orientierung am maximalen Grund und der Bereitschaft zur Prüfung verbunden werden.
 
-Sich selbst anzunehmen bedeutet in diesem Prozess keine Selbstzufriedenheit. Der Mensch nimmt den Träger seiner Geschichte an, um sie fortsetzen und verändern zu können. Identität entsteht als Kontinuität der Antwort: Auch wenn ich mich verändere, kann ich eine frühere Tat als meine anerkennen, ihre Folgen korrigieren und die Vergangenheit nicht einem fremden Menschen zuschreiben, der ich angeblich früher gewesen sei.
+Sich selbst anzunehmen bedeutet in diesem Prozess keine Selbstzufriedenheit. Der Mensch nimmt den Träger seiner Geschichte an, um sie fortsetzen und verändern zu können. Identität entsteht als Kontinuität der Antwort: Auch im Wandel kann der Mensch eine frühere Tat als seine eigene anerkennen, ihre Folgen korrigieren und darauf verzichten, die Vergangenheit einem fremden Menschen zuzuschreiben, der er angeblich früher gewesen sei.
 
 Ontische Subjekthaftigkeit – die Fähigkeit, in einer konkreten Welt zu handeln und zu antworten – bildet die notwendige Grundlage weiterer Ebenen. Man kann sie nicht überspringen und unmittelbar zu einer universalen Mission übergehen. Wenn jemand im Namen des Schicksals der Menschheit spricht, sich aber systematisch einfachen Verpflichtungen entzieht, sagt die Größenordnung seiner Erklärung noch nichts über die Qualität seiner Subjekthaftigkeit aus. [II, „Genesis der Subjekthaftigkeit“; „Ontogenese der Subjekthaftigkeit“, §§1–9.]
 
@@ -214,11 +214,11 @@ Die Formel „Christ bin“, die sich durch den I. Band zieht, drückt die Radik
 
 ### Absolute Bedeutsamkeit ohne Absolutheit des Seins
 
-Eine der gehaltvollsten Formulierungen des II. Bandes unterscheidet zwischen der Absolutheit Gottes und der absoluten Bedeutsamkeit der Person für Gott. Der Mensch ist endlich und geschaffen. Seine Endlichkeit bedeutet aber nicht, dass er ersetzbar wäre oder einem unpersönlichen Ganzen als Verbrauchsmaterial geopfert werden dürfte.
+Im II. Band wird unterschieden zwischen der Absolutheit Gottes und der absoluten Bedeutsamkeit der Person für Gott. Der Mensch ist endlich und geschaffen. Seine Endlichkeit bedeutet aber nicht, dass er ersetzbar wäre oder einem unpersönlichen Ganzen als Verbrauchsmaterial geopfert werden dürfte.
 
 Das christliche Versprechen ewigen Lebens gilt dem konkreten Menschen, nicht bloß der Bewahrung von Informationen über ihn, seines gesellschaftlichen Beitrags oder des allgemeinen menschlichen Typs. Die Frage nach der Person erhält dadurch eschatologische Tiefe: Was ermöglicht gerade diesem Menschen, seine Identität in der endgültigen Gemeinschaft mit Gott zu bewahren?
 
-Hier bietet CTM eine starke theologische Begründung der Unersetzlichkeit. Die Behauptung, keine andere philosophische Begründung der Unersetzlichkeit sei möglich, wäre jedoch eine eigene, weiterreichende These. Dafür genügt es nicht, die Stärke der christlichen Lösung zu zeigen; konkurrierende Argumente müssten untersucht werden. [II, „Eschatologische Subjekthaftigkeit“, §§11–12.]
+Im Rahmen seiner christlichen Voraussetzungen bietet CTM hier eine theologische Begründung der Unersetzlichkeit. Die Behauptung, keine andere philosophische Begründung der Unersetzlichkeit sei möglich, wäre jedoch eine eigene, weiterreichende These. Dafür genügt es nicht, die Stärke der christlichen Lösung zu zeigen; konkurrierende Argumente müssten untersucht werden. [II, „Eschatologische Subjekthaftigkeit“, §§11–12.]
 
 ## 9 Menschwerdung, Kreuz und Auferstehung
 
@@ -232,7 +232,7 @@ Dies begrenzt auch eine negative Einstellung zum Ontischen. Wenn der Sohn Leib u
 
 ### Das Kreuz als Prüfung des Grundes
 
-Das Kreuz nimmt in CTM eine zentrale Stellung ein, weil es die Treue zur Wahrheit von der Garantie des eigenen Erfolgs trennt. Gilt nur das als wahr, was meine Macht, mein Ansehen und meine Sicherheit erhält, bleibe ich selbst der letzte Grund. Die Praxis des Kreuzes bezeichnet die Möglichkeit, auf diese Bedingung zu verzichten.
+Das Kreuz nimmt in CTM eine zentrale Stellung ein, weil es die Treue zur Wahrheit von der Garantie des eigenen Erfolgs trennt. Hält ein Mensch nur das für wahr, was seine Macht, sein Ansehen und seine Sicherheit erhält, betrachtet er weiterhin sich selbst als letzten Grund. Die Praxis des Kreuzes bezeichnet die Möglichkeit, auf diese Bedingung zu verzichten.
 
 Doch nicht jedes Opfer wird dadurch christlich. Ein Mensch kann für ein falsches Projekt, unter fremdem Zwang oder für die eigene Grandiosität sterben. Die Größe des Verlusts beweist nicht die Wahrheit des Adressaten. Christliche Unterscheidung verlangt, das Verhältnis zur Wahrheit, zur Freiheit des anderen, zur Verantwortung und zu Christus selbst zu betrachten.
 
@@ -278,7 +278,7 @@ Fortwährende Prüfung bedeutet dabei keine chronische psychische Destabilisieru
 
 ### Gemeinschaft statt gegenseitiger Bestätigung
 
-Ontologische Kommunikation beginnt dort, wo der andere mir nicht nur Informationen mitteilen, sondern die Grundlagen meines Verständnisses verändern kann. Ich erkenne an, dass er nicht als Figur meines Weltbildes existiert. Seine Antwort kann etwas aufdecken, das meine Karte nicht umfasst.
+Ontologische Kommunikation beginnt dort, wo die Begegnung mit dem anderen nicht nur neue Informationen vermittelt, sondern auch die Grundlagen des eigenen Verständnisses verändern kann. Dazu muss die eigenständige Wirklichkeit des Gegenübers anerkannt werden, die sich nicht auf dessen Platz im eigenen Weltbild reduzieren lässt. Die Antwort des anderen kann etwas aufdecken, das diese Karte nicht umfasst.
 
 Für CTM ist dies sowohl in der Beziehung zu Gott als auch in der Beziehung zum Menschen wesentlich. Gemeinschaft lässt sich nicht auf die Intensität von Erlebnissen oder auf Übereinstimmung reduzieren. Selbst ein Konflikt kann zum Ereignis der Begegnung werden, wenn die Beteiligten ihre Gründe der Prüfung öffnen. Umgekehrt kann Einmütigkeit aus dem systematischen Ausschluss Andersdenkender entstehen.
 
@@ -298,7 +298,7 @@ CTM ermöglicht eine strenge Frage an den Gehorsam: Befähigt er den Menschen zu
 
 Der Unterschied lässt sich weder am Wort „Gehorsam“ noch an der bloßen Tatsache einer Beschränkung feststellen. Zu klären ist, ob Prüfung, Verantwortung, die Möglichkeit, eine Diskrepanz anzuzeigen, und die Anerkennung der Machtgrenzen des Leiters erhalten bleiben. Eine Institution kann sich nicht zum letzten Adressaten der Umadressierung erklären und sich das Handeln Gottes aneignen.
 
-Darin besteht die radikalste ekklesiologische Frage von CTM: Bringt das kirchliche Leben Menschen hervor, die Gott selbst antworten können? Ihre Radikalität verlangt keine Verneinung der Institution. Vielmehr verlangt sie von der Institution, ihre Treue zu der Bestimmung zu zeigen, um derentwillen sie besteht.
+Eine der zentralen ekklesiologischen Fragen von CTM lässt sich daher so formulieren: Bringt das kirchliche Leben Menschen hervor, die Gott selbst antworten können? Diese Fragestellung verlangt keine Verneinung der Institution. Sie verlangt von der Institution, ihre Treue zu der Bestimmung zu zeigen, um derentwillen sie besteht.
 
 ## 12 Eschatologie und Offenheit der Geschichte
 
@@ -456,7 +456,7 @@ Das Argument des Realismus lässt sich so rekonstruieren: Irrtum ist nur sinnvol
 
 Dieses Argument stützt einen minimalen Realismus und die Forderung nach Korrektur. Für sich genommen beweist es jedoch noch nicht, dass die Realität insgesamt einen persönlichen Grund oder einen einzigen endgültigen Sinn besitzt. Der Übergang von einer unabhängigen Begrenzung zum Logos erfordert zusätzliche Prämissen.
 
-Der stärkste Einwand besteht nicht in der Verneinung jeder Wirklichkeit. Er lautet: Warum kann die Anerkennung fehlbarer Karten nicht mit begrenzten, revidierbaren Kriterien ohne einen einzigen maximalen Grund vereinbar sein? Die Antwort von CTM verweist auf den Regress der Kriterien und die Gefahr, etwas Partielles zu verabsolutieren. Um die Auseinandersetzung zu entscheiden, muss gezeigt werden, warum dieser Regress gerade einen persönlichen Grund erfordert und wie die menschliche Hinwendung zu ihm vermeidet, das eigene Gottesbild in eine weitere, vor Prüfung geschützte Karte zu verwandeln.
+Ein wesentlicher Einwand besteht nicht in der Verneinung jeder Wirklichkeit. Er lautet: Warum kann die Anerkennung fehlbarer Karten nicht mit begrenzten, revidierbaren Kriterien ohne einen einzigen maximalen Grund vereinbar sein? Die Antwort von CTM verweist auf den Regress der Kriterien und die Gefahr, etwas Partielles zu verabsolutieren. Um die Auseinandersetzung zu entscheiden, muss gezeigt werden, warum dieser Regress gerade einen persönlichen Grund erfordert und wie die menschliche Hinwendung zu ihm vermeidet, das eigene Gottesbild in eine weitere, vor Prüfung geschützte Karte zu verwandeln.
 
 ### Ist menschliche Autorschaft bewiesen?
 
@@ -550,7 +550,7 @@ Ein vierter Test wäre die Anwendung auf kirchliche oder pädagogische Praxis mi
 
 ### Der zentrale Schluss
 
-Die knappste gehaltvolle Rekonstruktion von CTM lautet: Der Mensch empfängt sein Sein, ist aber berufen, selbst zu antworten; eine eigene Antwort verlangt die Unterscheidung zwischen Realität und eigener Karte, die Übernahme der Folgen und Offenheit für Korrektur; das Christentum erschließt den letzten Grund dieser Antwort im dreieinigen Gott und ihre Bestimmung in ewiger Gemeinschaft; geschichtliche Formen sind danach zu beurteilen, ob sie eine solche Antwort ermöglichen.
+Die zentrale These von CTM lässt sich wie folgt rekonstruieren: Der Mensch empfängt sein Sein, ist aber berufen, selbst zu antworten; eine eigene Antwort verlangt die Unterscheidung zwischen Realität und eigener Karte, die Übernahme der Folgen und Offenheit für Korrektur; das Christentum erschließt den letzten Grund dieser Antwort im dreieinigen Gott und ihre Bestimmung in ewiger Gemeinschaft; geschichtliche Formen sind danach zu beurteilen, ob sie eine solche Antwort ermöglichen.
 
 Dies ist eine zusammenhängende und gehaltvolle Forschungsposition. Ihre Stärke verlangt nicht, sämtliche metaphysischen Übergänge bereits für bewiesen, die Theorie der Synergie für abgeschlossen oder die gesamte Methode für empirisch bestätigt zu erklären. Vielmehr setzt die eigene Forderung von CTM, der Realität das Recht zu lassen, die Karte zu verändern, einen angemessenen Maßstab für die weitere Arbeit am Projekt selbst.
 

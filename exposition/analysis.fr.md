@@ -1,6 +1,6 @@
 # Philosophie et théologie du projet CTM
 
-Présentation systématique accessible et analyse critique des trois volumes du projet « Aux chrétiens du troisième millénaire » du hiérodiacre Pantéléimon Adzhindzhal
+Présentation systématique accessible et analyse critique des trois volumes du projet « Aux chrétiens du troisième millénaire » du hiérodiacre Pantéléimon (Adzhindzhal)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Cette question donne naissance à tout un programme de recherche. CTM demande d�
 
 Les dimensions philosophique et théologique sont ici liées par leur contenu. La philosophie examine les conditions de la réponse humaine et les limites de l’autofondation. La théologie explicite cette réponse comme relation au Dieu trinitaire, ouverte par l’incarnation, la Croix et la résurrection du Christ. La méthodologie ramène la réflexion à la vie concrète : quelle capacité humaine une pratique qui se déclare chrétienne, éducative, étatique ou émancipatrice produit-elle effectivement ?
 
-Je vois la principale réussite du projet dans l’articulation de trois questions que l’on peut aisément traiter séparément : à partir de quoi l’homme vit-il, peut-il répondre lui-même, et quelles conditions sociales rendent cette réponse possible ? La difficulté majeure tient à la démonstration des passages entre ces questions. L’impossibilité d’une autofondation absolue exige encore un passage distinct vers le Dieu personnel ; l’analogie structurelle avec la Trinité doit être éprouvée ; un diagnostic solide de la pratique humaine ne prouve pas le salut.
+L’un des apports importants du projet est l’articulation de trois questions souvent traitées séparément : à partir de quoi l’homme vit-il, peut-il devenir l’auteur de sa propre réponse, et quelles conditions sociales rendent cette réponse possible ? La difficulté majeure tient à la démonstration des passages entre ces questions. L’impossibilité d’une autofondation absolue exige encore un passage distinct vers le Dieu personnel ; l’analogie structurelle avec la Trinité doit être éprouvée ; un diagnostic solide de la pratique humaine ne prouve pas le salut.
 
 La présentation qui suit part de l’intuition initiale, expose l’appareil philosophique, puis aborde la théologie, les questions sociales et la méthodologie. La partie critique examine des arguments précis, en maintenant la distinction entre ce que l’auteur affirme et le degré de justification de cette affirmation. Les références abrégées entre crochets renvoient aux volumes et aux sections indiqués à la fin. Les exemples pédagogiques appartiennent à la présente analyse et ne sont pas présentés comme des cas étudiés par l’auteur de CTM.
 
@@ -46,7 +46,7 @@ CTM distingue donc la Réalité de la carte. La carte est nécessaire : sans sé
 
 Dans le volume I, la vérité est décrite à travers la reconnaissance de la Réalité. Il s’agit de la différence entre « je sais que cela s’est produit » et « j’accepte de construire la suite de ma vie en tenant compte de ce qui s’est produit ». Un homme peut reconnaître une défaite dans la conversation tout en continuant de prendre des décisions comme si elle n’avait pas eu lieu. Le savoir n’est pas encore devenu fondement de l’action.
 
-Cela élargit la question de la vérité sans supprimer l’exactitude des énoncés. Si les faits sont faux, la volonté de vivre « selon la vérité » peut n’être que la fidélité cohérente à une erreur. Une lecture forte de CTM associe donc la vérifiabilité des jugements à la disposition existentielle à en accepter les conséquences. Dans le volume III, cette association est protégée par l’exigence de distinguer fait, interprétation, norme, projet et prévision.
+Cela élargit la question de la vérité sans supprimer l’exactitude des énoncés. Si les faits sont faux, la volonté de vivre « selon la vérité » peut n’être que la fidélité cohérente à une erreur. Dans l’interprétation proposée ici, CTM associe donc la vérifiabilité des jugements à la disposition existentielle à en accepter les conséquences. Dans le volume III, cette association est protégée par l’exigence de distinguer fait, interprétation, norme, projet et prévision.
 
 C’est ici qu’intervient la notion d’information de non-correspondance. Il s’agit d’une information qui révèle un écart entre la réalité et le modèle opérant, entre l’échelle d’une tâche et les possibilités d’un outil, entre la fonction déclarée et le résultat. Elle n’apporte pas toujours une solution toute faite. Parfois, son seul contenu fiable est que la manière antérieure d’agir ne peut plus être tenue pour justifiée.
 
@@ -80,7 +80,7 @@ Répondre ne signifie pas produire une nouveauté arbitraire. Un acte inhabituel
 
 Dans les volumes II–III, la subjectalité est distinguée de la vérité morale de la réponse. Un homme peut commencer de lui-même un projet destructeur. Il peut être intelligent, cohérent, entreprenant et responsable dans un sens limité, tout en dirigeant ces capacités contre autrui. La force de l’autorat n’atteste pas la justesse de son fondement.
 
-Cette distinction est également nécessaire à la compréhension de l’image de Dieu. La possibilité de répondre ne disparaît pas automatiquement lorsqu’une réponse est fausse ; sinon, la responsabilité du mal deviendrait incompréhensible. Il faut distinguer la présence d’une capacité, son actualisation effective et la qualité de son orientation. Plusieurs formulations du volume I emploient cependant « subjectalité » dans un sens plus exigeant et chargé de normativité : comme rapport déjà juste à la Réalité. C’est un changement d’accent important, auquel nous reviendrons dans la partie critique. [III, §§11–13, 125 ; II, « Ontogenèse de la subjectalité », §15.]
+Cette distinction est également nécessaire à la compréhension de l’image de Dieu. La possibilité de répondre ne disparaît pas automatiquement lorsqu’une réponse est fausse ; sinon, la responsabilité du mal deviendrait incompréhensible. Il faut distinguer la présence d’une capacité, son actualisation effective et la qualité de son orientation. Plusieurs formulations du volume I emploient cependant « subjectalité » dans un sens plus exigeant et chargé de normativité : comme rapport déjà juste à la Réalité. C’est un changement d’accent important, qui est examiné dans la partie critique. [III, §§11–13, 125 ; II, « Ontogenèse de la subjectalité », §15.]
 
 ## 4 Autonomie et réadressage ontologique
 
@@ -148,7 +148,7 @@ La « Genèse de la subjectalité » examine les conditions d’apparition de la
 
 Le point de départ est la présomption d’une détermination signifiante de la Réalité : la différence entre correspondance et non-correspondance existe et peut être découverte. Du côté humain, il faut une réceptivité à la liberté et la possibilité de dépasser ce qui est déjà accompli. Mais le « goût de la liberté » peut, à lui seul, se transformer en arbitraire. Il faut le relier à l’acceptation de la réalité, à une herméneutique de la responsabilité, à l’orientation vers le Fondement maximal et à la disposition à être éprouvé.
 
-S’accepter soi-même ne signifie pas, dans ce processus, être satisfait de soi. L’homme accepte le porteur de son histoire pour devenir capable de la poursuivre et de la transformer. L’identité se forme comme continuité de la réponse : en changeant, je peux reconnaître mon acte passé comme mien, en corriger les conséquences et ne pas attribuer mon passé à un étranger que j’aurais prétendument été autrefois.
+S’accepter soi-même ne signifie pas, dans ce processus, être satisfait de soi. L’homme accepte le porteur de son histoire pour devenir capable de la poursuivre et de la transformer. L’identité se forme comme continuité de la réponse : tout en changeant, la personne peut reconnaître son acte passé comme sien, en corriger les conséquences et ne pas attribuer son passé à un étranger qu’elle aurait prétendument été autrefois.
 
 La subjectalité ontique — capacité d’agir et de répondre dans un monde concret — constitue la base nécessaire des niveaux ultérieurs. On ne peut la sauter pour accéder directement à une mission universelle. Si quelqu’un parle au nom du destin de l’humanité mais se dérobe systématiquement à des obligations simples, l’ampleur de sa déclaration ne dit encore rien de la qualité de sa subjectalité. [II, « Genèse de la subjectalité » ; « Ontogenèse de la subjectalité », §§1–9.]
 
@@ -214,11 +214,11 @@ La formule « Christ bin », qui traverse le volume I, exprime la radicalité de
 
 ### Signification absolue sans absoluité de l’être
 
-L’une des formulations les plus riches du volume II distingue l’absoluité de Dieu de la signification absolue de la personne pour Dieu. L’homme est fini et créé. Mais sa finitude ne signifie pas qu’il soit remplaçable ni qu’il puisse être sacrifié comme matériau consommable à une totalité impersonnelle.
+Le volume II distingue l’absoluité de Dieu de la signification absolue de la personne pour Dieu. L’homme est fini et créé. Mais sa finitude ne signifie pas qu’il soit remplaçable ni qu’il puisse être sacrifié comme matériau consommable à une totalité impersonnelle.
 
 La promesse chrétienne de la vie éternelle concerne l’homme concret, et non seulement la conservation des informations le concernant, de sa contribution sociale ou du type humain général. La question de la personne reçoit ainsi une profondeur eschatologique : qu’est-ce qui permet à cet homme précis de conserver son identité dans la communion définitive avec Dieu ?
 
-CTM propose ici un fondement théologique puissant de l’irremplaçabilité. Mais affirmer qu’aucun autre fondement philosophique de cette irremplaçabilité n’est possible serait une thèse distincte et plus large. La force de la solution chrétienne ne suffit pas à l’établir : il faut examiner les arguments concurrents. [II, « Subjectalité eschatologique », §§11–12.]
+Dans le cadre de ses présupposés chrétiens, CTM propose ici un fondement théologique de l’irremplaçabilité. Mais affirmer qu’aucun autre fondement philosophique de cette irremplaçabilité n’est possible serait une thèse distincte et plus large. La force de la solution chrétienne ne suffit pas à l’établir : il faut examiner les arguments concurrents. [II, « Subjectalité eschatologique », §§11–12.]
 
 ## 9 Incarnation Croix et résurrection
 
@@ -232,7 +232,7 @@ Cela limite également le rapport négatif à l’ontique. Si le Fils assume le 
 
 ### La Croix comme épreuve du fondement
 
-La Croix occupe une place centrale dans CTM parce qu’elle sépare la fidélité à la vérité de la garantie de sa propre réussite. Si seul est tenu pour vrai ce qui préserve ma force, mon prestige et ma sécurité, je demeure moi-même le fondement ultime. La pratique de la Croix signifie la possibilité de renoncer à cette condition.
+La Croix occupe une place centrale dans CTM parce qu’elle sépare la fidélité à la vérité de la garantie de sa propre réussite. Si une personne ne tient pour vrai que ce qui préserve sa force, son prestige et sa sécurité, elle continue de se considérer comme son propre fondement ultime. La pratique de la Croix signifie la possibilité de renoncer à cette condition.
 
 Mais tout sacrifice ne devient pas chrétien. Un homme peut mourir pour un projet faux, sous la contrainte d’autrui ou au service de sa propre démesure. L’ampleur de la perte ne prouve pas la vérité du destinataire. Le discernement chrétien demande d’examiner le rapport à la vérité, à la liberté d’autrui, à la responsabilité et au Christ lui-même.
 
@@ -278,7 +278,7 @@ La vérification constante n’implique pourtant pas une déstabilisation psycho
 
 ### La communion plutôt que la confirmation mutuelle
 
-La communication ontologique commence là où autrui peut non seulement me transmettre des informations, mais transformer les fondements de ma compréhension. Je reconnais qu’il n’existe pas comme personnage de ma vision du monde. Sa réponse peut révéler ce que ma carte ne contient pas.
+La communication ontologique commence là où la rencontre d’autrui peut non seulement apporter de nouvelles informations, mais aussi transformer les fondements de la compréhension d’une personne. Cela exige de reconnaître la réalité propre de l’interlocuteur, irréductible à sa place dans la vision du monde de cette personne. La réponse d’autrui peut révéler ce que cette carte ne contient pas.
 
 Pour CTM, cela importe autant dans le rapport à Dieu que dans le rapport à l’homme. La communion ne se réduit ni à l’intensité des expériences ni à l’accord. Même un conflit peut devenir événement de rencontre si les participants admettent l’examen de leurs fondements. Inversement, l’unanimité peut résulter de l’exclusion systématique des dissidents.
 
@@ -298,7 +298,7 @@ CTM permet de soumettre l’obéissance à une question rigoureuse : rend-elle l
 
 On ne peut établir cette différence à partir du seul mot « obéissance » ou du seul fait d’une restriction. Il faut déterminer si subsistent la vérification, la responsabilité, la possibilité de signaler une non-correspondance et la reconnaissance des limites de l’autorité du guide. L’institution ne peut se déclarer destinataire ultime du réadressage ni s’approprier l’action de Dieu.
 
-C’est la question ecclésiologique la plus radicale de CTM : la vie ecclésiale produit-elle des hommes capables de répondre eux-mêmes à Dieu ? Sa radicalité n’exige pas de nier l’institution. Elle exige au contraire que celle-ci montre sa fidélité à la destination pour laquelle elle existe.
+L’une des questions ecclésiologiques centrales de CTM peut ainsi être formulée : la vie ecclésiale produit-elle des hommes capables de répondre eux-mêmes à Dieu ? Cette manière de poser la question n’exige pas de nier l’institution. Elle exige que celle-ci montre sa fidélité à la destination pour laquelle elle existe.
 
 ## 12 Eschatologie et ouverture de l’histoire
 
@@ -456,7 +456,7 @@ On peut reconstruire ainsi l’argument réaliste : l’erreur n’a de sens que
 
 Cet argument soutient un réalisme minimal et l’exigence de correction. Mais il ne prouve pas encore à lui seul que la Réalité dans son ensemble possède un fondement personnel ou un sens définitif unique. Le passage d’une contrainte indépendante au Logos requiert des prémisses supplémentaires.
 
-L’objection la plus forte ne consiste pas à nier toute réalité. Elle demande pourquoi la reconnaissance du caractère faillible des cartes ne pourrait pas s’accorder avec des critères limités et révisables, sans Fondement maximal unique. CTM répond en invoquant la régression des critères et le danger d’absolutiser le partiel. Pour trancher le débat, il faut montrer pourquoi cette régression exige précisément un fondement personnel, et comment le recours humain à celui-ci évite de transformer sa propre image de Dieu en une nouvelle carte soustraite à la vérification.
+Une objection importante ne consiste pas à nier toute réalité. Elle demande pourquoi la reconnaissance du caractère faillible des cartes ne pourrait pas s’accorder avec des critères limités et révisables, sans Fondement maximal unique. CTM répond en invoquant la régression des critères et le danger d’absolutiser le partiel. Pour trancher le débat, il faut montrer pourquoi cette régression exige précisément un fondement personnel, et comment le recours humain à celui-ci évite de transformer sa propre image de Dieu en une nouvelle carte soustraite à la vérification.
 
 ### L’autorat humain est-il démontré
 
@@ -550,7 +550,7 @@ Un quatrième test serait l’application à une pratique ecclésiale ou éducat
 
 ### La conclusion centrale
 
-La reconstruction la plus ramassée de CTM est la suivante : l’homme reçoit l’être mais est appelé à répondre lui-même ; une réponse propre exige la distinction entre la Réalité et sa carte, l’acceptation des conséquences et l’ouverture à la correction ; le christianisme révèle le fondement ultime de cette réponse dans le Dieu trinitaire et sa destination dans la communion éternelle ; les formes historiques doivent être évaluées selon qu’elles rendent cette réponse possible.
+La thèse centrale de CTM peut être reconstruite ainsi : l’homme reçoit l’être mais est appelé à répondre lui-même ; une réponse propre exige la distinction entre la Réalité et sa carte, l’acceptation des conséquences et l’ouverture à la correction ; le christianisme révèle le fondement ultime de cette réponse dans le Dieu trinitaire et sa destination dans la communion éternelle ; les formes historiques doivent être évaluées selon qu’elles rendent cette réponse possible.
 
 C’est une position de recherche cohérente et substantielle. Sa force n’exige pas que l’on déclare tous les passages métaphysiques déjà démontrés, la théorie de la synergie achevée ou toute la méthode empiriquement confirmée. Au contraire, l’exigence propre à CTM de préserver le droit de la Réalité à modifier la carte fournit une norme appropriée pour poursuivre le travail sur le projet lui-même.
 
