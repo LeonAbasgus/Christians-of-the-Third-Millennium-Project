@@ -56,3 +56,14 @@ CTM III DOI: https://doi.org/10.5281/zenodo.22819373
 https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-Project
 https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-II
 https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-III
+
+## Non-canonical exposition and critical analysis
+
+Reader’s guide prepared with ChatGPT from the Russian CTM I–III corpus. Its interpretations, examples and criticisms are not additions to the canon and must not be attributed to the project author as doctrinal statements. Russian is the original of this analysis; EN/DE/FR/EL/SR are full translations.
+
+Русский: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/exposition/ru/
+English: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/exposition/en/
+Deutsch: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/exposition/de/
+Français: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/exposition/fr/
+Ελληνικά: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/exposition/el/
+Српски: https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/exposition/sr/
