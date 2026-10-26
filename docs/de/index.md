@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CTM: Konzeptuelle Architektur und Forschungsprogramm"
+title: "CDJ: Konzeptuelle Architektur und Forschungsprogramm"
 lang: de
 canonical: /de/
 description: "KANONISCHES METADOKUMENT v1.1 — Endgültige deutsche Ausgabe."
@@ -14,17 +14,17 @@ hreflang:
   - {lang: x-default, url: /en/}
 ---
 
-# CTM: Konzeptuelle Architektur und Forschungsprogramm
+# CDJ: Konzeptuelle Architektur und Forschungsprogramm
 
 **Leon Adzhindzhal / Hierodiakon Panteleimon**
 
-**Projekt:** *An die Christen des dritten Jahrtausends (CTM)*  
+**Projekt:** *An die Christen des dritten Jahrtausends (CDJ)*  
 **Dokumentstatus:** **KANONISCHES METADOKUMENT v1.1**  
 **Ausgabe:** Endgültige deutsche Ausgabe  
-**Funktion:** maschinenlesbare konzeptuelle Karte und autoriale Normalisierung von CTM I–III  
+**Funktion:** maschinenlesbare konzeptuelle Karte und autoriale Normalisierung von CDJ I–III  
 **Sprache:** Deutsch
 
-**Prioritätsprinzip:** Spätere explizite methodologische Formulierungen in CTM III bestimmen dort den gegenwärtigen methodologischen Gebrauch, wo sie frühere Formulierungen präzisieren, ohne die konzeptuelle Genealogie von CTM I–II rückwirkend umzuschreiben.
+**Prioritätsprinzip:** Spätere explizite methodologische Formulierungen in CDJ III bestimmen dort den gegenwärtigen methodologischen Gebrauch, wo sie frühere Formulierungen präzisieren, ohne die konzeptuelle Genealogie von CDJ I–II rückwirkend umzuschreiben.
 
 ## Redaktionsprotokoll
 
@@ -32,17 +32,17 @@ hreflang:
 
 Jede inhaltliche Aussage in diesem Metadokument besitzt einen von drei Provenienzstatus.
 
-**KORPUS / KANONISCH** — ausdrücklich in CTM I–III vorhanden oder durch diese unmittelbar festgestellt.
+**KORPUS / KANONISCH** — ausdrücklich in CDJ I–III vorhanden oder durch diese unmittelbar festgestellt.
 
 **AUTORIALE NORMALISIERUNG** — eine spätere Präzisierung, die Fragen der Terminologie, der konzeptuellen Identität, der Priorität oder des gegenwärtigen technischen Gebrauchs klärt, ohne ein neues Forschungsprogramm einzuführen.
 
-**PROGRAMMATISCHE EXPLIKATION** — eine ausdrückliche Bezeichnung oder Synthese, die vom Autor auf der Metaebene für eine in CTM I–III materiell entwickelte Forschungsrichtung eingeführt wird, dort jedoch nicht in dieser Form benannt ist.
+**PROGRAMMATISCHE EXPLIKATION** — eine ausdrückliche Bezeichnung oder Synthese, die vom Autor auf der Metaebene für eine in CDJ I–III materiell entwickelte Forschungsrichtung eingeführt wird, dort jedoch nicht in dieser Form benannt ist.
 
 Wenn einer Aussage nicht mit hinreichender Sicherheit einer dieser Status zugewiesen werden kann, gehört sie nicht in dieses Metadokument.
 
 ### Nicht-Erweiterungsregel
 
-> **Wenn eine Aussage CTM erweitert, anstatt eine bereits entwickelte Struktur zu identifizieren, zu normalisieren oder ausdrücklich zu explizieren, gehört sie nicht in dieses Metadokument.**
+> **Wenn eine Aussage CDJ erweitert, anstatt eine bereits entwickelte Struktur zu identifizieren, zu normalisieren oder ausdrücklich zu explizieren, gehört sie nicht in dieses Metadokument.**
 
 ### Historische Nicht-Retroaktivität
 
@@ -52,7 +52,7 @@ Frühere Formulierungen bleiben Teil der Genealogie der Begriffe, zu deren Entst
 
 ### Unterordnung des Graphen
 
-Das Begriffsregister wird aus diesem Metadokument und aus CTM I–III abgeleitet.
+Das Begriffsregister wird aus diesem Metadokument und aus CDJ I–III abgeleitet.
 
 Keine maschinenlesbare Relation — einschließlich `depends_on`, `part_of`, `supersedes`, `derived_from`, `enables` oder `related_to` — darf eine konzeptuelle Beziehung erzeugen, die nicht bereits durch den Korpus festgestellt oder durch dieses Metadokument ausdrücklich autorisiert worden ist.
 
@@ -60,13 +60,13 @@ Keine maschinenlesbare Relation — einschließlich `depends_on`, `part_of`, `su
 
 ---
 
-# 1. Was CTM ist
+# 1. Was CDJ ist
 
 **Provenienz: AUTORIALE NORMALISIERUNG + KORPUS / KANONISCH**
 
-**An die Christen des dritten Jahrtausends (CTM)** ist ein philosophisch-theologisches Projekt, das sich zu einer **generativen Forschungsplattform** entwickelt hat, in deren Zentrum das Problem menschlicher Subjekthaftigkeit steht: ihre Entstehung, Architektur, Verwirklichung, Verteilung, Transformation, historische Produktivität und eschatologische Ausrichtung.
+**An die Christen des dritten Jahrtausends (CDJ)** ist ein philosophisch-theologisches Projekt, das sich zu einer **generativen Forschungsplattform** entwickelt hat, in deren Zentrum das Problem menschlicher Subjekthaftigkeit steht: ihre Entstehung, Architektur, Verwirklichung, Verteilung, Transformation, historische Produktivität und eschatologische Ausrichtung.
 
-CTM begann nicht als Versuch, ein abgeschlossenes allgemeines philosophisches System zu konstruieren. Seine konzeptuelle Architektur entstand schrittweise aus theologischer, ontologischer, anthropologischer, historischer und methodologischer Forschung.
+CDJ begann nicht als Versuch, ein abgeschlossenes allgemeines philosophisches System zu konstruieren. Seine konzeptuelle Architektur entstand schrittweise aus theologischer, ontologischer, anthropologischer, historischer und methodologischer Forschung.
 
 **Provenienz: AUTORIALE NORMALISIERUNG**
 
@@ -90,33 +90,33 @@ Dementsprechend:
 
 Innerhalb der gegenwärtigen Architektur sind folgende Ebenen zu unterscheiden:
 
-**CTM** — das Projekt als Ganzes und die aus ihm hervorgegangene generative Forschungsplattform.
+**CDJ** — das Projekt als Ganzes und die aus ihm hervorgegangene generative Forschungsplattform.
 
-**Angewandte Metaphysik des Subjekts** — die ausdrückliche Bezeichnung der in CTM I entwickelten zentralen Untersuchung.
+**Angewandte Metaphysik des Subjekts** — die ausdrückliche Bezeichnung der in CDJ I entwickelten zentralen Untersuchung.
 
-**Genese und Architektur der Subjekthaftigkeit** — eine retrospektive Metabeschreibung des in CTM II entwickelten zentralen Feldes; dies ist nicht der historische Titel des Bandes.
+**Genese und Architektur der Subjekthaftigkeit** — eine retrospektive Metabeschreibung des in CDJ II entwickelten zentralen Feldes; dies ist nicht der historische Titel des Bandes.
 
-**CTM-Analyse** — die in CTM III entwickelte Methodologie zur Rekonstruktion konkreter ontologischer und Subjektarchitekturen.
+**CDJ-Analyse** — die in CDJ III entwickelte Methodologie zur Rekonstruktion konkreter ontologischer und Subjektarchitekturen.
 
-**Vektoranalyse der Subjekthaftigkeit** — der bestimmende analytische Kern der CTM-Analyse.
+**Vektoranalyse der Subjekthaftigkeit** — der bestimmende analytische Kern der CDJ-Analyse.
 
-**Angewandte Metaphysik der Subjekthaftigkeit** — eine neue programmatische Bezeichnung, die auf der Metaebene für das angewandte Forschungsfeld eingeführt wird, das durch die konzeptuelle Entwicklung von CTM I–III sichtbar geworden ist.
+**Angewandte Metaphysik der Subjekthaftigkeit** — eine neue programmatische Bezeichnung, die auf der Metaebene für das angewandte Forschungsfeld eingeführt wird, das durch die konzeptuelle Entwicklung von CDJ I–III sichtbar geworden ist.
 
 Diese Bezeichnungen stehen miteinander in Beziehung, sind jedoch nicht austauschbar.
 
 ---
 
-# 2. Die Entwicklung von CTM I → II → III
+# 2. Die Entwicklung von CDJ I → II → III
 
 **Provenienz: AUTORIALE NORMALISIERUNG auf Grundlage der Entwicklung des KORPUS / KANONISCHEN**
 
-Die Architektur von CTM war nicht im Voraus gegeben. Sie entstand durch aufeinanderfolgende konzeptuelle Erweiterungen und methodologische Neuformulierungen des Ausgangsproblems.
+Die Architektur von CDJ war nicht im Voraus gegeben. Sie entstand durch aufeinanderfolgende konzeptuelle Erweiterungen und methodologische Neuformulierungen des Ausgangsproblems.
 
-## CTM I — Angewandte Metaphysik des Subjekts
+## CDJ I — Angewandte Metaphysik des Subjekts
 
 **Provenienz: KORPUS / KANONISCH**
 
-CTM I bezeichnet seine zentrale Untersuchung ausdrücklich als:
+CDJ I bezeichnet seine zentrale Untersuchung ausdrücklich als:
 
 > **Ein Essay zur angewandten Metaphysik des Subjekts**
 
@@ -126,11 +126,11 @@ Die historische Bezeichnung **Angewandte Metaphysik des Subjekts** muss daher be
 
 Sie darf nicht rückwirkend durch *Angewandte Metaphysik der Subjekthaftigkeit* ersetzt werden.
 
-## CTM II — Genese und Architektur der Subjekthaftigkeit
+## CDJ II — Genese und Architektur der Subjekthaftigkeit
 
 **Provenienz: AUTORIALE NORMALISIERUNG für die Überschrift; KORPUS / KANONISCH für die beschriebene Entwicklung**
 
-CTM II entwickelt systematisch ein bereits in CTM I vorhandenes Problem:
+CDJ II entwickelt systematisch ein bereits in CDJ I vorhandenes Problem:
 
 > **Subjekthaftigkeit ist nicht automatisch gegeben.**
 
@@ -140,29 +140,29 @@ Eine wesentliche Abfolge der Untersuchung kann folgendermaßen dargestellt werde
 
 > **Genese → Qualität der Ontologie → Ontogenese der Subjekthaftigkeit → Eschatologie**
 
-CTM II erweitert den konzeptuellen Apparat darüber hinaus auf historische und soziale Untersuchungen.
+CDJ II erweitert den konzeptuellen Apparat darüber hinaus auf historische und soziale Untersuchungen.
 
-Modernisierung wird ausdrücklich als erste praktische Anwendung von CTM bezeichnet.
+Modernisierung wird ausdrücklich als erste praktische Anwendung von CDJ bezeichnet.
 
 Die Genealogie der Ontologien eröffnet einen weiteren Forschungshorizont, ohne bereits eine abgeschlossene eigenständige Theorie zu bilden.
 
-## CTM III — Methodologische Normalisierung
+## CDJ III — Methodologische Normalisierung
 
 **Provenienz: KORPUS / KANONISCH**
 
-CTM III überführt die im Verlauf der vorausgehenden Entwicklung entstandenen Unterscheidungen in eine reproduzierbare Methodologie zur Rekonstruktion ontologischer und subjektbezogener Architekturen.
+CDJ III überführt die im Verlauf der vorausgehenden Entwicklung entstandenen Unterscheidungen in eine reproduzierbare Methodologie zur Rekonstruktion ontologischer und subjektbezogener Architekturen.
 
 Seine definierende Formel lautet:
 
-> **CTM-Analyse ist die Vektoranalyse von Ebene, Richtung, Träger und Verteilung der Subjekthaftigkeit.**
+> **CDJ-Analyse ist die Vektoranalyse von Ebene, Richtung, Träger und Verteilung der Subjekthaftigkeit.**
 
 Ihr primärer Gegenstand ist nicht die deklarierte Identität eines Phänomens, sondern die Architektur von Antwort und Subjekthaftigkeit, die in ihm tatsächlich hervorgebracht wird.
 
 **Provenienz: AUTORIALE NORMALISIERUNG**
 
-CTM III stellt daher keinen Ersatz für CTM I–II dar, sondern deren methodologische Normalisierung und operationale Weiterentwicklung.
+CDJ III stellt daher keinen Ersatz für CDJ I–II dar, sondern deren methodologische Normalisierung und operationale Weiterentwicklung.
 
-Wo CTM III eine frühere technische Formulierung ausdrücklich präzisiert, bestimmt die spätere Formulierung den gegenwärtigen methodologischen Gebrauch, während die frühere Bestandteil der Genealogie des Begriffs bleibt.
+Wo CDJ III eine frühere technische Formulierung ausdrücklich präzisiert, bestimmt die spätere Formulierung den gegenwärtigen methodologischen Gebrauch, während die frühere Bestandteil der Genealogie des Begriffs bleibt.
 
 ---
 
@@ -174,17 +174,17 @@ Wo CTM III eine frühere technische Formulierung ausdrücklich präzisiert, best
 
 **Angewandte Metaphysik der Subjekthaftigkeit** wird in diesem Metadokument als neue programmatische Bezeichnung eingeführt.
 
-Sie ist materiell aus der konzeptuellen Entwicklung von CTM I–III abgeleitet, ist jedoch weder der historische Titel von CTM I noch wird sie im bestehenden Korpus als etablierter Name einer eigenständigen Disziplin präsentiert.
+Sie ist materiell aus der konzeptuellen Entwicklung von CDJ I–III abgeleitet, ist jedoch weder der historische Titel von CDJ I noch wird sie im bestehenden Korpus als etablierter Name einer eigenständigen Disziplin präsentiert.
 
 ## Genealogie
 
 **Provenienz: KORPUS / KANONISCH + AUTORIALE NORMALISIERUNG**
 
-CTM I entwickelt ausdrücklich eine **Angewandte Metaphysik des Subjekts**.
+CDJ I entwickelt ausdrücklich eine **Angewandte Metaphysik des Subjekts**.
 
-CTM II verschiebt das analytische Zentrum auf Genese, Ontogenese, Architektur, Projektualität, historische Verwirklichung und eschatologische Ausrichtung der **Subjekthaftigkeit**.
+CDJ II verschiebt das analytische Zentrum auf Genese, Ontogenese, Architektur, Projektualität, historische Verwirklichung und eschatologische Ausrichtung der **Subjekthaftigkeit**.
 
-CTM III entwickelt eine Methodologie zur Rekonstruktion **wirkender Ontologien und Subjektarchitekturen** sowie zur Analyse von Ebene, Richtung, Träger und Verteilung der Subjekthaftigkeit.
+CDJ III entwickelt eine Methodologie zur Rekonstruktion **wirkender Ontologien und Subjektarchitekturen** sowie zur Analyse von Ebene, Richtung, Träger und Verteilung der Subjekthaftigkeit.
 
 Die Bezeichnung **Angewandte Metaphysik der Subjekthaftigkeit** benennt das Forschungsfeld, das durch diese Entwicklung sichtbar wird.
 
@@ -210,15 +210,15 @@ Sie rekonstruiert die **wirkende ontologische Architektur**, die im konkreten me
 
 **Provenienz: AUTORIALE NORMALISIERUNG**
 
-Die Angewandte Metaphysik der Subjekthaftigkeit ist nicht mit der CTM-Analyse identisch.
+Die Angewandte Metaphysik der Subjekthaftigkeit ist nicht mit der CDJ-Analyse identisch.
 
-Die CTM-Analyse stellt die entwickelte Methodologie bereit, mit deren Hilfe viele Fragen dieses Forschungsfeldes untersucht werden können.
+Die CDJ-Analyse stellt die entwickelte Methodologie bereit, mit deren Hilfe viele Fragen dieses Forschungsfeldes untersucht werden können.
 
-Die Vektoranalyse der Subjekthaftigkeit bildet den bestimmenden analytischen Kern der CTM-Analyse.
+Die Vektoranalyse der Subjekthaftigkeit bildet den bestimmenden analytischen Kern der CDJ-Analyse.
 
 Somit:
 
-> **Angewandte Metaphysik der Subjekthaftigkeit ≠ CTM-Analyse ≠ Vektoranalyse der Subjekthaftigkeit**
+> **Angewandte Metaphysik der Subjekthaftigkeit ≠ CDJ-Analyse ≠ Vektoranalyse der Subjekthaftigkeit**
 
 Das erste bezeichnet ein programmatisch expliziertes Forschungsfeld.
 
@@ -232,7 +232,7 @@ Das dritte bezeichnet den bestimmenden analytischen Kern dieser Methodologie.
 
 **Provenienz: KORPUS / KANONISCH**
 
-CTM geht von der Unterscheidung aus:
+CDJ geht von der Unterscheidung aus:
 
 > **Realität ≠ Karte**
 
@@ -250,7 +250,7 @@ Eine Karte kann der Realität mehr oder weniger angemessen entsprechen und durch
 
 **Provenienz: AUTORIALE NORMALISIERUNG**
 
-Die Unterscheidung zwischen Realität und Karte macht innerhalb der analytischen Architektur von CTM Verifikation, Korrektur, Lernen und verantwortliche Antwort verständlich.
+Die Unterscheidung zwischen Realität und Karte macht innerhalb der analytischen Architektur von CDJ Verifikation, Korrektur, Lernen und verantwortliche Antwort verständlich.
 
 ---
 
@@ -260,7 +260,7 @@ Die Unterscheidung zwischen Realität und Karte macht innerhalb der analytischen
 
 **Provenienz: KORPUS / KANONISCH**
 
-CTM I definiert Metaphysik in diesem Zusammenhang als die Gesamtheit der Voraussetzungen, durch die ein Subjekt die Realität wahrnimmt und interpretiert.
+CDJ I definiert Metaphysik in diesem Zusammenhang als die Gesamtheit der Voraussetzungen, durch die ein Subjekt die Realität wahrnimmt und interpretiert.
 
 Es bestimmt ausdrücklich die Richtung der Abhängigkeit:
 
@@ -278,7 +278,7 @@ Diese Relation setzt Metaphysik und Ontologie nicht gleich:
 
 **Provenienz: AUTORIALE NORMALISIERUNG**
 
-Im gegenwärtigen CTM-Gebrauch wird der metaphysische Status einer Aussage nicht allein durch ihren Gegenstand oder ihre disziplinäre Herkunft bestimmt, sondern durch die Funktion, die sie bei der Konstruktion einer Ontologie erfüllt.
+Im gegenwärtigen CDJ-Gebrauch wird der metaphysische Status einer Aussage nicht allein durch ihren Gegenstand oder ihre disziplinäre Herkunft bestimmt, sondern durch die Funktion, die sie bei der Konstruktion einer Ontologie erfüllt.
 
 Dementsprechend kann eine Aussage, die auf einer Ebene Ergebnis von Erkenntnis oder Verifikation ist, auf einer anderen Ebene als metaphysische Voraussetzung fungieren.
 
@@ -299,7 +299,7 @@ Schematisch:
 > **M₁ → O**  
 > **M₂ → M₁ → O**
 
-Diese Ausdrücke bezeichnen Begründungsrelationen, nicht chronologische Stadien und nicht die Erste und Zweite Ontologie des CTM.
+Diese Ausdrücke bezeichnen Begründungsrelationen, nicht chronologische Stadien und nicht die Erste und Zweite Ontologie des CDJ.
 
 > **Metaphysik erster/zweiter Ebene ≠ Erste/Zweite Ontologie**
 
@@ -307,7 +307,7 @@ Diese Ausdrücke bezeichnen Begründungsrelationen, nicht chronologische Stadien
 
 **Provenienz: KORPUS / KANONISCH für das Begriffsfeld; AUTORIALE NORMALISIERUNG für die vorliegende Relation**
 
-CTM unterscheidet eine Pluralität und Veränderlichkeit metaphysischer Möglichkeiten und entwickelt den Begriff eines Raums möglicher Metaphysiken.
+CDJ unterscheidet eine Pluralität und Veränderlichkeit metaphysischer Möglichkeiten und entwickelt den Begriff eines Raums möglicher Metaphysiken.
 
 Der **Raum der Metaphysiken** bezeichnet das Feld verfügbarer oder möglicher Konfigurationen metaphysischer Voraussetzungen, durch die unterschiedliche ontologische Architekturen möglich werden können.
 
@@ -327,7 +327,7 @@ Verifikation kann eine Nichtübereinstimmung zwischen Realität und wirkender Ka
 
 **Provenienz: KORPUS / KANONISCH**
 
-Im methodologischen Kontext von CTM III bezeichnet Ontologie weder die akademische Disziplin vom Sein noch ein erschöpfendes metaphysisches Weltbild.
+Im methodologischen Kontext von CDJ III bezeichnet Ontologie weder die akademische Disziplin vom Sein noch ein erschöpfendes metaphysisches Weltbild.
 
 **Wirkende Ontologie** ist die wirkende Architektur der dem Subjekt zugänglichen Realität, innerhalb derer etwas als
 
@@ -351,7 +351,7 @@ Der DIS ist dementsprechend kein Ausschnitt der Realität selbst. Er ist der Rau
 
 **Provenienz: KORPUS / KANONISCH**
 
-CTM III analysiert die wirkende Ontologie durch drei wechselseitig abhängige Dimensionen:
+CDJ III analysiert die wirkende Ontologie durch drei wechselseitig abhängige Dimensionen:
 
 > **DIS × OS × Subjekthaftigkeit**
 
@@ -399,7 +399,7 @@ Somit:
 
 Keine der drei Dimensionen erschöpft für sich allein die wirkende Ontologie.
 
-CTM III stellt damit eine methodologische Präzisierung früherer Formulierungen von CTM II dar, etwa *Ontologie als DIS*, *Ontologie als Betriebssystem* und *Ontologie als Subjekthaftigkeit*.
+CDJ III stellt damit eine methodologische Präzisierung früherer Formulierungen von CDJ II dar, etwa *Ontologie als DIS*, *Ontologie als Betriebssystem* und *Ontologie als Subjekthaftigkeit*.
 
 Die früheren Formulierungen bleiben Teil der Genealogie des Modells.
 
@@ -439,9 +439,9 @@ Das Szenariobuch antwortet nicht anstelle des Subjekts.
 
 **Provenienz: AUTORIALE NORMALISIERUNG der konzeptuellen Genealogie**
 
-Die Formulierung von CTM III bestimmt den gegenwärtigen methodologischen Gebrauch.
+Die Formulierung von CDJ III bestimmt den gegenwärtigen methodologischen Gebrauch.
 
-Die engeren, in CTM II entwickelten Formulierungen bleiben Teil der historischen Genealogie des Begriffs.
+Die engeren, in CDJ II entwickelten Formulierungen bleiben Teil der historischen Genealogie des Begriffs.
 
 ---
 
@@ -460,7 +460,7 @@ Die engeren, in CTM II entwickelten Formulierungen bleiben Teil der historischen
 - anzuhalten;
 - Verantwortung zu übernehmen.
 
-Die Subjektarchitektur ermöglicht CTM den Übergang von Erklärungen über Freiheit, Beteiligung, Autorität und Verantwortung zu deren operationaler Verteilung.
+Die Subjektarchitektur ermöglicht CDJ den Übergang von Erklärungen über Freiheit, Beteiligung, Autorität und Verantwortung zu deren operationaler Verteilung.
 
 Ein System kann Erkennung, Entscheidung, Ausführung, Korrektur, Anhalten, Verantwortung und Kosten auf verschiedene Träger verteilen.
 
@@ -476,17 +476,17 @@ Die Analyse rekonstruiert die **tatsächliche Verteilung der Subjekthaftigkeit**
 
 ---
 
-# 9. CTM-Analyse
+# 9. CDJ-Analyse
 
 **Provenienz: KORPUS / KANONISCH**
 
-**CTM-Analyse** ist die Methodologie zur Rekonstruktion konkreter ontologischer und subjektbezogener Architekturen.
+**CDJ-Analyse** ist die Methodologie zur Rekonstruktion konkreter ontologischer und subjektbezogener Architekturen.
 
 Ihre definierende Formel lautet:
 
-> **CTM-Analyse ist die Vektoranalyse von Ebene, Richtung, Träger und Verteilung der Subjekthaftigkeit.**
+> **CDJ-Analyse ist die Vektoranalyse von Ebene, Richtung, Träger und Verteilung der Subjekthaftigkeit.**
 
-Die CTM-Analyse untersucht nicht lediglich, als was sich ein Phänomen selbst bezeichnet, sondern welche Architektur der Subjekthaftigkeit es tatsächlich hervorbringt und wohin sich diese Architektur bewegt.
+Die CDJ-Analyse untersucht nicht lediglich, als was sich ein Phänomen selbst bezeichnet, sondern welche Architektur der Subjekthaftigkeit es tatsächlich hervorbringt und wohin sich diese Architektur bewegt.
 
 Zu ihren Fragen gehören:
 
@@ -520,7 +520,7 @@ Spätere Evidenz kann eine Rückkehr zu einer früheren analytischen Stufe erfor
 
 **Provenienz: KORPUS / KANONISCH**
 
-Die **Vektoranalyse der Subjekthaftigkeit** ist der bestimmende analytische Kern der CTM-Analyse.
+Die **Vektoranalyse der Subjekthaftigkeit** ist der bestimmende analytische Kern der CDJ-Analyse.
 
 Ihre minimalen kanonischen Koordinaten sind:
 
@@ -540,7 +540,7 @@ Eine ausgearbeitete vektorographische Analyse berücksichtigt außerdem:
 
 ## Ebenen
 
-CTM unterscheidet:
+CDJ unterscheidet:
 
 - **ontisch**;
 - **ontologisch**;
@@ -548,7 +548,7 @@ CTM unterscheidet:
 
 ## Richtungen
 
-CTM unterscheidet:
+CDJ unterscheidet:
 
 - **aufsteigend**;
 - **horizontal**;
@@ -560,7 +560,7 @@ Die Intensität der Mobilisierung stellt für sich genommen keinen aufsteigenden
 
 ## Dynamische Modi
 
-CTM unterscheidet:
+CDJ unterscheidet:
 
 - **plastisch**;
 - **stabilisiert**;
@@ -569,7 +569,7 @@ CTM unterscheidet:
 
 ## Entsprechungsmodi
 
-CTM unterscheidet:
+CDJ unterscheidet:
 
 - **authentisch**;
 - **projektiv**;
@@ -579,7 +579,7 @@ CTM unterscheidet:
 
 Diese Modi beschreiben das Verhältnis zwischen einer deklarierten Funktion und dem tatsächlich hervorgebrachten Subjekthaftigkeitseffekt.
 
-**Provenienz: AUTORIALE NORMALISIERUNG auf Grundlage des ausgearbeiteten Ergebnisses von CTM III**
+**Provenienz: AUTORIALE NORMALISIERUNG auf Grundlage des ausgearbeiteten Ergebnisses von CDJ III**
 
 Das ausgearbeitete Ergebnis der Vektoranalyse wird als **Vektorprofil** dargestellt und nicht auf eine einzige Bewertung oder Bezeichnung reduziert.
 
@@ -597,7 +597,7 @@ Sie lässt sich nicht auf das Vorhandensein von Plänen oder erklärten Zielen r
 
 Sie wird dort analytisch relevant, wo der eigene Beginn des Subjekts die Architektur dessen verändert, was als Nächstes begonnen werden kann.
 
-CTM III formuliert die Unterscheidung in verdichteter Form:
+CDJ III formuliert die Unterscheidung in verdichteter Form:
 
 > **Subjekthaftigkeit — die Fähigkeit zu beginnen und dabei selbst ein Begonnener zu bleiben;**
 
@@ -639,17 +639,17 @@ Diese Begriffe dürfen nicht miteinander verschmolzen werden.
 
 ## Wirkende Ontologie
 
-**Wirkende Ontologie** ist der in CTM III entwickelte methodologische Begriff für die tatsächlich funktionierende Architektur der dem Subjekt zugänglichen Realität.
+**Wirkende Ontologie** ist der in CDJ III entwickelte methodologische Begriff für die tatsächlich funktionierende Architektur der dem Subjekt zugänglichen Realität.
 
 ## Operationale Ontologie
 
-**Operationale Ontologie** ist der in CTM II entwickelte Begriff für die lokale Ontologie, die mit einer differenzierten gesellschaftlichen oder beruflichen Funktion verbunden ist.
+**Operationale Ontologie** ist der in CDJ II entwickelte Begriff für die lokale Ontologie, die mit einer differenzierten gesellschaftlichen oder beruflichen Funktion verbunden ist.
 
 Operationale Ontologien können im Zusammenhang mit spezialisierten Rollen, Praktiken, Institutionen und Tätigkeitsformen entstehen.
 
 ## Betriebssystem
 
-Das **Betriebssystem** ist eine der drei wechselseitig abhängigen Dimensionen, durch welche CTM III die wirkende Ontologie analysiert.
+Das **Betriebssystem** ist eine der drei wechselseitig abhängigen Dimensionen, durch welche CDJ III die wirkende Ontologie analysiert.
 
 Es betrifft die Organisation verfügbarer Operationen in Bezug auf die im DIS repräsentierte Realität.
 
@@ -665,19 +665,19 @@ Diese Unterscheidung ist für den gegenwärtigen technischen deutschen Gebrauch 
 
 **Provenienz: KORPUS / KANONISCH**
 
-CTM II bezeichnet die **Modernisierungstheorie** ausdrücklich als erste praktische Anwendung von CTM.
+CDJ II bezeichnet die **Modernisierungstheorie** ausdrücklich als erste praktische Anwendung von CDJ.
 
-Es stellt außerdem fest, dass der von CTM entwickelte begriffliche Apparat eine generative Fähigkeit besitzt, die über den ursprünglichen Untersuchungsgegenstand hinausreicht.
+Es stellt außerdem fest, dass der von CDJ entwickelte begriffliche Apparat eine generative Fähigkeit besitzt, die über den ursprünglichen Untersuchungsgegenstand hinausreicht.
 
 Die Anwendung auf neue Felder kann neue Gegenstände, neue Forschungsfragen und neue spezialisierte Untersuchungen hervorbringen.
 
 **Provenienz: KORPUS / KANONISCH**
 
-CTM III stellt ausdrücklich fest, dass CTM spezialisierte geistes- und sozialwissenschaftliche Disziplinen nicht ersetzt.
+CDJ III stellt ausdrücklich fest, dass CDJ spezialisierte geistes- und sozialwissenschaftliche Disziplinen nicht ersetzt.
 
 Historiker, Jurist, Soziologe, Psychologe, Ökonom, Theologe und andere Fachwissenschaftler bewahren die Spezifik ihrer eigenen Gegenstände und Methoden.
 
-Die Arbeit von CTM beginnt dort, wo Ergebnisse spezialisierter Disziplinen zu einer gemeinsamen Rekonstruktion der Beziehungen zwischen
+Die Arbeit von CDJ beginnt dort, wo Ergebnisse spezialisierter Disziplinen zu einer gemeinsamen Rekonstruktion der Beziehungen zwischen
 
 > **Realität — Karte — Architektur des Möglichen — Antwort — Verantwortung**
 
@@ -685,9 +685,9 @@ zusammengeführt werden müssen.
 
 Seine metasprachliche Funktion ist daher nicht reduktionistisch.
 
-CTM behauptet nicht, dass alle menschlichen Phänomene „in Wirklichkeit“ eine einzige Substanz wie etwa Subjekthaftigkeit seien.
+CDJ behauptet nicht, dass alle menschlichen Phänomene „in Wirklichkeit“ eine einzige Substanz wie etwa Subjekthaftigkeit seien.
 
-Auf einer anderen analytischen Ebene fragt CTM, welche Architektur von Realität, Antwort, Autorschaft, Verantwortung und Subjekthaftigkeit in einem gegebenen Gegenstand vorhanden ist.
+Auf einer anderen analytischen Ebene fragt CDJ, welche Architektur von Realität, Antwort, Autorschaft, Verantwortung und Subjekthaftigkeit in einem gegebenen Gegenstand vorhanden ist.
 
 **Provenienz: AUTORIALE NORMALISIERUNG**
 
@@ -699,7 +699,7 @@ Sie werden **in diesem Metadokument nicht definiert**.
 
 # 15. Zentrale Nicht-Äquivalenzen
 
-Die folgenden Unterscheidungen schützen die konzeptuelle Architektur von CTM vor semantischer Verschmelzung.
+Die folgenden Unterscheidungen schützen die konzeptuelle Architektur von CDJ vor semantischer Verschmelzung.
 
 ## Durch den Korpus festgestellte Unterscheidungen
 
@@ -743,9 +743,9 @@ Die folgenden Unterscheidungen schützen die konzeptuelle Architektur von CTM vo
 
 > **Angewandte Metaphysik des Subjekts ≠ Angewandte Metaphysik der Subjekthaftigkeit**
 
-> **Angewandte Metaphysik der Subjekthaftigkeit ≠ CTM-Analyse**
+> **Angewandte Metaphysik der Subjekthaftigkeit ≠ CDJ-Analyse**
 
-> **CTM-Analyse ≠ Vektoranalyse der Subjekthaftigkeit**
+> **CDJ-Analyse ≠ Vektoranalyse der Subjekthaftigkeit**
 
 Diese Unterscheidungen bedeuten nicht, dass die jeweiligen Begriffe ohne Beziehung zueinander wären.
 
@@ -759,7 +759,7 @@ Sie verbieten lediglich, sie als austauschbar zu behandeln.
 
 **Provenienz: KORPUS / KANONISCH**
 
-CTM lässt ein negatives analytisches Ergebnis zu.
+CDJ lässt ein negatives analytisches Ergebnis zu.
 
 Das Fehlen der für einen notwendigen Übergang erforderlichen Evidenz berechtigt den Analytiker nicht dazu, diesen Übergang als festgestellt zu behandeln.
 
@@ -775,7 +775,7 @@ Ist der erforderliche Übergang nicht nachgewiesen, bleibt die Verbindung eine H
 
 **Provenienz: KORPUS / KANONISCH für die spezielle Verwendung; AUTORIALE NORMALISIERUNG für die allgemeine Formulierung**
 
-In CTM bezeichnet **fail-closed** die Blockierung einer inferentiellen oder operativen Fortsetzung, wenn eine erforderliche Bedingung der Anwendbarkeit oder eines Übergangs nicht nachgewiesen ist.
+In CDJ bezeichnet **fail-closed** die Blockierung einer inferentiellen oder operativen Fortsetzung, wenn eine erforderliche Bedingung der Anwendbarkeit oder eines Übergangs nicht nachgewiesen ist.
 
 Es bestimmt nicht das alternative Ergebnis.
 
@@ -797,7 +797,7 @@ Es verhindert eine nicht autorisierte Fortsetzung.
 
 **Provenienz: AUTORIALE NORMALISIERUNG**
 
-CTM ist ein sich entwickelndes konzeptuelles Projekt.
+CDJ ist ein sich entwickelndes konzeptuelles Projekt.
 
 Spätere Formulierungen können frühere präzisieren, ohne deren historische Provenienz auszulöschen.
 
@@ -807,23 +807,23 @@ Die leitende Regel lautet:
 
 Zum Beispiel:
 
-**Szenariobuch — Korpusformulierung: CTM II**
+**Szenariobuch — Korpusformulierung: CDJ II**
 
 Eine engere Formulierung, die auf erworbenen Mustern des Unterscheidens, Interpretierens und Handelns beruht.
 
-**Szenariobuch — gegenwärtige methodologische Formulierung: CTM III**
+**Szenariobuch — gegenwärtige methodologische Formulierung: CDJ III**
 
 Ein System von Regeln zur situativen Verknüpfung von DIS, OS und Subjekthaftigkeit zu einer einheitlichen Konfiguration einer verfügbaren Antwort.
 
 Ebenso:
 
-**CTM II**
+**CDJ II**
 
 > Ontologie als DIS  
 > Ontologie als Betriebssystem  
 > Ontologie als Subjekthaftigkeit
 
-**CTM III**
+**CDJ III**
 
 > wirkende Ontologie, analysiert durch **DIS × OS × Subjekthaftigkeit**
 
@@ -831,7 +831,7 @@ Die spätere Formulierung bestimmt den gegenwärtigen methodologischen Gebrauch.
 
 Die frühere Formulierung bleibt Teil der Genealogie des Begriffs.
 
-Version 1.1 stellt die im Korpus etablierte Abhängigkeit zwischen metaphysischen Voraussetzungen und Ontologie wieder her und normalisiert ausdrücklich den funktionalen Status metaphysischer Aussagen sowie die Unterscheidung zwischen Metaphysik erster und zweiter Ebene. Sie schreibt diese letztere Terminologie CTM I–III nicht rückwirkend zu.
+Version 1.1 stellt die im Korpus etablierte Abhängigkeit zwischen metaphysischen Voraussetzungen und Ontologie wieder her und normalisiert ausdrücklich den funktionalen Status metaphysischer Aussagen sowie die Unterscheidung zwischen Metaphysik erster und zweiter Ebene. Sie schreibt diese letztere Terminologie CDJ I–III nicht rückwirkend zu.
 
 ## Metadaten-Versionierung
 
@@ -839,7 +839,7 @@ Version 1.1 stellt die im Korpus etablierte Abhängigkeit zwischen metaphysische
 
 `DefinitionVersion` ist ein Metadateninstrument dieses Metadokuments und des künftigen Begriffsregisters.
 
-Es wird CTM I–III nicht rückwirkend zugeschrieben, sofern ein Versionsstatus nicht ausdrücklich im Korpus selbst vorhanden ist.
+Es wird CDJ I–III nicht rückwirkend zugeschrieben, sofern ein Versionsstatus nicht ausdrücklich im Korpus selbst vorhanden ist.
 
 Eine maschinenlesbare Repräsentation sollte daher unterscheiden:
 
@@ -914,7 +914,7 @@ Dementsprechend:
 
 > **subjekthaft = субъектный**
 
-Diese Unterscheidungen müssen in allen künftigen maschinenlesbaren Repräsentationen von CTM bewahrt werden.
+Diese Unterscheidungen müssen in allen künftigen maschinenlesbaren Repräsentationen von CDJ bewahrt werden.
 
 ---
 
@@ -924,13 +924,13 @@ Diese Unterscheidungen müssen in allen künftigen maschinenlesbaren Repräsenta
 
 **Provenienz: KORPUS / KANONISCH als künftiger Forschungshorizont**
 
-CTM II identifiziert die Genealogie der Ontologien als Eröffnung des Gegenstands einer künftigen:
+CDJ II identifiziert die Genealogie der Ontologien als Eröffnung des Gegenstands einer künftigen:
 
 > **Allgemeinen Theorie ontologischer Architekturen (General Theory of Ontological Architectures, GTOA)**
 
-CTM II skizziert einen möglichen Gegenstandsbereich einer solchen Theorie.
+CDJ II skizziert einen möglichen Gegenstandsbereich einer solchen Theorie.
 
-GTOA ist jedoch **in CTM I–III nicht als eigenständige abgeschlossene Theorie oder Methodologie entwickelt**.
+GTOA ist jedoch **in CDJ I–III nicht als eigenständige abgeschlossene Theorie oder Methodologie entwickelt**.
 
 Das vorliegende Metadokument registriert GTOA daher ausschließlich als künftigen Forschungshorizont.
 
@@ -950,21 +950,21 @@ Keine solche Struktur darf allein aus der prospektiven Bezeichnung abgeleitet we
 
 **Provenienz: AUTORIALE NORMALISIERUNG der verifizierten Architektur**
 
-> **CTM**  
+> **CDJ**  
 > philosophisch-theologisches Projekt → generative Forschungsplattform
 
-> **CTM I**  
+> **CDJ I**  
 > **Angewandte Metaphysik des Subjekts**
 
-> **CTM II**  
+> **CDJ II**  
 > **Genese und Architektur der Subjekthaftigkeit**  
 > *(retrospektive Metabeschreibung, kein Korpustitel)*
 
 > **Gegenwärtige Metaexplikation**  
 > **Angewandte Metaphysik der Subjekthaftigkeit**
 
-> **CTM III**  
-> **CTM-Analyse**
+> **CDJ III**  
+> **CDJ-Analyse**
 
 > **Bestimmender analytischer Kern**  
 > **Vektoranalyse der Subjekthaftigkeit**

@@ -1,32 +1,32 @@
-# Philosophie und Theologie des CTM-Projekts
+# Philosophie und Theologie des CDJ-Projekts
 
 Eine verständliche systematische Darstellung und kritische Analyse der drei Bände des Projekts „An die Christen des dritten Jahrtausends“ von Hierodiakon Panteleimon (Adzhindzhal)
 
 ## Einleitung
 
-CTM untersucht, wie der Mensch zum wirklichen Urheber seines Lebens werden kann, obwohl er weder sich selbst noch die Welt noch die Sprache geschaffen hat, in der er sein Dasein versteht. Die christliche Antwort des Projekts lautet: Der empfangene Charakter des Seins schließt eine eigene Antwort nicht aus. Vielmehr kann die Beziehung zu Gott menschliche Autorschaft ermöglichen und tragfähig machen, ohne den Menschen zu einem souveränen Urgrund zu erheben.
+CDJ untersucht, wie der Mensch zum wirklichen Urheber seines Lebens werden kann, obwohl er weder sich selbst noch die Welt noch die Sprache geschaffen hat, in der er sein Dasein versteht. Die christliche Antwort des Projekts lautet: Der empfangene Charakter des Seins schließt eine eigene Antwort nicht aus. Vielmehr kann die Beziehung zu Gott menschliche Autorschaft ermöglichen und tragfähig machen, ohne den Menschen zu einem souveränen Urgrund zu erheben.
 
-Aus dieser Frage entsteht ein umfassendes Forschungsprogramm. Zunächst fragt CTM, was die Kirche für die Bildung des Menschen leisten soll. Dann untersucht es, wie überhaupt ein Subjekt entsteht, wie seine Wahrnehmung der Wirklichkeit beschaffen ist und warum es sich nicht nur in einzelnen Urteilen, sondern auch in den Grundlagen seines Lebens irren kann. Schließlich entwickelt das Projekt eine Methode zur Analyse von Institutionen und Kollektiven: Wem ermöglichen sie, zu sehen, anzufangen, zu widersprechen, Entscheidungen zu korrigieren und für die Folgen einzustehen?
+Aus dieser Frage entsteht ein umfassendes Forschungsprogramm. Zunächst fragt CDJ, was die Kirche für die Bildung des Menschen leisten soll. Dann untersucht es, wie überhaupt ein Subjekt entsteht, wie seine Wahrnehmung der Wirklichkeit beschaffen ist und warum es sich nicht nur in einzelnen Urteilen, sondern auch in den Grundlagen seines Lebens irren kann. Schließlich entwickelt das Projekt eine Methode zur Analyse von Institutionen und Kollektiven: Wem ermöglichen sie, zu sehen, anzufangen, zu widersprechen, Entscheidungen zu korrigieren und für die Folgen einzustehen?
 
 Der philosophische und der theologische Teil sind hier inhaltlich miteinander verbunden. Die Philosophie untersucht die Bedingungen menschlicher Antwort und die Grenzen der Selbstbegründung. Die Theologie erschließt diese Antwort als Beziehung zum dreieinigen Gott, eröffnet durch die Menschwerdung, das Kreuz und die Auferstehung Christi. Die Methodologie führt die Überlegung in das konkrete Leben zurück: Welche menschliche Fähigkeit bringt eine Praxis tatsächlich hervor, die sich als christlich, bildend, staatlich oder befreiend bezeichnet?
 
 Eine wesentliche Leistung des Projekts besteht in der Verbindung dreier Fragen, die häufig getrennt behandelt werden: Woraus lebt der Mensch, kann er zum Autor seiner eigenen Antwort werden, und welche gesellschaftlichen Bedingungen ermöglichen eine solche Antwort? Die größte Schwierigkeit liegt in der Begründung der Übergänge zwischen diesen Fragen. Von der Unmöglichkeit absoluter Selbstbegründung zum persönlichen Gott ist ein eigener Übergang erforderlich; die strukturelle Analogie zur Trinität bedarf der Prüfung; eine überzeugende Diagnose menschlicher Praxis ist kein Beweis für das Heil.
 
-Die folgende Darstellung führt von der ursprünglichen Einsicht zum philosophischen Begriffsapparat, dann zur Theologie, zur gesellschaftlichen Problematik und zur Methodologie. Der kritische Teil prüft konkrete Argumente und unterscheidet dabei zwischen dem, was der Autor behauptet, und dem Grad seiner Begründung. Kurze Verweise in eckigen Klammern beziehen sich auf die am Ende aufgeführten Bände und Abschnitte. Die erläuternden Beispiele stammen aus dieser Analyse; sie werden nicht als vom Autor des CTM-Projekts untersuchte Fälle ausgegeben.
+Die folgende Darstellung führt von der ursprünglichen Einsicht zum philosophischen Begriffsapparat, dann zur Theologie, zur gesellschaftlichen Problematik und zur Methodologie. Der kritische Teil prüft konkrete Argumente und unterscheidet dabei zwischen dem, was der Autor behauptet, und dem Grad seiner Begründung. Kurze Verweise in eckigen Klammern beziehen sich auf die am Ende aufgeführten Bände und Abschnitte. Die erläuternden Beispiele stammen aus dieser Analyse; sie werden nicht als vom Autor des CDJ-Projekts untersuchte Fälle ausgegeben.
 
 ## 1 Die Ausgangsfrage nach dem Christentum
 
 ### Was der Verlust ontologischer Initiative bedeutet
 
-Die Ausgangsdiagnose von CTM besagt nicht lediglich, dass Christen unzureichend moralisch oder kirchliche Einrichtungen schlecht organisiert seien. Das Problem reicht tiefer: Das Christentum kann Riten, dogmatische Formeln und öffentliche Sichtbarkeit bewahren, aber aufhören, jene Welt zu bestimmen, innerhalb deren der Mensch seine Entscheidungen trifft. Dann sagt ihm die politische Ideologie, wer sein Feind ist; der Markt, was als Erfolg gilt; das psychische Wohlbefinden, was er vermeiden soll; das vertraute Milieu, wonach er nicht fragen darf. Das Christentum nimmt den verbleibenden Platz ein und heiligt eine bereits vorgegebene Bahn.
+Die Ausgangsdiagnose von CDJ besagt nicht lediglich, dass Christen unzureichend moralisch oder kirchliche Einrichtungen schlecht organisiert seien. Das Problem reicht tiefer: Das Christentum kann Riten, dogmatische Formeln und öffentliche Sichtbarkeit bewahren, aber aufhören, jene Welt zu bestimmen, innerhalb deren der Mensch seine Entscheidungen trifft. Dann sagt ihm die politische Ideologie, wer sein Feind ist; der Markt, was als Erfolg gilt; das psychische Wohlbefinden, was er vermeiden soll; das vertraute Milieu, wonach er nicht fragen darf. Das Christentum nimmt den verbleibenden Platz ein und heiligt eine bereits vorgegebene Bahn.
 
 „Ontologische Initiative“ bezeichnet die Fähigkeit, von einem eigenen Verständnis des Menschen, der Wirklichkeit und der letzten Bestimmung des Lebens auszugehen. Gemeint ist kein Monopol auf gesellschaftliche Herrschaft. Christliche Initiative beginnt mit der Frage: Welche Weisen menschlichen Daseins werden durch das Evangelium möglich? Beschränkt sich die Antwort auf Traditionspflege, Trost oder Verhaltensregulierung, bleibt der spezifische Anspruch des Christentums unerschlossen.
 
-CTM verbindet diesen Anspruch mit der Fülle des Menschseins. Christus kommt nicht, um den Menschen als gehorsames Element einer bereits bestehenden Ordnung festzuschreiben. Die Beziehung zu Christus soll seine Fähigkeit verändern, zu sehen, zu verstehen, zu kommunizieren, zu handeln und sich angesichts des Todes zu bewahren. Daher betrachtet das Projekt den Glauben als Seinsweise und das kirchliche Leben als Raum ihrer Bildung. [I, Einleitung zu „Ein Essay zur angewandten Metaphysik des Subjekts“; „Die Ausgangsposition. Einst die ursprüngliche“; „Das Funktionsgefüge der Kirche“.]
+CDJ verbindet diesen Anspruch mit der Fülle des Menschseins. Christus kommt nicht, um den Menschen als gehorsames Element einer bereits bestehenden Ordnung festzuschreiben. Die Beziehung zu Christus soll seine Fähigkeit verändern, zu sehen, zu verstehen, zu kommunizieren, zu handeln und sich angesichts des Todes zu bewahren. Daher betrachtet das Projekt den Glauben als Seinsweise und das kirchliche Leben als Raum ihrer Bildung. [I, Einleitung zu „Ein Essay zur angewandten Metaphysik des Subjekts“; „Die Ausgangsposition. Einst die ursprüngliche“; „Das Funktionsgefüge der Kirche“.]
 
 ### Warum die Frage nach der Funktion der Kirche eine theologische Frage ist
 
-Man könnte CTM irrtümlich als Vorschlag lesen, die Kirche nach Unternehmensmaßstäben zu beurteilen: Wie viele Menschen kamen, wie viele Leistungen wurden erbracht, wie zufrieden sind die Beteiligten? Der Autor stellt eine andere Frage. Wenn Gott, der Logos, als das eigentlich handelnde Gegenüber in den kirchlichen Sakramenten bekannt wird, was bedeutet dies für das menschliche Leben? Wie verhält sich die Teilnahme am Sakrament zur Entwicklung der Logosnatur des Menschen?
+Man könnte CDJ irrtümlich als Vorschlag lesen, die Kirche nach Unternehmensmaßstäben zu beurteilen: Wie viele Menschen kamen, wie viele Leistungen wurden erbracht, wie zufrieden sind die Beteiligten? Der Autor stellt eine andere Frage. Wenn Gott, der Logos, als das eigentlich handelnde Gegenüber in den kirchlichen Sakramenten bekannt wird, was bedeutet dies für das menschliche Leben? Wie verhält sich die Teilnahme am Sakrament zur Entwicklung der Logosnatur des Menschen?
 
 Die funktionale Frage wird innerhalb der Theologie gestellt. Sie verlangt, den Zusammenhang zwischen Bekenntnis und Frucht des kirchlichen Lebens nachzuzeichnen. Ein Mensch kann die richtigen Formeln kennen, aber unfähig sein, Wahrheit von eigener Angst zu unterscheiden. Er kann ein diszipliniertes Gemeindemitglied sein, aber die Verantwortung für alles Geschehen seinem geistlichen Begleiter überlassen. Er kann von Gemeinschaft sprechen und doch ausschließlich Bestätigungen seines eigenen Weltbildes begegnen. Gerade diese Diskrepanzen werden zum Gegenstand der Untersuchung.
 
@@ -36,23 +36,23 @@ Die Beobachtung menschlicher Ergebnisse eröffnet dem Forschenden allerdings kei
 
 ### Die Realität geht dem Menschen voraus
 
-Die erste philosophische These von CTM lautet: Der Mensch findet sich in einer bereits bestehenden Wirklichkeit vor. Sein Leib, seine Geschichte, seine Beziehungen, seine Sprache und seine Möglichkeiten sind nicht ursprünglich sein eigenes Werk. Er tritt in eine Welt ein, die seinen Wünschen widersteht und seine Vorstellungen widerlegen kann. Darin besteht der grundlegende Realismus des Projekts.
+Die erste philosophische These von CDJ lautet: Der Mensch findet sich in einer bereits bestehenden Wirklichkeit vor. Sein Leib, seine Geschichte, seine Beziehungen, seine Sprache und seine Möglichkeiten sind nicht ursprünglich sein eigenes Werk. Er tritt in eine Welt ein, die seinen Wünschen widersteht und seine Vorstellungen widerlegen kann. Darin besteht der grundlegende Realismus des Projekts.
 
 Aus der Unabhängigkeit der Realität folgt jedoch nicht, dass der Mensch sie unmittelbar und vollständig sieht. Zwischen Wirklichkeit und Handlung liegt das vom Menschen angeeignete Weltbild. Zwei Menschen können dieselben Tatsachen kennen und dennoch in verschiedenen Welten leben: Der eine sieht in Kritik eine Korrekturmöglichkeit, der andere einen Angriff auf sein Existenzrecht. Nicht nur die Meinung über einen Sachverhalt unterscheidet sich, sondern auch die Verteilung dessen, was als bedeutsam, gefährlich, zulässig und möglich erscheint.
 
-Deshalb unterscheidet CTM zwischen Realität und Karte. Die Karte ist notwendig: Ohne Auswahl, Unterscheidung und Verknüpfung ist sinnvolles Handeln unmöglich. Gefährlich wird es, wenn die Karte sich zur endgültigen Gesamtheit erklärt und keine Informationen über ihre eigenen Grenzen mehr annimmt. Dann wird Irrtum zur Lebensweise. Der Mensch verteidigt nicht ein einzelnes falsches Urteil, sondern eine Weltordnung, die ihm erlaubt, derjenige zu bleiben, für den er sich hält. [I, „Essay …“, Kap.1; III, Abschnitt II.]
+Deshalb unterscheidet CDJ zwischen Realität und Karte. Die Karte ist notwendig: Ohne Auswahl, Unterscheidung und Verknüpfung ist sinnvolles Handeln unmöglich. Gefährlich wird es, wenn die Karte sich zur endgültigen Gesamtheit erklärt und keine Informationen über ihre eigenen Grenzen mehr annimmt. Dann wird Irrtum zur Lebensweise. Der Mensch verteidigt nicht ein einzelnes falsches Urteil, sondern eine Weltordnung, die ihm erlaubt, derjenige zu bleiben, für den er sich hält. [I, „Essay …“, Kap.1; III, Abschnitt II.]
 
 ### Wahrheit als Verhältnis und als Prüfung
 
 Im I. Band wird Wahrheit über die Anerkennung der Realität beschrieben. Es geht um den Unterschied zwischen „Ich weiß, dass dies geschehen ist“ und „Ich bin bereit, mein weiteres Leben unter Berücksichtigung des Geschehenen zu gestalten“. Ein Mensch kann im Gespräch eine Niederlage anerkennen und weiterhin Entscheidungen treffen, als hätte sie nicht stattgefunden. Das Wissen ist noch nicht zum Handlungsgrund geworden.
 
-Dies erweitert die Wahrheitsfrage, hebt die Genauigkeit von Aussagen aber nicht auf. Sind die Tatsachen falsch, kann die Bereitschaft, „nach der Wahrheit“ zu leben, lediglich die konsequente Befolgung eines Irrtums bedeuten. In der hier vorgeschlagenen Interpretation verbindet CTM deshalb die Überprüfbarkeit von Urteilen mit der existenziellen Bereitschaft, ihre Folgen anzunehmen. Im III. Band wird diese Verbindung durch die Forderung geschützt, Tatsache, Interpretation, Norm, Projekt und Prognose zu unterscheiden.
+Dies erweitert die Wahrheitsfrage, hebt die Genauigkeit von Aussagen aber nicht auf. Sind die Tatsachen falsch, kann die Bereitschaft, „nach der Wahrheit“ zu leben, lediglich die konsequente Befolgung eines Irrtums bedeuten. In der hier vorgeschlagenen Interpretation verbindet CDJ deshalb die Überprüfbarkeit von Urteilen mit der existenziellen Bereitschaft, ihre Folgen anzunehmen. Im III. Band wird diese Verbindung durch die Forderung geschützt, Tatsache, Interpretation, Norm, Projekt und Prognose zu unterscheiden.
 
 Hierher gehört der Begriff der Diskrepanzinformation. Gemeint ist Information, die eine Kluft sichtbar macht: zwischen Wirklichkeit und wirkendem Modell, dem Maßstab einer Aufgabe und den Möglichkeiten eines Instruments, der erklärten Funktion und dem Ergebnis. Sie liefert nicht immer eine fertige Lösung. Manchmal besteht ihr einziger verlässlicher Gehalt darin, dass die bisherige Handlungsweise nicht länger als gerechtfertigt gelten kann.
 
 ### Metaphysik und wirkende Ontologie
 
-In der Sprache von CTM legt Metaphysik die letzten Voraussetzungen fest: Was ist letztlich wirklich, woher kommt Sinn, worauf gründet die Verbindlichkeit der Wahrheit? Die wirkende Ontologie zeigt, wie diese Voraussetzungen in der tatsächlichen Welt des Subjekts Gestalt annehmen: Was unterscheidet es, welche Handlungen kann es vollziehen, wem kommt die Initiative zu?
+In der Sprache von CDJ legt Metaphysik die letzten Voraussetzungen fest: Was ist letztlich wirklich, woher kommt Sinn, worauf gründet die Verbindlichkeit der Wahrheit? Die wirkende Ontologie zeigt, wie diese Voraussetzungen in der tatsächlichen Welt des Subjekts Gestalt annehmen: Was unterscheidet es, welche Handlungen kann es vollziehen, wem kommt die Initiative zu?
 
 Eine Organisation verkündet beispielsweise den Wert des Menschen, ihre Berichterstattung erfasst jedoch ausschließlich die Zahl der Vorgänge. Die ausdrücklich erklärte Metaphysik und die tatsächlich reproduzierte Ontologie fallen auseinander. Im alltäglichen Handeln erscheint der Mensch als Verarbeitungseinheit. Um dies zu ändern, genügt es nicht, die Erklärung zu wiederholen. Verändert werden müssen die Weisen des Sehens, Entscheidens, Bewertens und Verantwortens.
 
@@ -70,7 +70,7 @@ Den eigenen Anfang anzunehmen bedeutet nicht, Gewalt, Unrecht oder Irrtum gutzuh
 
 ### Die Antwort geht der Wahl voraus
 
-Das übliche Freiheitsmodell beginnt mit einem Menü von Möglichkeiten: Der Mensch ist frei, wenn er zwischen A und B wählen kann. CTM richtet die Aufmerksamkeit auf die Herkunft dieses Menüs. Wer hat bestimmt, dass nur A und B möglich sind? Wer hat andere Möglichkeiten ausgeschlossen? Kann der Mensch die Fragestellung verändern?
+Das übliche Freiheitsmodell beginnt mit einem Menü von Möglichkeiten: Der Mensch ist frei, wenn er zwischen A und B wählen kann. CDJ richtet die Aufmerksamkeit auf die Herkunft dieses Menüs. Wer hat bestimmt, dass nur A und B möglich sind? Wer hat andere Möglichkeiten ausgeschlossen? Kann der Mensch die Fragestellung verändern?
 
 Ein Arzt, der zwischen zwei zugelassenen Verfahren wählt, trifft eine wirkliche Wahl. Wenn jedoch keines der beiden Verfahren dem Zustand des Patienten entspricht, ist eine weitere Fähigkeit erforderlich: die geltende Klassifikation infrage zu stellen und ihre Revision zu erreichen. Dies veranschaulicht den Unterschied zwischen einer Wahl innerhalb eines vorgegebenen Raums und einer Antwort, die den Raum des Möglichen verändert.
 
@@ -88,7 +88,7 @@ Diese Unterscheidung ist auch für das Verständnis der Gottebenbildlichkeit not
 
 Im I. Band führt das Werden des Subjekts über Fundierung, Selbstbestimmung, Dekolonisierung der Person und Entwicklung der Autonomie. Fundierung bezeichnet die Annahme der eigenen Position; Dekolonisierung die Befreiung von Vorgaben, die faktisch anstelle des Menschen denken und entscheiden. Autonomie ermöglicht es, die eigene Position unter Druck zu bewahren und einen eigenen Zukunftsentwurf zu entwickeln.
 
-Diese Phase kann nicht durch den äußeren Befehl „Verzichte auf dich selbst“ ersetzt werden. Wenn ein Mensch noch nicht selbst antworten kann, kann der Verzicht auf Selbstständigkeit seine Abhängigkeit von einem anderen Menschen oder einer Institution festigen. Gerade deshalb unterscheidet CTM nachdrücklich zwischen christlicher Umadressierung und totalitärer Unterwerfung.
+Diese Phase kann nicht durch den äußeren Befehl „Verzichte auf dich selbst“ ersetzt werden. Wenn ein Mensch noch nicht selbst antworten kann, kann der Verzicht auf Selbstständigkeit seine Abhängigkeit von einem anderen Menschen oder einer Institution festigen. Gerade deshalb unterscheidet CDJ nachdrücklich zwischen christlicher Umadressierung und totalitärer Unterwerfung.
 
 Im I. Band wird Selbstständigkeit allerdings bis zum Äußersten radikalisiert: Das Subjekt soll versuchen, einen universalen Anspruch aus eigener Kraft aufrechtzuerhalten, und die Unmöglichkeit der Selbstbegründung entdecken. Eine redliche Darstellung dieses Textes kann nicht behaupten, die Forderung, die Autonomie zu durchlaufen, sei vollständig vom Kommentator erfunden. Sie findet sich ausdrücklich im „Essay …“ und im Modell ontologischer Therapie. Die Frage betrifft den genauen Sinn dieser Autonomie. [I, „Essay …“, Kap.2, §§2, 7, 9–11; „Die Kirche als Infrastruktur …“, Punkte 4–7.]
 
@@ -96,7 +96,7 @@ Im I. Band wird Selbstständigkeit allerdings bis zum Äußersten radikalisiert:
 
 Der Mensch kann Urheber eines Projekts sein, sich jedoch nicht zur Ursache seines eigenen Daseins machen, die Endlichkeit aufheben oder den endgültigen Sinn aller Folgen garantieren. Die Ausweitung des Projekts vergrößert die Verantwortung und macht zugleich sichtbar, dass der Anspruch den verfügbaren Kräften nicht entspricht.
 
-Diese Überlegung besitzt einen starken Kern: Praktische Selbstständigkeit ist nicht gleich metaphysische Selbstgenügsamkeit. Aus der Abhängigkeit von Bedingungen folgt nicht, dass der Mensch nicht handelt; aus der Wirklichkeit seines Handelns folgt nicht, dass er von nichts abhängig ist. CTM versucht, beide Seiten zugleich festzuhalten.
+Diese Überlegung besitzt einen starken Kern: Praktische Selbstständigkeit ist nicht gleich metaphysische Selbstgenügsamkeit. Aus der Abhängigkeit von Bedingungen folgt nicht, dass der Mensch nicht handelt; aus der Wirklichkeit seines Handelns folgt nicht, dass er von nichts abhängig ist. CDJ versucht, beide Seiten zugleich festzuhalten.
 
 Die stärkere These des I. Bandes, jedes Subjekt müsse einen tatsächlichen Versuch universaler Selbstbegründung durchlaufen, bedarf einer eigenen Begründung. Es lässt sich fragen, warum ein Mensch nicht von Anfang an Endlichkeit und Verantwortung annehmen kann, ohne absolute Unabhängigkeit zu beanspruchen. Die „Genesis der Subjekthaftigkeit“ im II. Band beginnt gerade mit einer Hermeneutik des Empfangenseins und der Verantwortung. Eine zusammenhängende Lektüre des Korpus muss daher zwischen dem notwendigen Werden der Selbstständigkeit und einer möglichen radikalen Prüfung ihrer Grenze unterscheiden.
 
@@ -120,7 +120,7 @@ Wer den Staatshaushalt für die persönliche Geldbörse des Herrschers hält, ir
 
 ### Das Betriebssystem
 
-Das OS ist die Gesamtheit der Weisen des Umgangs mit der Wirklichkeit. CTM unterscheidet einen rezeptiv-interpretativen, einen projektiv-ausführenden und einen reflexiv-korrigierenden Funktionskreis: wie das Subjekt Informationen aufnimmt und versteht; wie es Handlungen entwirft und ausführt; wie es Folgen bewertet und sich selbst korrigiert.
+Das OS ist die Gesamtheit der Weisen des Umgangs mit der Wirklichkeit. CDJ unterscheidet einen rezeptiv-interpretativen, einen projektiv-ausführenden und einen reflexiv-korrigierenden Funktionskreis: wie das Subjekt Informationen aufnimmt und versteht; wie es Handlungen entwirft und ausführt; wie es Folgen bewertet und sich selbst korrigiert.
 
 Ein Mensch kann ein Problem sehen und über keine Operation verfügen, mit der er es lösen könnte. Eine Organisation kann verlässliche Informationen sammeln, ohne ein Verfahren zu besitzen, mit dem sich nach deren Eingang eine Entscheidung ändern lässt. Auch das Gegenteil ist möglich: Das Verfahren besteht formal, wird aber in einer bestimmten Klasse von Situationen niemals aktiviert. Diese Fälle verlangen unterschiedliche Erklärungen und unterschiedliche Veränderungen.
 
@@ -162,7 +162,7 @@ Der generative Übergang geht weiter. Das Subjekt eignet sich nicht nur eine fer
 
 ### Zwei unabhängige Fähigkeiten
 
-CTM unterscheidet ontologische Kompetenz und sozio-ontische Projektualität. Die erste ermöglicht es, die Gründe, Grenzen und den menschlichen Sinn eines Projekts zu erkennen. Die zweite besteht darin, Organisation, Recht sowie wirtschaftliche und administrative Formen zu schaffen, durch die das Projekt in die Geschichte eintritt.
+CDJ unterscheidet ontologische Kompetenz und sozio-ontische Projektualität. Die erste ermöglicht es, die Gründe, Grenzen und den menschlichen Sinn eines Projekts zu erkennen. Die zweite besteht darin, Organisation, Recht sowie wirtschaftliche und administrative Formen zu schaffen, durch die das Projekt in die Geschichte eintritt.
 
 Ein scharfsinniger Denker muss nicht fähig sein, gemeinsames Handeln zu organisieren. Ein erfolgreicher Organisator kann ein zutiefst falsches Weltbild verwirklichen. Geschichtliche Macht ist folglich kein hinreichender Wahrheitsbeweis, und richtiges Verständnis ist keine hinreichende Bedingung für ein geschichtliches Ergebnis.
 
@@ -172,7 +172,7 @@ Messianische Identität bezeichnet das Verständnis des eigenen Lebens als Beruf
 
 ### Warum Verbundenheit nicht genügt
 
-CTM unterscheidet zwischen dem Bestehen einer Verbindung und sinnvoller Begegnung. Menschen können fortwährend Nachrichten austauschen, Handel treiben und Rollen erfüllen, ohne einander als eigenständige Träger einer Antwort anzuerkennen. Verbundenheit allein lässt Manipulation und Herrschaft zu.
+CDJ unterscheidet zwischen dem Bestehen einer Verbindung und sinnvoller Begegnung. Menschen können fortwährend Nachrichten austauschen, Handel treiben und Rollen erfüllen, ohne einander als eigenständige Träger einer Antwort anzuerkennen. Verbundenheit allein lässt Manipulation und Herrschaft zu.
 
 Im I. Band wird dies durch die Unterscheidung zwischen geschlossener und gegründeter Relationalität ausgedrückt. Eine geschlossene Beziehung versucht, ihren letzten Grund ausschließlich in den Beteiligten zu finden; jeder droht sich zum letzten Maß des anderen zu machen. Eine gegründete Beziehung setzt voraus, dass keiner der Beteiligten das Recht besitzt, den anderen endgültig zu bestimmen, weil beide auf einen sie übersteigenden Grund bezogen sind.
 
@@ -180,7 +180,7 @@ In dieser Konstruktion erfüllt der Logos zwei miteinander verbundene Aufgaben. 
 
 ### Methodologischer Monotheismus
 
-Der Mensch hat viele reale Bindungen und Pflichten: Familie, Beruf, Volk, Staat, den eigenen Leib. CTM verlangt nicht deren Abschaffung. Methodologischer Monotheismus bedeutet, dass partielle Gründe ihren Platz und ihr Maß in Bezug auf den maximalen Grund erhalten müssen. Keiner von ihnen darf ungeprüft den ganzen Menschen beanspruchen.
+Der Mensch hat viele reale Bindungen und Pflichten: Familie, Beruf, Volk, Staat, den eigenen Leib. CDJ verlangt nicht deren Abschaffung. Methodologischer Monotheismus bedeutet, dass partielle Gründe ihren Platz und ihr Maß in Bezug auf den maximalen Grund erhalten müssen. Keiner von ihnen darf ungeprüft den ganzen Menschen beanspruchen.
 
 Dieses Prinzip hat einen praktischen Sinn. Verlangt der Staat, die Wahrheit dem Staatsnutzen zu opfern, stellt sich die Frage nach seinem Recht auf diese Forderung. Verlangt die Familie Ungerechtigkeit gegenüber einem Außenstehenden, hebt die Nähe als solche das Recht nicht auf. Verlangt eine kirchliche Organisation, ihren Ruf entgegen einer anerkannten Tatsache zu schützen, droht die Institution den Platz jenes Grundes einzunehmen, dem sie dienen soll.
 
@@ -188,7 +188,7 @@ Das Prinzip eines einzigen letzten Grundes ist jedoch noch nicht das vollständi
 
 ### Götzendienst als Irrtum über den Grund
 
-Ein Götze ist in CTM nicht nur ein Kultbild. Götzendienst entsteht, wenn ein endlicher Gegenstand, ein Modell oder eine Institution den Status endgültiger Realität erhält. Der Mensch beginnt, ihn vor jeder Prüfung zu schützen und andere Menschen ihm unterzuordnen.
+Ein Götze ist in CDJ nicht nur ein Kultbild. Götzendienst entsteht, wenn ein endlicher Gegenstand, ein Modell oder eine Institution den Status endgültiger Realität erhält. Der Mensch beginnt, ihn vor jeder Prüfung zu schützen und andere Menschen ihm unterzuordnen.
 
 Dies ermöglicht eine Kritik des Götzendienstes innerhalb der Religiosität selbst. Der richtige Name des verehrten Gegenstands garantiert kein richtiges Verhältnis. Ein Mensch kann „Gott“ sagen und damit die absolute Bestätigung seiner Gruppe meinen. Er kann die Wahrheit verehren und faktisch seine eigene Unfehlbarkeit verteidigen. Logozentrizität bestimmt sich deshalb danach, woraus der Mensch handelt, und nicht allein nach dem Wortschatz seiner Selbstbeschreibung.
 
@@ -198,15 +198,15 @@ Logofugalität bezeichnet entsprechend die Abkehr von dieser Prüfung und von de
 
 ### Individualität und Unersetzlichkeit
 
-Die biografische Einmaligkeit eines Menschen erschließt für sich genommen noch nicht, was CTM in der Person sucht. Auch eine Kombination von Ursachen kann einmalig sein. Das Projekt fragt nach etwas anderem: Warum hat gerade dieser Mensch ein Recht auf seine eigene Antwort und kann nicht durch einen funktional gleichwertigen Ausführenden ersetzt werden?
+Die biografische Einmaligkeit eines Menschen erschließt für sich genommen noch nicht, was CDJ in der Person sucht. Auch eine Kombination von Ursachen kann einmalig sein. Das Projekt fragt nach etwas anderem: Warum hat gerade dieser Mensch ein Recht auf seine eigene Antwort und kann nicht durch einen funktional gleichwertigen Ausführenden ersetzt werden?
 
 Die theologische Antwort wird anhand von Bild und Ähnlichkeit Gottes entwickelt. Das Bild bezeichnet die dem Menschen gegebene Möglichkeit persönlicher Antwort; die Ähnlichkeit deren Entfaltung hin zur Fülle der Gottesbeziehung. Dies ist eine Arbeitsunterscheidung innerhalb der Architektur der Antwort, keine erschöpfende Definition sämtlicher Bedeutungen von Bild und Ähnlichkeit in der christlichen Tradition. Der Beitrag zur Pneumatologie begrenzt seinen Gegenstand ausdrücklich in diesem Sinn.
 
-Menschliches Werden erschafft Würde nicht aus dem Nichts und macht einen weniger kompetenten Menschen nicht weniger der Fürsorge würdig. Eine der wichtigsten Folgerungen aus dem eschatologischen Teil von CTM lautet: Der Wert einer konkreten Person lässt sich nicht an ihrer gegenwärtigen Produktivität messen. Die Berufung zur Gemeinschaft mit Gott geht der Bewertung des tatsächlichen Gelingens ihrer Antwort voraus. Dies ist besonders wichtig für das Verständnis eines Kindes, eines Kranken, eines abhängigen Menschen oder eines Menschen mit Behinderung. Diese Anwendung ist eine Folgerung der vorliegenden Analyse aus der Unterscheidung zwischen Gabe und Aktualisierung, keine eigens ausgearbeitete Theorie im Korpus. [III, §11; „Auf der Suche nach einer Pneumatologie“, §2; II, „Eschatologische Subjekthaftigkeit“, §§11–14.]
+Menschliches Werden erschafft Würde nicht aus dem Nichts und macht einen weniger kompetenten Menschen nicht weniger der Fürsorge würdig. Eine der wichtigsten Folgerungen aus dem eschatologischen Teil von CDJ lautet: Der Wert einer konkreten Person lässt sich nicht an ihrer gegenwärtigen Produktivität messen. Die Berufung zur Gemeinschaft mit Gott geht der Bewertung des tatsächlichen Gelingens ihrer Antwort voraus. Dies ist besonders wichtig für das Verständnis eines Kindes, eines Kranken, eines abhängigen Menschen oder eines Menschen mit Behinderung. Diese Anwendung ist eine Folgerung der vorliegenden Analyse aus der Unterscheidung zwischen Gabe und Aktualisierung, keine eigens ausgearbeitete Theorie im Korpus. [III, §11; „Auf der Suche nach einer Pneumatologie“, §2; II, „Eschatologische Subjekthaftigkeit“, §§11–14.]
 
 ### Vergöttlichung und Bewahrung des Menschlichen
 
-Vergöttlichung bedeutet in der Logik von CTM Teilhabe am Leben Gottes unter Wahrung des Unterschieds zwischen Schöpfer und Geschöpf. Der Mensch wird nicht zum Ursprung seiner selbst und verschwindet nicht in einem unpersönlichen Ganzen. Vielmehr verlangt die Fülle der Gemeinschaft die Bewahrung dessen, der in Gemeinschaft tritt.
+Vergöttlichung bedeutet in der Logik von CDJ Teilhabe am Leben Gottes unter Wahrung des Unterschieds zwischen Schöpfer und Geschöpf. Der Mensch wird nicht zum Ursprung seiner selbst und verschwindet nicht in einem unpersönlichen Ganzen. Vielmehr verlangt die Fülle der Gemeinschaft die Bewahrung dessen, der in Gemeinschaft tritt.
 
 Der Verzicht auf autonome Selbstbegründung ist deshalb kein Verzicht auf die Person. Aufgegeben wird der Anspruch, absoluter Ursprung zu sein; Name, Geschichte, Antwort und Verantwortung bleiben erhalten. Darin besteht der grundlegende Unterschied zwischen Teilhabe und Aufgehen im Anderen.
 
@@ -218,13 +218,13 @@ Im II. Band wird unterschieden zwischen der Absolutheit Gottes und der absoluten
 
 Das christliche Versprechen ewigen Lebens gilt dem konkreten Menschen, nicht bloß der Bewahrung von Informationen über ihn, seines gesellschaftlichen Beitrags oder des allgemeinen menschlichen Typs. Die Frage nach der Person erhält dadurch eschatologische Tiefe: Was ermöglicht gerade diesem Menschen, seine Identität in der endgültigen Gemeinschaft mit Gott zu bewahren?
 
-Im Rahmen seiner christlichen Voraussetzungen bietet CTM hier eine theologische Begründung der Unersetzlichkeit. Die Behauptung, keine andere philosophische Begründung der Unersetzlichkeit sei möglich, wäre jedoch eine eigene, weiterreichende These. Dafür genügt es nicht, die Stärke der christlichen Lösung zu zeigen; konkurrierende Argumente müssten untersucht werden. [II, „Eschatologische Subjekthaftigkeit“, §§11–12.]
+Im Rahmen seiner christlichen Voraussetzungen bietet CDJ hier eine theologische Begründung der Unersetzlichkeit. Die Behauptung, keine andere philosophische Begründung der Unersetzlichkeit sei möglich, wäre jedoch eine eigene, weiterreichende These. Dafür genügt es nicht, die Stärke der christlichen Lösung zu zeigen; konkurrierende Argumente müssten untersucht werden. [II, „Eschatologische Subjekthaftigkeit“, §§11–12.]
 
 ## 9 Menschwerdung, Kreuz und Auferstehung
 
 ### Die Initiative Gottes
 
-Würde man CTM ausschließlich als Stufenleiter menschlicher Anstrengungen darstellen, entstünde eine erhebliche Verzerrung. Der Mensch prüft seine Gründe, scheitert, adressiert sein Leben um – und erreicht anscheinend aus eigener Kraft Gott. Der II. Band sagt deutlich das Gegenteil: Die Bewegung des Menschen zu Gott gründet in der vorausgehenden Bewegung Gottes zum Menschen.
+Würde man CDJ ausschließlich als Stufenleiter menschlicher Anstrengungen darstellen, entstünde eine erhebliche Verzerrung. Der Mensch prüft seine Gründe, scheitert, adressiert sein Leben um – und erreicht anscheinend aus eigener Kraft Gott. Der II. Band sagt deutlich das Gegenteil: Die Bewegung des Menschen zu Gott gründet in der vorausgehenden Bewegung Gottes zum Menschen.
 
 Menschwerdung bedeutet, dass der Logos in die geschaffene Wirklichkeit eintritt und menschliche Natur, Leib und Geschichte annimmt. Der Grund stellt nicht nur von außen eine Forderung an den Menschen. In Christus nimmt er selbst an menschlicher Verletzlichkeit teil. Die Theologie des Projekts lässt sich daher nicht in einer universalen Technik der Navigation zwischen Karten erschöpfen.
 
@@ -232,27 +232,27 @@ Dies begrenzt auch eine negative Einstellung zum Ontischen. Wenn der Sohn Leib u
 
 ### Das Kreuz als Prüfung des Grundes
 
-Das Kreuz nimmt in CTM eine zentrale Stellung ein, weil es die Treue zur Wahrheit von der Garantie des eigenen Erfolgs trennt. Hält ein Mensch nur das für wahr, was seine Macht, sein Ansehen und seine Sicherheit erhält, betrachtet er weiterhin sich selbst als letzten Grund. Die Praxis des Kreuzes bezeichnet die Möglichkeit, auf diese Bedingung zu verzichten.
+Das Kreuz nimmt in CDJ eine zentrale Stellung ein, weil es die Treue zur Wahrheit von der Garantie des eigenen Erfolgs trennt. Hält ein Mensch nur das für wahr, was seine Macht, sein Ansehen und seine Sicherheit erhält, betrachtet er weiterhin sich selbst als letzten Grund. Die Praxis des Kreuzes bezeichnet die Möglichkeit, auf diese Bedingung zu verzichten.
 
 Doch nicht jedes Opfer wird dadurch christlich. Ein Mensch kann für ein falsches Projekt, unter fremdem Zwang oder für die eigene Grandiosität sterben. Die Größe des Verlusts beweist nicht die Wahrheit des Adressaten. Christliche Unterscheidung verlangt, das Verhältnis zur Wahrheit, zur Freiheit des anderen, zur Verantwortung und zu Christus selbst zu betrachten.
 
-Die Praxis des Kreuzes darf deshalb nicht in die Forderung umgewandelt werden, sich ständig Gefahren auszusetzen oder einer Institution die Verfügung über fremdes Leiden zu erlauben. In den Begriffen des späteren CTM muss derjenige, der einen Preis verlangt, sein Recht auf diese Forderung begründen; freiwillige Askese ist nicht mit dem von außen verfügten Entzug von Subjekthaftigkeit identisch. Eine theologische Formel entbindet nicht von dieser Prüfung.
+Die Praxis des Kreuzes darf deshalb nicht in die Forderung umgewandelt werden, sich ständig Gefahren auszusetzen oder einer Institution die Verfügung über fremdes Leiden zu erlauben. In den Begriffen des späteren CDJ muss derjenige, der einen Preis verlangt, sein Recht auf diese Forderung begründen; freiwillige Askese ist nicht mit dem von außen verfügten Entzug von Subjekthaftigkeit identisch. Eine theologische Formel entbindet nicht von dieser Prüfung.
 
 Im II. Band erhält das Kreuz eine zusätzliche Deutung: Gott lässt wirkliche Folgen des menschlichen Urteils über sich zu, ohne dieses Urteil als wahr anzuerkennen. Die Freiheit des Menschen erweist sich als so ernst, dass seine falsche Antwort zu einem geschichtlichen Ereignis wird. Diese theologische Lesart des Autors erschließt den Preis der Beziehung; sie bedeutet jedoch nicht, dass der menschliche Urteilsspruch Macht über Gottes letzte Wahrheit gewinnt. [I, „Glaube als Kompetenz“; II, „Ontogenese der Subjekthaftigkeit“, §22; „Eschatologische Subjekthaftigkeit“, §13.]
 
 ### Warum das Argument ohne Auferstehung unvollständig bleibt
 
-Bliebe man beim Kreuz als Redlichkeit angesichts der Niederlage stehen, entstünde eine Philosophie der Würde in der Katastrophe. Der christliche Sinn von CTM reicht weiter. Auferstehung bedeutet, dass Tod und geschichtliches Urteil nicht den endgültigen Horizont der vom Logos angenommenen menschlichen Natur bilden.
+Bliebe man beim Kreuz als Redlichkeit angesichts der Niederlage stehen, entstünde eine Philosophie der Würde in der Katastrophe. Der christliche Sinn von CDJ reicht weiter. Auferstehung bedeutet, dass Tod und geschichtliches Urteil nicht den endgültigen Horizont der vom Logos angenommenen menschlichen Natur bilden.
 
 Der Glaube verwandelt hier eine Niederlage nicht durch Worte in einen Sieg. Er bezieht das geschichtliche Ereignis auf die verheißene Fülle, deren Ursprung in Gott liegt. Die menschliche Fähigkeit, eine Krise auszuhalten, bringt die Auferstehung nicht hervor und beweist sie nicht empirisch. Die Auferstehung geht als Inhalt der christlichen Verkündigung und als Grund der Hoffnung in das Projekt ein.
 
-Diese Unterscheidung verhindert zwei Reduktionen. Die erste verwandelt das Christentum in heroische Psychologie: Halte alles aus, und dadurch wirst du gerettet. Die zweite verwandelt Hoffnung in eine Leugnung der Folgen: Weil Gott siegen wird, sei der menschliche Irrtum unwesentlich. CTM verlangt zugleich die Wirklichkeit des geschichtlichen Preises und die Offenheit für einen Horizont, der sich nicht in der Geschichte erschöpft.
+Diese Unterscheidung verhindert zwei Reduktionen. Die erste verwandelt das Christentum in heroische Psychologie: Halte alles aus, und dadurch wirst du gerettet. Die zweite verwandelt Hoffnung in eine Leugnung der Folgen: Weil Gott siegen wird, sei der menschliche Irrtum unwesentlich. CDJ verlangt zugleich die Wirklichkeit des geschichtlichen Preises und die Offenheit für einen Horizont, der sich nicht in der Geschichte erschöpft.
 
 ## 10 Glaube als Kompetenz und die Sprache Gottes
 
 ### Von der Überzeugung zur Fähigkeit zu leben
 
-Der Glaube hat in CTM psychische, gesellschaftliche und intellektuelle Erscheinungsformen, erschöpft sich aber nicht in ihnen. Erlebnis, Zugehörigkeit und Überzeugung können in den unterschiedlichsten religiösen und ideologischen Systemen vorkommen. Die spezifisch christliche Frage betrifft den Ursprung des Lebens und das Verhältnis zur Zukunft.
+Der Glaube hat in CDJ psychische, gesellschaftliche und intellektuelle Erscheinungsformen, erschöpft sich aber nicht in ihnen. Erlebnis, Zugehörigkeit und Überzeugung können in den unterschiedlichsten religiösen und ideologischen Systemen vorkommen. Die spezifisch christliche Frage betrifft den Ursprung des Lebens und das Verhältnis zur Zukunft.
 
 Kompetenz bezeichnet eine beständige Fähigkeit, dort zu handeln, wo Wissen und Anweisungen keine fertige Lösung liefern. Ein Mensch kann viel über Vergebung wissen und nicht vergeben können; er kann die Notwendigkeit der Wahrheit verstehen und sie unter der Drohung eines Verlusts verbergen. Zwischen Bewusstseinsinhalt und Daseinsweise bleibt ein Übergang, den keine Definition allein vollziehen kann.
 
@@ -268,7 +268,7 @@ Diese Lesart erklärt, warum das Christentum nicht jede menschliche Erwartung vo
 
 ### Umkehr und Askese
 
-Umkehr betrifft in CTM die Grundlagen von Wahrnehmung und Handlung. Der Mensch bedauert nicht nur eine Verfehlung, sondern klärt, welches Verständnis seiner selbst und der Welt sie möglich gemacht hat. Betrachtet er einen anderen Menschen weiterhin als Mittel seiner eigenen Beruhigung, muss eine einzelne Entschuldigung die sich reproduzierende Beziehungsstruktur nicht verändern.
+Umkehr betrifft in CDJ die Grundlagen von Wahrnehmung und Handlung. Der Mensch bedauert nicht nur eine Verfehlung, sondern klärt, welches Verständnis seiner selbst und der Welt sie möglich gemacht hat. Betrachtet er einen anderen Menschen weiterhin als Mittel seiner eigenen Beruhigung, muss eine einzelne Entschuldigung die sich reproduzierende Beziehungsstruktur nicht verändern.
 
 Ontologische Askese bezeichnet die Disziplin, auf unhaltbare Elemente der eigenen Karte zu verzichten. Das ist eine schwierige Fähigkeit: Eine irrige Konstruktion kann Würde, Zugehörigkeit und vertraute Sicherheit stützen. Auf sie zu verzichten erfordert nicht nur ein Argument, sondern die Bereitschaft, anders zu leben.
 
@@ -280,7 +280,7 @@ Fortwährende Prüfung bedeutet dabei keine chronische psychische Destabilisieru
 
 Ontologische Kommunikation beginnt dort, wo die Begegnung mit dem anderen nicht nur neue Informationen vermittelt, sondern auch die Grundlagen des eigenen Verständnisses verändern kann. Dazu muss die eigenständige Wirklichkeit des Gegenübers anerkannt werden, die sich nicht auf dessen Platz im eigenen Weltbild reduzieren lässt. Die Antwort des anderen kann etwas aufdecken, das diese Karte nicht umfasst.
 
-Für CTM ist dies sowohl in der Beziehung zu Gott als auch in der Beziehung zum Menschen wesentlich. Gemeinschaft lässt sich nicht auf die Intensität von Erlebnissen oder auf Übereinstimmung reduzieren. Selbst ein Konflikt kann zum Ereignis der Begegnung werden, wenn die Beteiligten ihre Gründe der Prüfung öffnen. Umgekehrt kann Einmütigkeit aus dem systematischen Ausschluss Andersdenkender entstehen.
+Für CDJ ist dies sowohl in der Beziehung zu Gott als auch in der Beziehung zum Menschen wesentlich. Gemeinschaft lässt sich nicht auf die Intensität von Erlebnissen oder auf Übereinstimmung reduzieren. Selbst ein Konflikt kann zum Ereignis der Begegnung werden, wenn die Beteiligten ihre Gründe der Prüfung öffnen. Umgekehrt kann Einmütigkeit aus dem systematischen Ausschluss Andersdenkender entstehen.
 
 Die Kirche wird als Raum betrachtet, in dem eine solche Kommunikation eine beständige geschichtliche Form erhalten soll. Der theologische Sinn von Versammlung und Eucharistie wird mit der Teilhabe am Leben des Reiches Gottes und mit der Erfahrung einer Gemeinschaft verbunden, die sich nicht in den Regeln der Konkurrenzwelt erschöpft. Das Sakrament wird nicht durch ein Gespräch ersetzt: Es geht um die menschliche Form der Teilhabe am Handeln Gottes. [I, „Die Ausgangsposition. Einst die ursprüngliche“; „Essay …“, Kap.6–7; II, „Eschatologische Subjekthaftigkeit“, §§9–10.]
 
@@ -294,11 +294,11 @@ Eine kirchliche Form kann ihre Funktion erfüllen, sich deren Erfüllung erst er
 
 ### Gehorsam und Verantwortung
 
-CTM ermöglicht eine strenge Frage an den Gehorsam: Befähigt er den Menschen zu einer umfassenderen Antwort, oder überträgt er die Autorschaft seines Lebens auf eine andere Person? Äußerlich ähnliche Handlungen können einen unterschiedlichen Sinn haben. Die freiwillige Annahme einer Disziplin kann Freiheit erweitern; die erzwungene Unterdrückung von Widerspruch kann sie einschränken.
+CDJ ermöglicht eine strenge Frage an den Gehorsam: Befähigt er den Menschen zu einer umfassenderen Antwort, oder überträgt er die Autorschaft seines Lebens auf eine andere Person? Äußerlich ähnliche Handlungen können einen unterschiedlichen Sinn haben. Die freiwillige Annahme einer Disziplin kann Freiheit erweitern; die erzwungene Unterdrückung von Widerspruch kann sie einschränken.
 
 Der Unterschied lässt sich weder am Wort „Gehorsam“ noch an der bloßen Tatsache einer Beschränkung feststellen. Zu klären ist, ob Prüfung, Verantwortung, die Möglichkeit, eine Diskrepanz anzuzeigen, und die Anerkennung der Machtgrenzen des Leiters erhalten bleiben. Eine Institution kann sich nicht zum letzten Adressaten der Umadressierung erklären und sich das Handeln Gottes aneignen.
 
-Eine der zentralen ekklesiologischen Fragen von CTM lässt sich daher so formulieren: Bringt das kirchliche Leben Menschen hervor, die Gott selbst antworten können? Diese Fragestellung verlangt keine Verneinung der Institution. Sie verlangt von der Institution, ihre Treue zu der Bestimmung zu zeigen, um derentwillen sie besteht.
+Eine der zentralen ekklesiologischen Fragen von CDJ lässt sich daher so formulieren: Bringt das kirchliche Leben Menschen hervor, die Gott selbst antworten können? Diese Fragestellung verlangt keine Verneinung der Institution. Sie verlangt von der Institution, ihre Treue zu der Bestimmung zu zeigen, um derentwillen sie besteht.
 
 ## 12 Eschatologie und Offenheit der Geschichte
 
@@ -306,7 +306,7 @@ Eine der zentralen ekklesiologischen Fragen von CTM lässt sich daher so formuli
 
 Der Mensch handelt nicht nur unter dem Einfluss der Vergangenheit. Er bezieht die Gegenwart auf etwas, das noch nicht besteht: Er erzieht ein Kind, schafft eine Institution, hält ein Versprechen. Die Zukunft ist im Handeln als Horizont gegenwärtig, nicht als bereits vorhandener Gegenstand.
 
-Eschatologische Subjekthaftigkeit erschließt in CTM diese Struktur in Bezug auf die letzte Fülle. Sie lässt sich nicht auf eine Prognose der letzten Ereignisse reduzieren. Der Mensch kann die bestehende Ordnung von dem her beurteilen, wozu menschliches Dasein berufen ist. Daher erhält das geschichtlich Erfolgreiche nicht automatisch den Status endgültiger Wahrheit.
+Eschatologische Subjekthaftigkeit erschließt in CDJ diese Struktur in Bezug auf die letzte Fülle. Sie lässt sich nicht auf eine Prognose der letzten Ereignisse reduzieren. Der Mensch kann die bestehende Ordnung von dem her beurteilen, wozu menschliches Dasein berufen ist. Daher erhält das geschichtlich Erfolgreiche nicht automatisch den Status endgültiger Wahrheit.
 
 Der eschatologische Horizont erfüllt eine metaprojektuale Funktion: Er eröffnet den Raum möglicher Modelle, schreibt aber kein einziges politisches oder wirtschaftliches Programm vor. Zwischen dem Grund und einer konkreten Institution liegen menschliche Interpretation, Wahl, Ressourcen, Risiko und Verantwortung. Dem eigenen Projekt unbedingte göttliche Autorität zuzuschreiben bedeutet, gerade diese Übergänge zu beseitigen. [II, „Eschatologische Subjekthaftigkeit“, §§1–8.]
 
@@ -314,17 +314,17 @@ Der eschatologische Horizont erfüllt eine metaprojektuale Funktion: Er eröffne
 
 Der Utopismus versucht, endgültige Fülle mit den Mitteln der Geschichte herzustellen. Die apokalyptische Lähmung verzichtet umgekehrt auf Handeln, weil sie das Ende erwartet. Messianischer Narzissmus eignet dem Menschen die Rolle des unersetzlichen Retters zu; eschatologische Inflation erklärt jedes Ereignis zum letzten Kampf.
 
-Der gemeinsame Mangel dieser Modi ist der Verlust des Unterschieds zwischen letztem Horizont und endlicher geschichtlicher Form. CTM wahrt das Recht, entschlossen zu handeln, ohne das eigene Handeln für endgültig zu erklären. Korrigierbarkeit ist nicht Überzeugungslosigkeit; die Begrenztheit eines Projekts hebt die Pflicht zu seiner Verwirklichung nicht auf, sofern es begründet ist.
+Der gemeinsame Mangel dieser Modi ist der Verlust des Unterschieds zwischen letztem Horizont und endlicher geschichtlicher Form. CDJ wahrt das Recht, entschlossen zu handeln, ohne das eigene Handeln für endgültig zu erklären. Korrigierbarkeit ist nicht Überzeugungslosigkeit; die Begrenztheit eines Projekts hebt die Pflicht zu seiner Verwirklichung nicht auf, sofern es begründet ist.
 
 Die Geschichte prüft nicht nur die Qualität der Ausführung. Der Widerstand der Wirklichkeit kann einen Fehler im Modell selbst oder in der Werteordnung aufdecken. Die Treue zum Grund verlangt deshalb manchmal, ein Projekt zu verändern, das ursprünglich als Ausdruck dieser Treue verstanden wurde.
 
 ### Das Eschaton ist keine endlose Diskussion
 
-Im geschichtlichen Handeln bedeutet Offenheit die Möglichkeit der Korrektur und den Verzicht auf die Sakralisierung endlicher Formen. Das endgültige Eschaton wird in CTM jedoch nicht auf ewige Unabgeschlossenheit reduziert. Es umfasst die Auferstehung des Leibes, die Verklärung der Schöpfung, das Reich Gottes und die Fülle der Gemeinschaft.
+Im geschichtlichen Handeln bedeutet Offenheit die Möglichkeit der Korrektur und den Verzicht auf die Sakralisierung endlicher Formen. Das endgültige Eschaton wird in CDJ jedoch nicht auf ewige Unabgeschlossenheit reduziert. Es umfasst die Auferstehung des Leibes, die Verklärung der Schöpfung, das Reich Gottes und die Fülle der Gemeinschaft.
 
 Die Formel ewiger ontologischer Kommunikation bezeichnet die Teilhabe am Leben Gottes unter Bewahrung der Person und des Unterschieds zwischen Schöpfer und Geschöpf. Sie meint keinen endlosen Informationsaustausch. Es aufersteht nicht nur das Denkvermögen: Der Mensch tritt in der Ganzheit seines geschaffenen Seins in die Fülle ein.
 
-Eine Übersicht, die alles mit dem einzigen Wort „Offenheit“ abschließt, verliert daher den positiven Gehalt christlicher Hoffnung. CTM verbindet die geschichtliche Unabgeschlossenheit menschlicher Konstruktionen mit dem Versprechen einer Fülle, die der Mensch nicht aus eigener Kraft hervorbringen kann. [II, „Eschatologische Subjekthaftigkeit“, §§11–15.]
+Eine Übersicht, die alles mit dem einzigen Wort „Offenheit“ abschließt, verliert daher den positiven Gehalt christlicher Hoffnung. CDJ verbindet die geschichtliche Unabgeschlossenheit menschlicher Konstruktionen mit dem Versprechen einer Fülle, die der Mensch nicht aus eigener Kraft hervorbringen kann. [II, „Eschatologische Subjekthaftigkeit“, §§11–15.]
 
 ## 13 Trinitarischer Grund und Pneumatologie
 
@@ -350,7 +350,7 @@ Die Entsprechungen sind bewusst asymmetrisch. Die pneumatologische Dimension dur
 
 Das theologische Grundprinzip lautet, dass Gottes Handeln nicht als Konkurrent menschlichen Handelns gedacht werden darf. Heilt die Gnade die menschliche Natur, entsteht daraus eine vollere Fähigkeit des Menschen zu antworten, nicht das Verschwinden des Urhebers der Antwort.
 
-Damit ist jedoch ein Vereinbarkeitsprinzip formuliert, keine erschöpfende Theorie der Synergie. Wie verhalten sich göttliches Handeln und menschliche Kausalität in einem konkreten freien Akt zueinander? Wo unterscheiden sich natürliche Fähigkeit, gnadenhafte Heilung und persönliche Annahme? Der Autor lässt diese Fragen offen. Man darf deshalb weder behaupten, Gnade fehle in CTM, noch die Frage als vollständig gelöst betrachten.
+Damit ist jedoch ein Vereinbarkeitsprinzip formuliert, keine erschöpfende Theorie der Synergie. Wie verhalten sich göttliches Handeln und menschliche Kausalität in einem konkreten freien Akt zueinander? Wo unterscheiden sich natürliche Fähigkeit, gnadenhafte Heilung und persönliche Annahme? Der Autor lässt diese Fragen offen. Man darf deshalb weder behaupten, Gnade fehle in CDJ, noch die Frage als vollständig gelöst betrachten.
 
 Auch die Anwendung der Methode hat eine strenge Grenze. Aus hoher Kompetenz lässt sich das Wirken des Heiligen Geistes nicht diagnostizieren. Aus Initiative lässt sich nicht schließen, ein konkreter Anfang sei ein normatives Bild des Vaters. An der Fähigkeit zu logischen Operationen lässt sich das Verhältnis eines Menschen zum Sohn nicht messen. Die Analyse rekonstruiert die menschliche Architektur; die Theologie deutet deren mögliche Entsprechungen; eine Aussage über ein konkretes Handeln Gottes folgt aus keinem von beiden automatisch. [Ebd., §§17–19.]
 
@@ -376,7 +376,7 @@ Interontologische Übersetzung ist beispielsweise beim Zusammentreffen medizinis
 
 ### Warum neue Institutionen noch keine Modernisierung bedeuten
 
-In CTM entsteht Modernisierung aus der Begegnung zunehmend komplexer gesellschaftlicher Ontologien mit der sich entwickelnden Fähigkeit des Menschen, sie sich anzueignen. Wächst die gesellschaftliche Komplexität schneller als die subjekthafte Kapazität, entstehen Institutionen, die Menschen nach der Logik einer anderen Tätigkeit nutzen.
+In CDJ entsteht Modernisierung aus der Begegnung zunehmend komplexer gesellschaftlicher Ontologien mit der sich entwickelnden Fähigkeit des Menschen, sie sich anzueignen. Wächst die gesellschaftliche Komplexität schneller als die subjekthafte Kapazität, entstehen Institutionen, die Menschen nach der Logik einer anderen Tätigkeit nutzen.
 
 Man kann ein Gericht schaffen, das ein System persönlicher Patronage bleibt; eine Universität, die Bildungsbescheinigungen statt selbstständigen Denkens erzeugt; eine digitale Verwaltung, die keine Korrektur einer Entscheidung zulässt. Technische Neuheit beweist in diesen Fällen keine Veränderung der Architektur der Antwort.
 
@@ -398,7 +398,7 @@ Reale kollektive Subjekthaftigkeit wird auch durch den Wechsel von Generationen 
 
 Der Staat, das gesellschaftliche Gedächtnis und die Zukunft eines Volkes können reale Gegenstände sein. Aus ihrer Realität folgt aber nicht, dass jeder, der in ihrem Namen auftritt, jedes beliebige Opfer verlangen darf.
 
-CTM trennt mehrere Prüfungen: Besteht das Gemeinsame? Wie wird es repräsentiert? Ist das Vertrauen in seinen Vertreter begründet? Hat dieser das Recht, gerade diese Forderung zu stellen? Wie wird die Verantwortung eines konkreten Menschen verortet? Diese Trennung verhindert den Übergang von „Das ist für alle wichtig“ zu „Du musst jeden Preis zahlen“.
+CDJ trennt mehrere Prüfungen: Besteht das Gemeinsame? Wie wird es repräsentiert? Ist das Vertrauen in seinen Vertreter begründet? Hat dieser das Recht, gerade diese Forderung zu stellen? Wie wird die Verantwortung eines konkreten Menschen verortet? Diese Trennung verhindert den Übergang von „Das ist für alle wichtig“ zu „Du musst jeden Preis zahlen“.
 
 Ontologische Kreditwürdigkeit ist die begründete Erwartung einer Verbindung von Versprechen, Handeln, Prüfung und Verantwortung. Zahlungsfähigkeit ist die Fähigkeit, den Preis der eigenen Autorschaft tatsächlich zu übernehmen. Diese Begriffe unterscheiden sich: Man kann durch frühere Ergebnisse Vertrauen erwecken und nicht bereit sein, für eine neue Entscheidung zu zahlen; man kann opferbereit sein, ohne hinreichende Gründe für Vertrauen in das Projekt zu besitzen.
 
@@ -412,11 +412,11 @@ Die Frage „Wer hat unterschrieben?“ muss deshalb ergänzt werden: Wer hat di
 
 Diese Analyse besitzt normative Kraft, ersetzt jedoch nicht die Prüfung der Umstände. Eine ungleiche Verteilung der Lasten kann aus Ausbeutung, freiwilliger Verpflichtung, unterschiedlichen Ressourcen oder funktionaler Arbeitsteilung hervorgehen. Festzustellen, welche Interpretation zutrifft, ist eine eigene Aufgabe. Die Methode verlangt eine starke Alternative, keine automatische Anklage.
 
-## 16 Methodologie der CTM-Analyse
+## 16 Methodologie der CDJ-Analyse
 
 ### Was genau analysiert wird
 
-CTM-Analyse wird als Vektoranalyse der Subjekthaftigkeit bestimmt. Ihr Gegenstand ist die Veränderung von Ebene, Richtung, Träger und Verteilung menschlicher Antwort. Sie fragt nicht nur, wie effektiv ein System handelt, sondern auch, welche Art von Mensch die Teilnahme an ihm hervorbringt.
+CDJ-Analyse wird als Vektoranalyse der Subjekthaftigkeit bestimmt. Ihr Gegenstand ist die Veränderung von Ebene, Richtung, Träger und Verteilung menschlicher Antwort. Sie fragt nicht nur, wie effektiv ein System handelt, sondern auch, welche Art von Mensch die Teilnahme an ihm hervorbringt.
 
 Unterschieden werden die ontische, ontologische und eschatologische Ebene. Die Richtung kann aufsteigend, horizontal oder absteigend sein. Gesondert berücksichtigt werden der dynamische Modus, die Entsprechung zur erklärten Funktion, Zeit, Maßstab, Preis und Verteilung der Befugnisse. Aus einem einzigen Parameter lässt sich keine Gesamtbewertung gewinnen.
 
@@ -432,7 +432,7 @@ Eine Bildungspraxis, die selbstständiges Denken entwickelt, erfüllt ihre Funkt
 
 ### Die Abfolge der Untersuchung
 
-Zunächst wird die Anwendbarkeit geprüft: Ist der Begriffsapparat von CTM hier überhaupt erforderlich? Zur Feststellung eines Datums oder zur Messung einer physikalischen Größe ist er meist überflüssig. Anschließend wird der Gegenstand eingegrenzt: Zeitraum, Beteiligte, Funktion und Maßstab. Einzelne Episoden dürfen nicht ohne Beleg zu einer einheitlichen Entität namens „Volk“ oder „Kirche“ verbunden werden.
+Zunächst wird die Anwendbarkeit geprüft: Ist der Begriffsapparat von CDJ hier überhaupt erforderlich? Zur Feststellung eines Datums oder zur Messung einer physikalischen Größe ist er meist überflüssig. Anschließend wird der Gegenstand eingegrenzt: Zeitraum, Beteiligte, Funktion und Maßstab. Einzelne Episoden dürfen nicht ohne Beleg zu einer einheitlichen Entität namens „Volk“ oder „Kirche“ verbunden werden.
 
 Dann werden die vorausgehende Wirklichkeit, die Karte der Beteiligten, die verfügbaren Operationen und die tatsächliche Verteilung der Befugnisse rekonstruiert. Worte, Wahrnehmung des Möglichen und Handeln werden verglichen. Topographie und Topologie werden erstellt; bei ausreichender Datenlage wird das Szenariobuch rekonstruiert.
 
@@ -444,9 +444,9 @@ Erst dann werden Vektor, Entsprechungsmodus und Verteilung des Preises festgeste
 
 Das Fail-closed-Prinzip verbietet, einen notwendigen Zusammenhang allein deshalb als festgestellt zu behandeln, weil er plausibel ist. Ein fehlender Nachweis der Verbindung beweist nicht ihr Fehlen. Ein zulässiges Ergebnis kann in Unbestimmtheit, konkurrierenden Erklärungen oder der Anerkennung der Unanwendbarkeit der Methode bestehen.
 
-Diese Forderung gilt auch für CTM selbst. Erhöhen seine Kategorien das Auflösungsvermögen der Untersuchung nicht, ist ihre Anwendung zu beenden. Die Stärke dieser Einstellung liegt in der Möglichkeit, die Methode von einer ansprechenden nachträglichen Interpretation zu trennen. Ihre tatsächliche Produktivität muss sich jedoch in Untersuchungen zeigen, in denen Alternativen das Ergebnis wirklich verändern können.
+Diese Forderung gilt auch für CDJ selbst. Erhöhen seine Kategorien das Auflösungsvermögen der Untersuchung nicht, ist ihre Anwendung zu beenden. Die Stärke dieser Einstellung liegt in der Möglichkeit, die Methode von einer ansprechenden nachträglichen Interpretation zu trennen. Ihre tatsächliche Produktivität muss sich jedoch in Untersuchungen zeigen, in denen Alternativen das Ergebnis wirklich verändern können.
 
-CTM-Gestaltung beginnt nach der Diagnose. Sie verändert die Architektur des Möglichen: Informationskanäle, Initiativrechte, Bedingungen für Korrektur und Abbruch sowie die Verbindung der Entscheidung mit ihren Folgen. Der Appell „Seid verantwortlich“ genügt nicht, wenn die Systemstruktur Antwort systematisch unmöglich macht. [III, §§130–140.]
+CDJ-Gestaltung beginnt nach der Diagnose. Sie verändert die Architektur des Möglichen: Informationskanäle, Initiativrechte, Bedingungen für Korrektur und Abbruch sowie die Verbindung der Entscheidung mit ihren Folgen. Der Appell „Seid verantwortlich“ genügt nicht, wenn die Systemstruktur Antwort systematisch unmöglich macht. [III, §§130–140.]
 
 ## 17 Philosophische Prüfung der zentralen Argumente
 
@@ -456,7 +456,7 @@ Das Argument des Realismus lässt sich so rekonstruieren: Irrtum ist nur sinnvol
 
 Dieses Argument stützt einen minimalen Realismus und die Forderung nach Korrektur. Für sich genommen beweist es jedoch noch nicht, dass die Realität insgesamt einen persönlichen Grund oder einen einzigen endgültigen Sinn besitzt. Der Übergang von einer unabhängigen Begrenzung zum Logos erfordert zusätzliche Prämissen.
 
-Ein wesentlicher Einwand besteht nicht in der Verneinung jeder Wirklichkeit. Er lautet: Warum kann die Anerkennung fehlbarer Karten nicht mit begrenzten, revidierbaren Kriterien ohne einen einzigen maximalen Grund vereinbar sein? Die Antwort von CTM verweist auf den Regress der Kriterien und die Gefahr, etwas Partielles zu verabsolutieren. Um die Auseinandersetzung zu entscheiden, muss gezeigt werden, warum dieser Regress gerade einen persönlichen Grund erfordert und wie die menschliche Hinwendung zu ihm vermeidet, das eigene Gottesbild in eine weitere, vor Prüfung geschützte Karte zu verwandeln.
+Ein wesentlicher Einwand besteht nicht in der Verneinung jeder Wirklichkeit. Er lautet: Warum kann die Anerkennung fehlbarer Karten nicht mit begrenzten, revidierbaren Kriterien ohne einen einzigen maximalen Grund vereinbar sein? Die Antwort von CDJ verweist auf den Regress der Kriterien und die Gefahr, etwas Partielles zu verabsolutieren. Um die Auseinandersetzung zu entscheiden, muss gezeigt werden, warum dieser Regress gerade einen persönlichen Grund erfordert und wie die menschliche Hinwendung zu ihm vermeidet, das eigene Gottesbild in eine weitere, vor Prüfung geschützte Karte zu verwandeln.
 
 ### Ist menschliche Autorschaft bewiesen?
 
@@ -464,7 +464,7 @@ Die Unterscheidung zwischen empfangenem Dasein und Autorschaft der Antwort besei
 
 Ein Vertreter eines lückenlosen Determinismus wird jedoch fragen, warum der Vorgang der Verantwortungsübernahme nicht selbst ein Ergebnis vorausgehender Ursachen ist. Die Beschreibung des Subjekts als Urheber löst die metaphysische Kausalitätsfrage noch nicht. Ebenso muss zwischen der Abhängigkeit von Ursachen und der Reduktion des Handlungssinns auf diese Ursachen unterschieden werden: Die Erklärung der Herkunft einer Überzeugung ist nicht gleichbedeutend mit der Beurteilung ihrer Wahrheit.
 
-CTM bietet eine Sprache, in der sich menschliche Antwort untersuchen lässt, ohne sie aus der Beschreibung zu tilgen. Der theologische Teil schlägt ihren Grund in Gottebenbildlichkeit und Gnade vor. Eine erschöpfende Theorie der Vereinbarkeit menschlicher Kausalität, natürlicher Bedingungen und göttlichen Handelns bleibt jedoch offen. Der Autor selbst erkennt diese Grenze im Beitrag zur Pneumatologie an.
+CDJ bietet eine Sprache, in der sich menschliche Antwort untersuchen lässt, ohne sie aus der Beschreibung zu tilgen. Der theologische Teil schlägt ihren Grund in Gottebenbildlichkeit und Gnade vor. Eine erschöpfende Theorie der Vereinbarkeit menschlicher Kausalität, natürlicher Bedingungen und göttlichen Handelns bleibt jedoch offen. Der Autor selbst erkennt diese Grenze im Beitrag zur Pneumatologie an.
 
 ### Erfordert Gemeinschaft einen einzigen persönlichen Grund?
 
@@ -472,7 +472,7 @@ Das Argument des I. Bandes verbindet das Fehlen eines gemeinsamen Grundes mit ge
 
 Der bedingte Teil des Arguments überzeugt: Eignet sich ein Beteiligter das letzte Recht an, den anderen zu bestimmen, wird gegenseitige Anerkennung untergraben. Der stärkere Teil – jede Beziehung ohne ausdrücklich angenommenen transzendenten Grund werde unvermeidlich zur Kolonisierung – bedarf eines zusätzlichen Nachweises. Zu untersuchen sind die Möglichkeit gegenseitiger Begrenzung, korrigierbarer Normen und der Anerkennung des anderen ohne abgeschlossenen metaphysischen Konsens.
 
-Zudem garantiert das gemeinsame Bekenntnis zu einem gemeinsamen Grund keinen Verzicht auf Herrschaft. Das spätere CTM liefert selbst eine Antwort auf diesen Einwand: Die wirkende Architektur muss geprüft werden; eine Erklärung genügt nicht. So präzisiert die Methodologie die gesellschaftliche Anwendung der frühen metaphysischen These.
+Zudem garantiert das gemeinsame Bekenntnis zu einem gemeinsamen Grund keinen Verzicht auf Herrschaft. Das spätere CDJ liefert selbst eine Antwort auf diesen Einwand: Die wirkende Architektur muss geprüft werden; eine Erklärung genügt nicht. So präzisiert die Methodologie die gesellschaftliche Anwendung der frühen metaphysischen These.
 
 ### Die Einzigkeit der christlichen Antwort
 
@@ -486,7 +486,7 @@ Daraus folgt nicht, dass Philosophie überhaupt nicht zur Begründung der christ
 
 ### Wie Unterschiede zwischen den Bänden zu lesen sind
 
-CTM ist ein sich entwickelndes Korpus. Im I. Band bedeutet Subjekthaftigkeit häufig eine wahre Position, und ontisches Handeln wird ontologischem scharf gegenübergestellt. Im II. Band werden die notwendige ontische Subjekthaftigkeit eingeführt und die Stärke eines geschichtlichen Projekts von der Qualität seines Grundes unterschieden. Der III. Band verbietet ausdrücklich, aus der bloßen Fähigkeit anzufangen auf sittliche Wahrheit zu schließen.
+CDJ ist ein sich entwickelndes Korpus. Im I. Band bedeutet Subjekthaftigkeit häufig eine wahre Position, und ontisches Handeln wird ontologischem scharf gegenübergestellt. Im II. Band werden die notwendige ontische Subjekthaftigkeit eingeführt und die Stärke eines geschichtlichen Projekts von der Qualität seines Grundes unterschieden. Der III. Band verbietet ausdrücklich, aus der bloßen Fähigkeit anzufangen auf sittliche Wahrheit zu schließen.
 
 Diese Unterschiede dürfen in der Darstellung nicht einfach getilgt werden. Eine vermittelnde Rekonstruktion ist möglich: Der frühe Text beschreibt die letzte Norm der Subjekthaftigkeit, die späteren ihre analytisch unterscheidbaren Fähigkeiten und Formen. Dies ist jedoch eine Interpretation und muss als solche gekennzeichnet werden. Sie beseitigt nicht die wörtliche Spannung zwischen den Formeln.
 
@@ -498,7 +498,7 @@ Der vollständige russische I. Band enthält tatsächlich die Formel, ontisches 
 
 Das Wort „Entropie“ bezeichnet in der sozialphilosophischen Analyse den Verlust von Verbindung, Sinn, ursprünglicher Bestimmung und Erneuerungsfähigkeit. Ohne gesonderte Definition messbarer Größen ist dies kein physikalischer Beweis für die unvermeidliche Degradation aller menschlichen Systeme. Ein thermodynamischer Wortschatz kann allein keine moralische oder historische Bewertung begründen.
 
-Die starke These von CTM lautet, dass eine erfolgreiche Form beginnen kann, sich selbst statt ihrer Bestimmung zu reproduzieren. Daraus folgt nicht, dass jede Wiederholung schädlich wäre. Fürsorge, Bildung, liturgischer Rhythmus und ein verlässliches Verfahren können gerade durch ihre Beständigkeit Subjekthaftigkeit stützen. Das Problem beginnt, wenn Prüfung und Erneuerung ausgeschlossen werden.
+Die starke These von CDJ lautet, dass eine erfolgreiche Form beginnen kann, sich selbst statt ihrer Bestimmung zu reproduzieren. Daraus folgt nicht, dass jede Wiederholung schädlich wäre. Fürsorge, Bildung, liturgischer Rhythmus und ein verlässliches Verfahren können gerade durch ihre Beständigkeit Subjekthaftigkeit stützen. Das Problem beginnt, wenn Prüfung und Erneuerung ausgeschlossen werden.
 
 ### Grenzen naturwissenschaftlicher und kultureller Veranschaulichungen
 
@@ -506,7 +506,7 @@ Im I. Band findet sich eine Tabelle der Informationsfilterung mit dem Endkoeffiz
 
 Ähnliche Vorsicht ist gegenüber kulturellen Verallgemeinerungen in „Die Sprache Gottes“ erforderlich, einschließlich der kategorischen Behauptung, Depression sei im Milieu der Bergvölker unmöglich. Die Beobachtung einer bestimmten Weise, Tragödien zu erleben, belegt weder das Fehlen eines Zustands in einer gesamten Population noch dessen ausschließlich kulturellen Ursprung. Eine verständliche Darstellung kann die philosophische Frage nach der Fähigkeit bewahren, auf Unheil zu antworten, ohne die Verallgemeinerung des Autors zu einer feststehenden Tatsache zu machen.
 
-Diese Einwände widerlegen die Architektur von CTM nicht. Sie trennen ihre Argumente von Veranschaulichungen, die einer eigenständigen Prüfung bedürfen. Gerade das eigene Prinzip des Projekts – keinen unbewiesenen Übergang zuzulassen – macht diese Abgrenzung notwendig.
+Diese Einwände widerlegen die Architektur von CDJ nicht. Sie trennen ihre Argumente von Veranschaulichungen, die einer eigenständigen Prüfung bedürfen. Gerade das eigene Prinzip des Projekts – keinen unbewiesenen Übergang zuzulassen – macht diese Abgrenzung notwendig.
 
 ### Kenosis und Schutz der Person
 
@@ -524,17 +524,17 @@ Dies sind ernsthafte Begrenzungen, doch die innere Stimmigkeit der Analogie bewe
 
 ### Worin der eigenständige Beitrag besteht
 
-CTM verbindet eine Anthropologie der Antwort, christliche Eschatologie und die Analyse wirkender Institutionen. Sein Gehalt bestimmt sich durch diese Verbindung, nicht durch die Zahl neuer Begriffe. Begriffe werden nützlich, wenn sie einen konkreten Bruch sichtbar machen: Wissen erreicht die Entscheidung nicht, Initiative wird vom Preis getrennt, kirchliche Leitung reproduziert Abhängigkeit, geschichtlicher Erfolg wird für endgültige Wahrheit gehalten.
+CDJ verbindet eine Anthropologie der Antwort, christliche Eschatologie und die Analyse wirkender Institutionen. Sein Gehalt bestimmt sich durch diese Verbindung, nicht durch die Zahl neuer Begriffe. Begriffe werden nützlich, wenn sie einen konkreten Bruch sichtbar machen: Wissen erreicht die Entscheidung nicht, Initiative wird vom Preis getrennt, kirchliche Leitung reproduziert Abhängigkeit, geschichtlicher Erfolg wird für endgültige Wahrheit gehalten.
 
 Besonders produktiv sind die Unterscheidungen zwischen Empfangensein und Autorschaft, Karte und Realität, Kompetenz und Projektualität, erklärter und hervorgebrachter Wirkung, Kreditwürdigkeit und Zahlungsfähigkeit. Sie ermöglichen präzisere Auseinandersetzungen und machen einen Teil der Behauptungen überprüfbar.
 
 Theologisch bedeutsam ist der Übergang von der allgemeinen Behauptung menschlicher Würde zur Frage nach einer eigenen, unersetzlichen und eschatologisch offenen Fähigkeit zur Antwort. Christus wird hier nicht einer fertigen Philosophie als religiöser Schmuck hinzugefügt: Menschwerdung, Kreuz und Auferstehung bestimmen den letzten Gehalt dessen, wozu der Mensch berufen ist. Zugleich kann die Methodologie einzelne menschliche Architekturen untersuchen, ohne dass der Forschende zuvor die gesamte Theologie annehmen muss.
 
-### Wie CTM mit anderen Philosophien verglichen werden kann
+### Wie CDJ mit anderen Philosophien verglichen werden kann
 
 Ein Vergleich beginnt sinnvollerweise mit Fragen: Wie verhalten sich Gegebenheit und Freiheit zueinander? Wie wird der andere zugänglich, ohne auf ein Objekt reduziert zu werden? Was macht eine Norm verbindlich? Wie handeln verteilte Kollektive? So lassen sich wirkliche Gesprächspunkte mit Phänomenologie, Dialogphilosophie, Handlungstheorien und Sozialontologie bestimmen.
 
-Die Übereinstimmung von Wörtern wie „Sein“, „Entscheidung“ oder „Dialog“ beweist jedoch weder die Herkunft eines Arguments noch die Überlegenheit eines Systems über ein anderes. Wer behauptet, CTM überwinde eine Grenze Heideggers, Bubers, Barths oder einer anderen Tradition, muss die jeweiligen Texte symmetrisch rekonstruieren. Solche Vergleiche sind hier das Programm einer gesonderten Untersuchung, kein fertiges Ergebnis.
+Die Übereinstimmung von Wörtern wie „Sein“, „Entscheidung“ oder „Dialog“ beweist jedoch weder die Herkunft eines Arguments noch die Überlegenheit eines Systems über ein anderes. Wer behauptet, CDJ überwinde eine Grenze Heideggers, Bubers, Barths oder einer anderen Tradition, muss die jeweiligen Texte symmetrisch rekonstruieren. Solche Vergleiche sind hier das Programm einer gesonderten Untersuchung, kein fertiges Ergebnis.
 
 Dasselbe gilt für die Biografie. Eine Bemerkung des Autors verbindet das Aufkommen des Begriffs „ontologische Spannung“ mit der Erfahrung von 1993. Dies ist ein wichtiges Zeugnis für die Entstehung der Einsicht, aber weder ein Universalitätsbeweis noch ein Hindernis für Universalität. Diese wird daran geprüft, ob das Argument die Übertragung in andere Situationen trägt, einschließlich Alltag, Fürsorge, Bildung und langsamer institutioneller Entwicklung.
 
@@ -542,7 +542,7 @@ Dasselbe gilt für die Biografie. Eine Bemerkung des Autors verbindet das Aufkom
 
 Ein erster Test wäre die unabhängige Analyse eines begrenzten Falls durch mehrere Forschende. Sie sollten vorab Datenkorpus, Zeitraum und Funktion festlegen und anschließend ihre Rekonstruktionen von Karte, Operationen, Befugnissen und Vektor vergleichen. Wichtig ist nicht nur der Grad der Übereinstimmung, sondern die Möglichkeit, den Grund einer Abweichung genau zu lokalisieren.
 
-Ein zweiter Test wäre der Vergleich mit einer einfacheren Erklärung. Lässt sich ein Versagen vollständig durch Ressourcenmangel erklären, muss CTM zeigen, was die Analyse der Subjektarchitektur hinzufügt. Fügt sie nichts Wesentliches hinzu, ist die Verkomplizierung des Wortschatzes nicht gerechtfertigt.
+Ein zweiter Test wäre der Vergleich mit einer einfacheren Erklärung. Lässt sich ein Versagen vollständig durch Ressourcenmangel erklären, muss CDJ zeigen, was die Analyse der Subjektarchitektur hinzufügt. Fügt sie nichts Wesentliches hinzu, ist die Verkomplizierung des Wortschatzes nicht gerechtfertigt.
 
 Ein dritter Test wäre eine prospektive Untersuchung. Vor dem nächsten Ereignis müssen die erwarteten Merkmale einer Antwort und die Bedingungen formuliert werden, die zur Revision der Hypothese zwingen würden. Dies hilft, Erklärungskraft von der Fähigkeit zu unterscheiden, im Nachhinein jeden Ausgang zu beschreiben.
 
@@ -550,9 +550,9 @@ Ein vierter Test wäre die Anwendung auf kirchliche oder pädagogische Praxis mi
 
 ### Der zentrale Schluss
 
-Die zentrale These von CTM lässt sich wie folgt rekonstruieren: Der Mensch empfängt sein Sein, ist aber berufen, selbst zu antworten; eine eigene Antwort verlangt die Unterscheidung zwischen Realität und eigener Karte, die Übernahme der Folgen und Offenheit für Korrektur; das Christentum erschließt den letzten Grund dieser Antwort im dreieinigen Gott und ihre Bestimmung in ewiger Gemeinschaft; geschichtliche Formen sind danach zu beurteilen, ob sie eine solche Antwort ermöglichen.
+Die zentrale These von CDJ lässt sich wie folgt rekonstruieren: Der Mensch empfängt sein Sein, ist aber berufen, selbst zu antworten; eine eigene Antwort verlangt die Unterscheidung zwischen Realität und eigener Karte, die Übernahme der Folgen und Offenheit für Korrektur; das Christentum erschließt den letzten Grund dieser Antwort im dreieinigen Gott und ihre Bestimmung in ewiger Gemeinschaft; geschichtliche Formen sind danach zu beurteilen, ob sie eine solche Antwort ermöglichen.
 
-Dies ist eine zusammenhängende und gehaltvolle Forschungsposition. Ihre Stärke verlangt nicht, sämtliche metaphysischen Übergänge bereits für bewiesen, die Theorie der Synergie für abgeschlossen oder die gesamte Methode für empirisch bestätigt zu erklären. Vielmehr setzt die eigene Forderung von CTM, der Realität das Recht zu lassen, die Karte zu verändern, einen angemessenen Maßstab für die weitere Arbeit am Projekt selbst.
+Dies ist eine zusammenhängende und gehaltvolle Forschungsposition. Ihre Stärke verlangt nicht, sämtliche metaphysischen Übergänge bereits für bewiesen, die Theorie der Synergie für abgeschlossen oder die gesamte Methode für empirisch bestätigt zu erklären. Vielmehr setzt die eigene Forderung von CDJ, der Realität das Recht zu lassen, die Karte zu verändern, einen angemessenen Maßstab für die weitere Arbeit am Projekt selbst.
 
 ## Kurzes Glossar
 
@@ -646,13 +646,13 @@ Das Glossar dient der Lektüre dieser Analyse. Es ersetzt nicht das Begriffsregi
 
 **I.** Hierodiakon Panteleimon (Adzhindzhal). „An die Christen des dritten Jahrtausends. Betrachtungen eines abchasischen Exilanten“. Vollständige russische Fassung mit „Ein Essay zur angewandten Metaphysik des Subjekts“, dem theologischen Zyklus und Anhängen. Im Inhaltsverzeichnis dieser Fassung beginnt der „Essay …“ auf S.5; „Die Ausgangsposition. Einst die ursprüngliche“ auf S.39; „Über die Natur des Glaubens“ auf S.50; „Zur Metaphysik der Person“ auf S.64; „Die Sprache Gottes“ auf S.77; „Das Funktionsgefüge der Kirche“ auf S.85; „Zur Ontologie des Logos“ auf S.99; „Glaube als Kompetenz“ auf S.119; „Die Kirche als Infrastruktur zur Bildung personaler Eschatologie“ auf S.135. Innerhalb der Analyse werden bevorzugt Abschnittstitel verwendet, da die Seiteneinteilung von DOCX-Dateien von der Darstellung abhängt.
 
-**II.** „An die Christen des dritten Jahrtausends. Architektur der Subjekthaftigkeit“. Russischer Text mit den Untersuchungen „Genesis der Subjekthaftigkeit“, „Qualität der Ontologie“, „Ontogenese der Subjekthaftigkeit“, „Eschatologische Subjekthaftigkeit“ und „Modernisierung: die erste praktische Anwendung von CTM“. Die Verweise beziehen sich auf die Untersuchungstitel und ihre internen Paragrafen.
+**II.** „An die Christen des dritten Jahrtausends. Architektur der Subjekthaftigkeit“. Russischer Text mit den Untersuchungen „Genesis der Subjekthaftigkeit“, „Qualität der Ontologie“, „Ontogenese der Subjekthaftigkeit“, „Eschatologische Subjekthaftigkeit“ und „Modernisierung: die erste praktische Anwendung von CDJ“. Die Verweise beziehen sich auf die Untersuchungstitel und ihre internen Paragrafen.
 
-**III.** „An die Christen des dritten Jahrtausends. Methodologie der CTM-Analyse“. Russisches PDF mit 107 Seiten. Methodologischer Teil: wirkende Ontologie – Abschnitt II; Genesis und generativer Übergang – III; Erste, Zweite und abgeleitete Ontologien – IV; Zusammenwirken von Ontologien – V; Kommunikation und kollektive Subjekthaftigkeit – VI; das Gemeinsame, Kreditwürdigkeit und Legitimität – VII; Subjektarchitektur – VIII; Vektoranalyse – IX; Verfahren – X; Gestaltung – XI; Grenzen der Methode – XII; Rückkehr zur Frage nach der Kirche – XIII.
+**III.** „An die Christen des dritten Jahrtausends. Methodologie der CDJ-Analyse“. Russisches PDF mit 107 Seiten. Methodologischer Teil: wirkende Ontologie – Abschnitt II; Genesis und generativer Übergang – III; Erste, Zweite und abgeleitete Ontologien – IV; Zusammenwirken von Ontologien – V; Kommunikation und kollektive Subjekthaftigkeit – VI; das Gemeinsame, Kreditwürdigkeit und Legitimität – VII; Subjektarchitektur – VIII; Vektoranalyse – IX; Verfahren – X; Gestaltung – XI; Grenzen der Methode – XII; Rückkehr zur Frage nach der Kirche – XIII.
 
 **Pneumatologische Untersuchung.** „Auf der Suche nach einer Pneumatologie. Von der pneumatologischen Lücke zur trinitarischen Architektur der Subjekthaftigkeit“, zweiter Text des III. Bandes, S.92–107. Die Nummerierung §§1–19 gehört zu diesem eigenständigen Beitrag und darf nicht mit der Nummerierung des methodologischen Teils vermischt werden.
 
-**Redaktionelle Grundlage.** „Überblick über die Philosophie Adzhindzhals“, Fassung 4, 25 Seiten. Übernommen wurde die gelungene Abfolge der Gesamtdarstellung: Ausgangsfrage, philosophische Grundlagen, Theologie, Architektur, Methode, Kritik und Glossar. Die Zuschreibungen und inhaltlichen Schlussfolgerungen der vorliegenden Analyse stützen sich auf das russische CTM-Korpus, nicht auf die Autorität des Überblicks.
+**Redaktionelle Grundlage.** „Überblick über die Philosophie Adzhindzhals“, Fassung 4, 25 Seiten. Übernommen wurde die gelungene Abfolge der Gesamtdarstellung: Ausgangsfrage, philosophische Grundlagen, Theologie, Architektur, Methode, Kritik und Glossar. Die Zuschreibungen und inhaltlichen Schlussfolgerungen der vorliegenden Analyse stützen sich auf das russische CDJ-Korpus, nicht auf die Autorität des Überblicks.
 
 ## Zur Überarbeitung des Überblicks
 
