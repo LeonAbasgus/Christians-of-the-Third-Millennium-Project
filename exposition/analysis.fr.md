@@ -16,7 +16,7 @@ Dans la perspective chrétienne, la capacité de répondre trouve son fondement 
 
 L'objectif pratique de la CTM est d'étudier les fondements réels des actions et des institutions. La méthode permet de demander à une personne ou à une organisation si elle est capable de voir quelles actions sont disponibles, qui a le droit de modifier sa décision et qui en porte le prix. Il prévoit également la conception des conditions dans lesquelles une réponse personnelle devient possible. Mais ni l'analyste, ni le pasteur, ni le chef ne peuvent produire une autographie pour l'homme.
 
-Trois volumes révèlent ce problème de différentes façons. Le premier formule la question philosophique et théologique de l'existence humaine. La seconde décrit l'émergence, la qualité et le développement de la subjectité. Le troisième élabore la procédure d'analyse et de conception des architectures sujets, tandis que l'article final se tourne vers la pneumatologie et la triadologie. Leur relation est l'objet de cet examen.
+Trois volumes révèlent ce problème de différentes façons. Le premier formule la question philosophique et théologique de l'existence humaine. La seconde décrit l'émergence, la qualité et le développement de la subjectalité. Le troisième élabore la procédure d'analyse et de conception des architectures sujets, tandis que l'article final se tourne vers la pneumatologie et la triadologie. Leur relation est l'objet de cet examen.
 
 L'examen a le statut d'exposition secondaire. Les liens mènent aux noms des chapitres et des sections du corps russe; là où la numérotation des paragraphes est utilisée, le travail correspondant est indiqué. Les explications de l'auteur, convenues pour cette revue, sont indiquées séparément et ne sont pas attribuées en citation volumineuse. Les exemples scolaires sont des illustrations de l'examen. Les jugements critiques sont rassemblés dans une section indépendante et ne sont pas attribués à l'auteur du CTM.
 
@@ -48,7 +48,7 @@ Dans ce cas, la volonté d'accepter les conséquences de la vérité doit être 
 
 ### L’axiomatique préréflexive
 
-Dans « Genèse de la subjectité », l’axiomatique préréflexive désigne quatre dispositions pratiques dont une personne vit avant de les formuler conceptuellement : l’herméneutique du commencement, l’herméneutique de la responsabilité, le monothéisme méthodologique et la vérifiabilité ontologique. Elles concernent l’accueil de l’existence reçue, la réponse propre, son orientation ultime et la possibilité de la vérifier. Le préréflexif ne se confond donc ni avec le faux ni avec l’imposé. Il s’agit des conditions de formation d’une position de sujet. [2, «Генезис субъектности», §5]
+Dans « Genèse de la subjectalité », l’axiomatique préréflexive désigne quatre dispositions pratiques dont une personne vit avant de les formuler conceptuellement : l’herméneutique du commencement, l’herméneutique de la responsabilité, le monothéisme méthodologique et la vérifiabilité ontologique. Elles concernent l’accueil de l’existence reçue, la réponse propre, son orientation ultime et la possibilité de la vérifier. Le préréflexif ne se confond donc ni avec le faux ni avec l’imposé. Il s’agit des conditions de formation d’une position de sujet. [2, «Генезис субъектности», §5]
 
 Le langage, les habitudes, les compétences corporelles et les institutions peuvent renforcer cette architecture avant que l'homme puisse la décrire. Dans la mémoire ontologique, l'expérience de coopération et les attentes émanant d'une trahison ou d'un désastre sont conservées. Cette mémoire facilite l'action stable, mais peut réduire la vue et augmenter le prix de correction. C'est pourquoi la pratique héréditaire est capable de développer à la fois une reconnaissance de la liberté et un renforcement de l'addiction. [3, §§43–46, 165–166]
 
@@ -70,7 +70,7 @@ Dieu et l'homme ne sont pas décrits ici comme deux parties, qui ont une répart
 
 Cela ne veut pas dire que tout ce qu'on fait est bon. Une personne peut utiliser sa capacité réelle à répondre pour une action fausse ou destructive. La distinction entre le don de la capacité et le contenu d'une réponse est nécessaire pour que la responsabilité du mal ne soit pas transmise à Dieu.
 
-Mais le fait de ne pas reconnaître un don n'est pas une raison d'exprimer la démence humaine. L'explication de l'auteur concerne le risque de perdre la personnalité déjà atteinte  capacité à reconnaître, à réaliser et à accepter sa propre réponse. Cette distinction exclut la transformation de la méthodologie en un moyen de répartition des personnes selon le degré de leur droit d'être considérés comme des êtres humains. [4]
+Le fait de ne pas reconnaître le don ne donne aucun motif de dénier à qui que ce soit sa dignité humaine. La précision de l’auteur porte sur le risque de perdre la subjectalité personnelle déjà acquise, capacité de discerner, de réaliser et d’assumer sa propre réponse. Cette distinction exclut tout usage de la méthode qui hiérarchiserait le droit d’être considéré comme humain. [4]
 
 ### La grâce et les limites de la vérification
 
@@ -78,7 +78,7 @@ Dans l'article "En quête de pneumatologie", on détermine la frontière entre l
 
 Ainsi, la grâce est le fondement théologique de l'option d'une réponse et la méthode explore les affirmations, actions et conditions disponibles au jugement humain. Ces niveaux sont liés, mais ne se remplacent pas.
 
-## 4 La subjectité et la limite de l’autonomie
+## 4 La subjectalité et la limite de l’autonomie
 
 ### Trois sens de la dépendance
 
@@ -126,7 +126,7 @@ Dans l'Incarnation, l'initiative divine est inscrite dans l'histoire humaine. Da
 
 L'action ontique se fait dans un ordre déjà établi: elle résout une tâche spécifique, reproduit des compétences ou maintient l'organisation de la vie existante. La question ontologique concerne le même ordre de ce qu'il suppose. Le CTH explore les transitions dans lesquelles la façon dont l'homme se rapporte à la réalité change. [1, «Опыт прикладной метафизики субъекта», гл. 3; 2, «Онтогенез субъектности»]
 
-Le premier tome utilise le langage radical de la rupture et contraste l'action ontologique à la reproduction entropique de l’existant. La formulation selon laquelle l'action ontique reproduit la distorsion est réellement présente dans l'original. Lors de l'examen du corps entier, il est nécessaire de le comparer avec l'analyse de la cristallisation, des compétences et des institutions stables dans les deuxième et troisième volumes. L'éducation, le traitement et la maintenance de l'infrastructure peuvent créer des conditions pour leur propre réponse. La résilience et la répétition ne peuvent donc pas être considérées comme des signes de perte de sujets.
+Le premier tome emploie le langage radical de la rupture et oppose l’action ontologique à la reproduction entropique de l’existant. Le texte original affirme bien que l’action ontique reproduit la distorsion. À l’échelle du corpus, il faut lire cette formule à la lumière de l’analyse de la cristallisation, des compétences stables et des institutions dans les tomes II et III. L’éducation, les soins et l’entretien des infrastructures peuvent rendre possible une réponse propre. La stabilité et la répétition ne suffisent donc pas à signaler une perte de subjectalité.
 
 L'arrêt ontologique indique la limite de l'ancienne façon d'agir. Elle ne garantit pas de changement: il est possible de nier les incohérences, de rétablir l'ancien schéma ou de trouver une nouvelle réponse. La transition générative signifie l'apparition d'une autre architecture de possibilités, et la cristallisation  le renforcement de la capacité née dans une forme reproduisible. Ce renforcement est nécessaire pour que le nouveau départ ne soit pas un épisode unique. [2, «Онтогенез субъектности»; 3, разд. III]
 
@@ -146,13 +146,13 @@ La langue de Dieu pose la question de savoir comment confesser le Dieu d'amour e
 
 ### Espace iconique dynamique et système opératoire
 
-L'espace iconique dynamique, ou DIP, décrit la configuration de ce qui est présent à l'homme comme réel et significatif. Elle comprend des images, des liens, des scènes, des attentes, des idées sur soi-même et les autres, sur le temps et la Fondation. La question n'est pas seulement de savoir combien d'informations il y a, mais aussi de savoir quelles relations on peut maintenir en même temps. [2, «Качество онтологии»; 3, разд. II]
+L'espace iconique dynamique, ou EID, décrit la configuration de ce qui est présent à l'homme comme réel et significatif. Elle comprend des images, des liens, des scènes, des attentes, des idées sur soi-même et les autres, sur le temps et la Fondation. La question n'est pas seulement de savoir combien d'informations il y a, mais aussi de savoir quelles relations on peut maintenir en même temps. [2, «Качество онтологии»; 3, разд. II]
 
 Le système d'exploitation, ou OS, décrit les façons de travailler avec le reconnaissable. Son contour réceptif-interprétatif est lié à la perception et à la compréhension, le projet-exécution  avec la construction et la mise en œuvre de l'action, le réflexe correctionnel  avec l'apprentissage des incohérences découvertes. Ces contours ne sont pas des sujets distincts: l'homme entier voit, décide et agit.
 
-La subjectité dans cette architecture est le principe et la responsabilité de l'architecture. Dans l'analyse des institutions, les pouvoirs de reconnaître, d'interpréter, de commencer, de participer, d'opposer, de corriger et d'arrêter sont essentiels. Le poste formel ne correspond pas toujours à la répartition effective de ces possibilités. [3, разд. VIII]
+La subjectalité dans cette architecture est le principe et la responsabilité de l'architecture. Dans l'analyse des institutions, les pouvoirs de reconnaître, d'interpréter, de commencer, de participer, d'opposer, de corriger et d'arrêter sont essentiels. Le poste formel ne correspond pas toujours à la répartition effective de ces possibilités. [3, разд. VIII]
 
-La formule DIP × OS × subjectité indique la dépendance des mesures. Elle ne propose pas de calculer l'identité par le multiplication de trois nombres. La vision large sans méthodes d'action peut rester stérile; la compétence technique avec une carte étroite  servir à un but erroné; la liberté formelle sans moyens de réalisation  rester une déclaration.
+La formule EID × OS × subjectalité indique la dépendance des mesures. Elle ne propose pas de calculer l'identité par le multiplication de trois nombres. La vision large sans méthodes d'action peut rester stérile; la compétence technique avec une carte étroite  servir à un but erroné; la liberté formelle sans moyens de réalisation  rester une déclaration.
 
 ### La qualité de l’ontologie
 
@@ -162,7 +162,7 @@ La situation limitée du premier volume est une façon de détecter la qualité 
 
 ### Le livre des scénarios
 
-Le livre des scénarios articule l’espace iconique dynamique, le système opératoire et la subjectité dans une situation concrète. Il décrit les règles selon lesquelles un événement reconnu se relie aux attentes, aux opérations disponibles et aux réponses possibles. Il ne détermine pas l’acte à l’avance. [3, разд. II, §22а]
+Le livre des scénarios articule l’espace iconique dynamique, le système opératoire et la subjectalité dans une situation concrète. Il décrit les règles selon lesquelles un événement reconnu se relie aux attentes, aux opérations disponibles et aux réponses possibles. Il ne détermine pas l’acte à l’avance. [3, разд. II, §22а]
 
 On distingue ici les réponses possibles, disponibles et effectivement réalisées. Une possibilité peut exister sans être reconnue. Une option reconnue peut rester pratiquement inaccessible faute de compétence ou de ressource. Même lorsque tous les moyens sont réunis, l’acte peut ne pas avoir lieu.
 
@@ -174,7 +174,7 @@ La première ontologie concerne la responsabilité directe dans l'espace des rel
 
 Le passage à la fonction publique exige de distinguer l'homme et le poste, la sympathie personnelle et le devoir, l'appartenance et la compétence. Le juge doit examiner l'affaire d'un inconnu, indépendamment de son lieu de résidence. Toutefois, l'exécution de la fonction ne doit pas éliminer la visibilité d'une personne concernée par une décision.
 
-Les ontologies de production sont issues des domaines spécialisés  droit, science, éducation, gestion, technique. Chacun fait apparaître certaines caractéristiques de la situation, et peut ignorer d'autres. La traduction interjontologique signifie donc la restauration des conditions du sens, et non pas simplement le remplacement des mots. Les descriptions économiques, juridiques et pastorales d'une situation peuvent être différentes. [3, разд. V]
+Les ontologies dérivées apparaissent dans des domaines spécialisés comme le droit, les sciences, l’éducation, l’administration et la technique. Chacune rend visibles certains aspects d’une situation et peut en laisser d’autres hors de son champ. La traduction interontologique consiste donc à reconstruire les conditions du sens. Les descriptions économique, juridique et pastorale d’une même situation peuvent faire apparaître des obligations différentes. [3, разд. V]
 
 La modernisation dans le CTM est considérée par une rencontre entre la complexité des fonctions sociales et l'émergence de la capacité humaine à les prendre en charge. La création d'un établissement ne signifie pas encore l'apprentissage de la méthode appropriée. La procédure juridique peut exister de manière formelle, alors que les décisions réelles sont toujours déterminées par la loyauté personnelle. [2, «Модернизация»]
 
@@ -182,7 +182,7 @@ L'axe horizontal de la modernisation concerne le passage entre les échelles et 
 
 Le premier volume examine les relations entre les personnes à travers la distinction entre une relation fermée et fondée. La question est de savoir si les participants peuvent conserver leur propre réponse, si l'un d'eux se confie la position de fondement définitif pour l'autre. La perspective chrétienne relie la possibilité de complicité à une base commune qui ne appartient à aucun participant. La proclamation même d'une telle Fondation ne garantit pas encore un système de relations approprié: l'institution peut se référer à Dieu et en même temps remplacer l'auteur humain. [1, «Опыт прикладной метафизики субъекта», гл. 4]
 
-La subjectité collective exige d'étudier comment la reconnaissance distribuée devient une décision commune, qui peut la corriger et qui paie les conséquences. La communauté ne se développe pas seulement parce que la direction a parlé au nom du groupe. La capacité de paiement et la capacité de crédit ontologiques associent le fait d'être prêt à agir avec la réelle capacité d'accepter son prix et de gagner sa confiance. Ces concepts ne se résument pas aux moyens financiers: le temps, les compétences, les obligations et les conditions de reproduction des actions conjointes sont également importants. [3, разд. VI– VIII]
+La subjectalité collective exige d'étudier comment la reconnaissance distribuée devient une décision commune, qui peut la corriger et qui paie les conséquences. La communauté ne se développe pas seulement parce que la direction a parlé au nom du groupe. La capacité de paiement et la capacité de crédit ontologiques associent le fait d'être prêt à agir avec la réelle capacité d'accepter son prix et de gagner sa confiance. Ces concepts ne se résument pas aux moyens financiers: le temps, les compétences, les obligations et les conditions de reproduction des actions conjointes sont également importants. [3, разд. VI– VIII]
 
 ### Le commun, la légitimité et le coût
 
@@ -200,7 +200,7 @@ La déclaration et l'action sont ensuite comparées. Qui remarque une erreur ? S
 
 La topographie de l'objet montre les porteurs et le lieu de concentration des possibilités d'action. La topologie examine les liens entre eux: comment l'initiative, l'objection ou la responsabilité passent d'un participant à un autre. L'analyse vectorielle ajoute la direction du changement dans le temps. Une augmentation de l'activité ou de la mobilisation peut être accompagnée d'une réduction de la capacité à s'opposer et à corriger. [3, разд. VIII–IX]
 
-### Le vecteur de la subjectité
+### Le vecteur de la subjectalité
 
 Un profil vectoriel décrit le porteur, le niveau et la direction du changement, la répartition des prérogatives, la dynamique, la correspondance avec la fonction déclarée et la solvabilité. L’analyse tient compte du temps et de l’échelle. Une centralisation peut, par exemple, rétablir provisoirement la capacité d’agir, puis pérenniser la privation d’initiative. La conclusion doit porter sur une configuration établie d’acteurs, de temps et de niveau. Sinon, des données portant sur des états différents font apparaître un lien causal illusoire. [3, разд. IX–X]
 
@@ -244,7 +244,7 @@ La distinction de l'auteur entre actualisation et réforme souligne la nécessit
 
 La responsabilité pastorale concerne les possibilités de réponse personnelle que le guide spirituel crée. Un autre peut aider à voir, enseigner, corriger et avertir, mais il ne peut pas vivre en réponse à Dieu. L'obéissance peut être impliquée dans la formation de la personne; son résultat est évalué par le fait qu'une personne devient plus capable de reconnaître, répondre et accepter des responsabilités. [3, §§163–166]
 
-Dans le corps lui-même, deux possibilités sont distinguées: prendre temporairement une décision de l'autre plus compétent pour apprendre et lui transmettre régulièrement ses droits de reconnaissance, de choix et de responsabilité. Dans le premier cas, l'asymétrie de la compétence aide au développement; dans le second,  consolide la substitution de la subjectité. Il s'agit donc non seulement du comportement de l'élève, mais aussi de la fonction réelle de la direction spirituelle. [3, §§165–166]
+Dans le corps lui-même, deux possibilités sont distinguées: prendre temporairement une décision de l'autre plus compétent pour apprendre et lui transmettre régulièrement ses droits de reconnaissance, de choix et de responsabilité. Dans le premier cas, l'asymétrie de la compétence aide au développement; dans le second,  consolide la substitution de la subjectalité. Il s'agit donc non seulement du comportement de l'élève, mais aussi de la fonction réelle de la direction spirituelle. [3, §§165–166]
 
 Dans la communication ecclésiastique, l'on accède à une expérience de foi par le culte, la communication et la pratique. Leur fonction d'infrastructure est de rendre la participation et leur propre réponse viables. La continuité suppose l'apprentissage de l'expérience transmise dans des conditions changeantes. Le critère d'un guide spirituel est la capacité de discerner, de répondre et d'accepter les responsabilités que l'on peut cultiver. [1, «Церковь как инфраструктура формирования персональной эсхатологии»; 3, §§164–166; 4]
 
@@ -252,7 +252,7 @@ Dans la communication ecclésiastique, l'on accède à une expérience de foi pa
 
 L'article "En recherche de pneumatologie" explore comment l'architecture de la réponse peut être comprise par rapport à l'action unique de la Trinité. Elle a posé une question sur la conceptualisation spéciale de la mesure pneumatique. Cela ne signifie pas que la grâce n'était pas présente dans les bases originales de la CTM: son statut est déjà indiqué dans le "conditionnement d'interprétation" du premier volume. [1; 3, «В поисках пневматологии», §§1–4, 18]
 
-Des correspondances formelles sont proposées: la sujétion est liée à l'aspect otétique du début et de l'auteur, le OS  avec l'aspect fils, l'aspect logos de la différenciation et de l'opération, le DIP  partiellement avec l'aspect pneumatologique de la présence. Ces correspondances ne divisent pas l'homme entre trois causes divines indépendantes. L'action unique de la Trinité n'est pas divisée en fonctions isolées. [3, «В поисках пневматологии», §§5–10]
+Les correspondances formelles proposées relient la subjectalité à l’aspect paternel du commencement et de la qualité d’auteur, le système d’exploitation à l’aspect filial de la distinction et de l’opération, lié au Logos, et l’EID en partie à l’aspect pneumatologique de la présence. Ces correspondances ne répartissent pas l’être humain entre trois causes divines indépendantes. L’action unique de la Trinité demeure indivise. [3, «В поисках пневматологии», §§5–10]
 
 La mesure pneumatologique passe par toute l'architecture: ouverture, réanimation de la vérité, guérison et possibilité de correction effective. L'intensité de la présence ne prouve pas par elle-même que c'est vrai: la peur ou une fausse image peuvent également capter l'attention.
 
@@ -276,9 +276,9 @@ La première question de fond concerne le rapport entre la demande radicale d'au
 
 La réponse affecte la pratique. Si un chemin universel est décrit, il faut montrer sa nécessité. Si le modèle est limité, il est important de déterminer comment il aide à comprendre ceux qui n'ont pas la forme d'une crise comme celle-ci. L'examen ne doit ni ni nier la présence d'une exigence dans le texte, ni déclarer lui-même une question résolue.
 
-### Les usages normatif et analytique de la subjectité
+### Les usages normatif et analytique de la subjectalité
 
-Dans le premier volume, la subjectité est étroitement liée à la fidélité de la réalité et du Logos. Les sections méthodologiques étudient également les principes réels, susceptibles d'être erronés ou destructeurs. Il faut distinguer la réalité de l'auteur et la qualité de son orientation. Autrement, le cercle se forme: une action désagréable est déclarée non subjective uniquement parce qu'elle ne correspond pas à la norme du chercheur.
+Dans le premier volume, la subjectalité est étroitement liée à la fidélité de la réalité et du Logos. Les sections méthodologiques étudient également les principes réels, susceptibles d'être erronés ou destructeurs. Il faut distinguer la réalité de l'auteur et la qualité de son orientation. Autrement, le cercle se forme: une action désagréable est déclarée non subjective uniquement parce qu'elle ne correspond pas à la norme du chercheur.
 
 Cette distinction est particulièrement importante dans l'analyse des institutions non chrétiennes. La base chrétienne de la méthode détermine son horizon limité, mais les compétences spécifiques et les possibilités réelles d'un autre sujet doivent être décrites sans leur préalable nullité en raison des différences confessions.
 
@@ -336,7 +336,7 @@ Je suis là. L'espace iconique dynamique: la configuration du présent pour le s
 
 Le système d'exploitation Système d'exploitation: les modes de perception et d'interprétation, de conception et d'exécution, de réflexion et de correction.
 
-Un livre de scénarios. Règles de liaison situative entre les DIP, le SOP et la sujets dans la configuration d'une réponse accessible. Il ne définit pas l'action comme inévitable.
+Un livre de scénarios. Règles de liaison situative entre les EID, le SOP et la sujets dans la configuration d'une réponse accessible. Il ne définit pas l'action comme inévitable.
 
 La qualité de l'ontologie. C'est la capacité de retenir la réalité, d'agir, de vérifier les bases et de développer sa propre réponse. Il ne s'agit pas d'un seul indicateur ou d'une seule efficacité.
 
@@ -380,11 +380,11 @@ Dans la perspective de l'Église, ce travail est axé sur l'apprentissage et l'a
 
 [1] Hiérodiacre Pantéléimon (Leon Adzhindzhal). Aux chrétiens du troisième millénaire. Tome I, Réflexions d’un exilé abkhaze. Les renvois indiquent les chapitres et sous-sections de l’édition russe. La « Condition d’interprétation » suit le chapitre sur l’Église comme infrastructure de formation de l’eschatologie personnelle. [Texte russe du volume I](https://doi.org/10.5281/zenodo.19776054).
 
-[2] Hiérodiacre Pantéléimon (Leon Adzhindzhal). Aux chrétiens du troisième millénaire. Tome II, Architecture de la subjectité. Les renvois indiquent les études et leurs paragraphes numérotés. [Texte russe et traductions du volume II](https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-II).
+[2] Hiérodiacre Pantéléimon (Leon Adzhindzhal). Aux chrétiens du troisième millénaire. Tome II, Architecture de la subjectalité. Les renvois indiquent les études et leurs paragraphes numérotés. [Texte russe et traductions du volume II](https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-II).
 
 [3] Hiérodiacre Pantéléimon (Leon Adzhindzhal). Aux chrétiens du troisième millénaire. Tome III, Méthodologie de l’analyse CTM. Les chiffres romains désignent les sections de la méthodologie. L’article « À la recherche d’une pneumatologie » possède sa propre numérotation. [Texte russe et traductions du volume III](https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-III).
 
-[4] Définitions d'auteurs sur l'explication de la CTM: grâce comme horizon donnée par le Dieu Trinique Personnel; distinction entre dignité humaine et subjectité personnelle atteinte; actualisation de la tradition ecclésiastique et inévitabilité de sa propre réponse. Ils sont considérés comme des explications de l'auteur, et non comme des citations orales du corps.
+[4] Définitions d'auteurs sur l'explication de la CTM: grâce comme horizon donnée par le Dieu Trinique Personnel; distinction entre dignité humaine et subjectalité personnelle atteinte; actualisation de la tradition ecclésiastique et inévitabilité de sa propre réponse. Ils sont considérés comme des explications de l'auteur, et non comme des citations orales du corps.
 
 [Navigation dans le corpus](https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/corpus/) · [Métadocument canonique](https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/ru/) · [Versions linguistiques de l’exposé](https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/exposition/).
 

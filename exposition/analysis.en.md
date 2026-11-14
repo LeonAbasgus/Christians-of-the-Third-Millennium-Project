@@ -70,7 +70,7 @@ God and man are not described here as two participants with limited scope of act
 
 It does not mean that every deed is good. A person can use his real ability to answer for a false or destructive action. The distinction between the gift of ability and the content of an answer is necessary so that responsibility for evil does not fall on God.
 
-However, the lack of recognition of a gift does not give reason to declare a person deprived of human dignity. The author's clarification is about the risk of losing a person's already attained personality  ability to recognize, implement and accept their own response. This distinction excludes the conversion of methodology into a means of allocating people to the extent that they have the right to be considered human. [4]
+Failure to acknowledge the gift gives no grounds for denying anyone human dignity. The author’s clarification concerns the risk of losing attained personal subjecthood, the capacity to discern, enact and own one’s response. This distinction precludes using the method to rank people by their right to be considered human. [4]
 
 ### Grace and the Limits of Verification
 
@@ -126,7 +126,7 @@ In the incarnation, the divine initiative is part of human history. In the Passi
 
 Ontic action is carried out within a given order: solves a specific task, reproduces skill or maintains an existing life organization. The ontological question is about the very order of what basis and possibilities it implies. CTM is exploring the transitions that change how people relate to reality. [1, «Опыт прикладной метафизики субъекта», гл. 3; 2, «Онтогенез субъектности»]
 
-The first volume uses a radical language of disruption and contrasts the ontological action with the entropic reproduction of cash. The formula that the ontic action reproduces distortion is actually in the original. When reviewing the entire body, it should be compared with the analysis of crystallization, stable competencies and institutions in the second and third volumes. Training, treatment and maintenance of infrastructure can create conditions for their own response. Therefore, persistence and repetition cannot be considered as signs of loss of subjecthood.
+Volume I uses the radical language of rupture and contrasts ontological action with the entropic reproduction of the existing order. The original explicitly states that ontic action reproduces distortion. In the context of the corpus as a whole, this must be read alongside the discussion of crystallization, stable competencies and institutions in Volumes II and III. Education, treatment and maintenance of infrastructure can enable one’s own response. Stability and repetition alone do not indicate loss of subjecthood.
 
 The ontological stop indicates the limit of the previous mode of action. It does not guarantee transformation: it is possible to deny inconsistency, restore an old pattern or find a new answer. Generative transition means the emergence of a different architecture of possibilities, and crystallization  the consolidation of an emerging ability in a reproducible form. This is a necessary consolidation so that the new beginning does not remain a single episode. [2, «Онтогенез субъектности»; 3, разд. III]
 
@@ -146,13 +146,13 @@ The language of God asks how the confession of a God of love relates to sufferin
 
 ### Dynamic Iconic Space and Operating System
 
-Dynamic Iconic Space, or DIP, describes the configuration of what is present to a person as real and meaningful. It includes images, connections, scenes, expectations, ideas about ourselves and others, time and the Foundation. The question is not just the amount of information, but what kind of relationships a person can maintain at the same time. [2, «Качество онтологии»; 3, разд. II]
+Dynamic Iconic Space, or DIS, describes the configuration of what is present to a person as real and meaningful. It includes images, connections, scenes, expectations, ideas about ourselves and others, time and the Foundation. The question is not just the amount of information, but what kind of relationships a person can maintain at the same time. [2, «Качество онтологии»; 3, разд. II]
 
 The operating system, or OS, describes the ways in which a recognized object works. Its receptive-interpretational contours are related to perception and understanding, the projective-executive  with constructing and implementing action, the reflective-correctional  with learning on detected inconsistencies. These contours are not individual subjects: the whole person sees, decides and acts.
 
 Subjecthood in this architecture refers to one's own beginning and responsibility for it. In the analysis of institutions, the powers to recognize, interpret, initiate, participate, object, correct and stop action are essential. The formal position does not always coincide with the actual distribution of these opportunities. [3, разд. VIII]
 
-The formula DIP × OS × subjecthood denotes the interdependence of measurements. It doesn't suggest that you calculate identity by multiplying three numbers. A broad vision without a way of doing things can remain fruitless; technical competence with a narrow map  serve an erroneous purpose; formal freedom without means of implementation  remains a declaration.
+The formula DIS × OS × subjecthood denotes the interdependence of measurements. It doesn't suggest that you calculate identity by multiplying three numbers. A broad vision without a way of doing things can remain fruitless; technical competence with a narrow map  serve an erroneous purpose; formal freedom without means of implementation  remains a declaration.
 
 ### Quality of Ontology
 
@@ -174,7 +174,7 @@ The first one is about direct responsibility in the space of specific relationsh
 
 Moving to a social function requires distinguishing between person and position, personal sympathy and duty, belonging and competence. The judge must hear the case of a stranger regardless of his personal situation. However, the performance of a function should not eliminate the visibility of a particular person affected by the decision.
 
-Production ontologies arise in the specialized fields of law, science, education, management, and engineering. Each makes certain properties of the situation visible, while others may be overlooked. Interjectional translation therefore means the restoration of meaning, not simply a substitution for words. Economic, legal and pastoral descriptions of a situation may have different obligations. [3, разд. V]
+Derived ontologies arise in specialized fields such as law, science, education, administration and technology. Each makes certain features of a situation visible while potentially leaving others outside its scope. Interontological translation recovers the conditions that give a description its meaning. Economic, legal and pastoral accounts of one situation may bring different obligations into view. [3, разд. V]
 
 Modernization in ICT is considered through the encounter of complex social functions and the development of human capacity to take them into account. The establishment of an institution does not yet mean that you have mastered the appropriate way. Legal proceedings can exist formally, whereas real decisions are still determined by personal loyalty. [2, «Модернизация»]
 
@@ -252,7 +252,7 @@ In church communication, a person gains access to faith through worship, communi
 
 The article In the Search for Pneumatoology explores how the architecture of the answer can be made meaningful in relation to the unified action of the Trinity. Her question is about the special conceptualization of pneumatic measurement. It does not mean that grace was absent in the original foundations of CTM: its status is already indicated in the "Interpretation Condition" of the first volume. [1; 3, «В поисках пневматологии», §§1–4, 18]
 
-Formal correspondence is proposed: subjecthood relates to the otetic aspect of origin and authorship, OS  with sonic, logos aspect of differentiation and operation, DIP  partially with the pneumatological aspect of presence. These correspondences do not divide man among three independent Divine causes. The Trinity's single action is not divided into isolated functions. [3, «В поисках пневматологии», §§5–10]
+The proposed formal correspondences relate subjecthood to the paternal aspect of beginning and authorship, the OS to the filial, Logos-related aspect of distinction and operation, and DIS partly to the pneumatological aspect of presence. These correspondences do not divide the human being among three independent divine causes. The single action of the Trinity is indivisible into isolated functions. [3, «В поисках пневматологии», §§5–10]
 
 Pneumatic measurement goes through the whole architecture: openness, reviving a relationship to truth, healing and the possibility of real correction. The intensity of presence does not in itself indicate truth: fear or false imagery can also completely capture a person's attention.
 
@@ -332,11 +332,11 @@ It's the ontological stop. The discovery of a limit to the previous configuratio
 
 It's an ontological redirect. Refusal to claim to be the ultimate basis for your existence while maintaining responsibility. Christian content is the relationship to God-Logos.
 
-The DIP. Dynamic iconic space: the configuration of what is present to the subject as real and meaningful.
+The DIS. Dynamic iconic space: the configuration of what is present to the subject as real and meaningful.
 
 The OS. Operating system: ways of perception and interpretation, design and execution, reflection and correction.
 
-The Scenario Book. Rules for situational linking of DIP, OS and subjecthood to the configuration of an available response. It doesn't define an action with inevitability.
+The Scenario Book. Rules for situational linking of DIS, OS and subjecthood to the configuration of an available response. It doesn't define an action with inevitability.
 
 The quality of the ontology. Characteristic of the ability to hold on to reality, act, test the foundations and develop your own response. It's not just about efficiency or one indicator.
 
