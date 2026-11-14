@@ -29,6 +29,9 @@ Authorized Meta-Document translations: Russian, German, French, Greek, Serbian
 - operative ontology != operational ontology != Operating System.
 - no transition without a demonstrated transition.
 - fail-closed blocks unauthorized continuation; it does not prove an alternative outcome.
+- Statement provenance, concept maturity, and validation of a particular result are separate. A CORPUS / CANONICAL designation establishes provenance and does not validate an application.
+- Human dignity belongs to every person. Attained personal subjecthood can develop and weaken.
+- An operational ontology qualifies as a derived ontology where it meets the criteria of CTM III §53.
 - Preserve provenance and historical genealogy. Give current methodological priority to later explicit normalization where it refines earlier technical formulations.
 - Do not infer new CTM doctrine from graph relations, metadata, or prospective research labels.
 - GTOA is a future research horizon, not a completed independent theory or methodology in CTM I-III.

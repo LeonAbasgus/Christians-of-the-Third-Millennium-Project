@@ -40,6 +40,8 @@ Tout énoncé substantiel de ce méta-document relève de l’un des trois statu
 
 Si aucun statut de provenance ne peut être attribué à un énoncé avec un degré suffisant de certitude, cet énoncé n’a pas sa place dans le présent méta-document.
 
+Ces statuts indiquent la provenance d’un énoncé. Le degré de maturité d’un concept et le degré de validation d’un résultat particulier sont établis séparément. Le statut CORPUS / CANONIQUE atteste un lien avec le corpus et ne valide pas à lui seul le résultat d’une application de la méthode.
+
 ### Règle de non-expansion
 
 > **Si un énoncé étend CTM au lieu d’identifier, de normaliser ou d’expliciter expressément une structure déjà développée, il n’a pas sa place dans le présent méta-document.**
@@ -87,6 +89,8 @@ La subjectalité devient possible là où l’être humain devient le porteur ef
 En conséquence :
 
 > **La subjectalité est la capacité d’un être dérivé à devenir la source effective d’une réponse qui lui soit propre sans revendiquer de souveraineté sur la Réalité qui le précède.**
+
+**Normalisation auctoriale.** La dignité humaine appartient à chaque être humain. La subjectalité personnelle acquise peut se développer et s’affaiblir. L’évaluation de la capacité à donner et à assumer sa propre réponse laisse intacte la dignité de la personne.
 
 Dans l’architecture actuelle, il convient de distinguer les niveaux suivants :
 
@@ -645,6 +649,8 @@ L’**ontologie opérationnelle** est le concept développé dans CTM II pour d�
 
 Les ontologies opérationnelles peuvent apparaître en relation avec des rôles, des pratiques, des institutions et des formes d’activité spécialisés.
 
+**Rapport aux ontologies dérivées.** CTM II (« Modernisation », sous-sections « Généalogie des ontologies » et « Émergence des ontologies opérationnelles ») décrit les ontologies opérationnelles comme dérivées de l’ontologie socio-institutionnelle et examine comment une fonction donnée acquiert sa propre architecture de distinctions. CTM III (§53) définit les ontologies dérivées comme des architectures spécialisées de visibilité et d’action qui apparaissent au sein de la Seconde Ontologie ou à son intersection avec d’autres formes. Lorsqu’une ontologie opérationnelle satisfait aux critères du §53, elle relève des ontologies dérivées au sens de CTM III. Les termes mettent l’accent sur des aspects différents : l’exercice d’une fonction dans CTM II et la place d’une architecture spécialisée dans la généalogie des ontologies dans CTM III.
+
 ## Système d’exploitation
 
 Le **Système d’exploitation** est l’une des trois dimensions interdépendantes au moyen desquelles CTM III analyse l’ontologie opérante.
@@ -866,6 +872,7 @@ Pour l’usage français actuel lisible par machine :
 | субъектная проектность | **projectualité subjectale** |
 | действующая онтология | **ontologie opérante** |
 | операциональная онтология | **ontologie opérationnelle** |
+| производная онтология | **ontologie dérivée** |
 | Операционная Система | **Système d’exploitation (OS)** |
 | Динамическое Иконическое Пространство | **Espace Iconique Dynamique (EID)** |
 | сценарная книга | **Livre des scénarios** |

@@ -40,6 +40,8 @@ Jede inhaltliche Aussage in diesem Metadokument besitzt einen von drei Provenien
 
 Wenn einer Aussage nicht mit hinreichender Sicherheit einer dieser Status zugewiesen werden kann, gehört sie nicht in dieses Metadokument.
 
+Diese Statusangaben kennzeichnen die Herkunft einer Aussage. Der Reifegrad eines Begriffs und der Grad der Validierung eines konkreten Ergebnisses werden gesondert bestimmt. Der Status KORPUS / KANONISCH belegt den Bezug zum Korpus und validiert für sich genommen kein Ergebnis einer Anwendung der Methode.
+
 ### Nicht-Erweiterungsregel
 
 > **Wenn eine Aussage CDJ erweitert, anstatt eine bereits entwickelte Struktur zu identifizieren, zu normalisieren oder ausdrücklich zu explizieren, gehört sie nicht in dieses Metadokument.**
@@ -87,6 +89,8 @@ Subjekthaftigkeit wird dort möglich, wo der Mensch zum tatsächlichen Träger e
 Dementsprechend:
 
 > **Subjekthaftigkeit ist die Fähigkeit eines abgeleiteten Wesens, zu einer tatsächlichen Quelle einer eigenen Antwort zu werden, ohne Souveränität über die ihm vorausgehende Realität zu beanspruchen.**
+
+**Autoriale Normalisierung.** Die Menschenwürde kommt jedem Menschen zu. Die erreichte personale Subjekthaftigkeit kann sich entwickeln und abschwächen. Die Beurteilung der Fähigkeit, eine eigene Antwort zu geben und zu verantworten, lässt die Würde des Menschen unberührt.
 
 Innerhalb der gegenwärtigen Architektur sind folgende Ebenen zu unterscheiden:
 
@@ -647,6 +651,8 @@ Diese Begriffe dürfen nicht miteinander verschmolzen werden.
 
 Operationale Ontologien können im Zusammenhang mit spezialisierten Rollen, Praktiken, Institutionen und Tätigkeitsformen entstehen.
 
+**Verhältnis zu abgeleiteten Ontologien.** CDJ II („Modernisierung“, Unterabschnitte „Genealogie der Ontologien“ und „Entstehung operationaler Ontologien“) beschreibt operationale Ontologien als Ableitungen aus der sozial-institutionellen Ontologie und untersucht, wie eine konkrete Funktion eine eigene Architektur der Unterscheidungen erhält. CDJ III (§53) bestimmt abgeleitete Ontologien als spezialisierte Architekturen der Sichtbarkeit und des Handelns, die innerhalb der Zweiten Ontologie oder an ihrer Schnittstelle mit anderen Formen entstehen. Erfüllt eine operationale Ontologie die Kriterien in §53, gehört sie zu den abgeleiteten Ontologien im Sinne von CDJ III. Die Begriffe setzen unterschiedliche Akzente auf die Ausübung einer Funktion in CDJ II und auf die Stellung einer spezialisierten Architektur in der Genealogie der Ontologien in CDJ III.
+
 ## Betriebssystem
 
 Das **Betriebssystem** ist eine der drei wechselseitig abhängigen Dimensionen, durch welche CDJ III die wirkende Ontologie analysiert.
@@ -872,6 +878,7 @@ Für den gegenwärtigen maschinenlesbaren deutschen Gebrauch:
 | субъектная проектность | **subjekthafte Projektualität** |
 | действующая онтология | **wirkende Ontologie** |
 | операциональная онтология | **operationale Ontologie** |
+| производная онтология | **abgeleitete Ontologie** |
 | Операционная Система | **Betriebssystem (OS)** |
 | Динамическое Иконическое Пространство | **Dynamischer Ikonischer Raum (DIS)** |
 | сценарная книга | **Szenariobuch** |

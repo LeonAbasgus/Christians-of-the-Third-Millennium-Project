@@ -40,6 +40,8 @@ Every substantive statement in this meta-document is governed by one of three pr
 
 If no provenance status can be assigned with sufficient confidence, the statement does not belong in this meta-document.
 
+These statuses identify a statement’s provenance. The maturity of a concept and the degree to which a particular result has been validated are assessed separately. A CORPUS / CANONICAL designation attests to a connection with the corpus and does not by itself validate the result of applying the method.
+
 ### Non-Expansion Rule
 
 > **If a statement expands CTM rather than identifying, normalizing, or explicitly explicating an already developed structure, it does not belong in this meta-document.**
@@ -87,6 +89,8 @@ Subjecthood becomes possible where the human being becomes an actual bearer of a
 Accordingly:
 
 > **Subjecthood is the capacity of a derivative being to become an actual source of a response of his own without claiming sovereignty over the Reality that precedes him.**
+
+**Authorial normalization.** Human dignity belongs to every human being. Attained personal subjecthood can develop and weaken. Assessing a person’s capacity to give and own a response leaves that person’s dignity fully intact.
 
 Within the present architecture, the following levels must be distinguished:
 
@@ -641,6 +645,8 @@ These terms must not be merged.
 
 Operational ontologies may arise in connection with specialized roles, practices, institutions, and forms of activity.
 
+**Relation to derived ontologies.** CTM II (“Modernization,” the subsections “Genealogy of Ontologies” and “Emergence of Operational Ontologies”) describes operational ontologies as derived from social-institutional ontology and examines how a particular function acquires its own architecture of distinctions. CTM III (§53) defines derived ontologies as specialized architectures of visibility and action that arise within the Second Ontology or at its intersection with other forms. Where an operational ontology meets the criteria in §53, it qualifies as a derived ontology in the sense of CTM III. The terms emphasize different aspects: the performance of a function in CTM II and the place of a specialized architecture in the genealogy of ontologies in CTM III.
+
 ## Operating System
 
 **Operating System** is one of the three interdependent dimensions through which CTM III analyzes operative ontology.
@@ -868,6 +874,7 @@ For current machine-readable English usage:
 | субъектная проектность | **subjectual projectuality** |
 | действующая онтология | **operative ontology** |
 | операциональная онтология | **operational ontology** |
+| производная онтология | **derived ontology** |
 | Операционная Система | **Operating System (OS)** |
 | Динамическое Иконическое Пространство | **Dynamic Iconic Space (DIS)** |
 | сценарная книга | **Scenario Book** |
