@@ -1,663 +1,385 @@
 # Philosophie und Theologie des CDJ-Projekts
 
-Eine verständliche systematische Darstellung und kritische Analyse der drei Bände des Projekts „An die Christen des dritten Jahrtausends“ von Hierodiakon Panteleimon (Adzhindzhal)
+Systematische Darstellung und kritische Analyse der drei Bände des Projekts An die Christen des dritten Jahrtausends von Hierodiakon Panteleimon (Leon Adzhindzhal).
+
+Fassung vom 14. November 2026.
+
+Maschinell unterstützter Übersetzungsentwurf der überarbeiteten russischen Darstellung. Der vollständige Abgleich mit dem russischen Text steht noch aus.
 
 ## Einleitung
 
-CDJ untersucht, wie der Mensch zum wirklichen Urheber seines Lebens werden kann, obwohl er weder sich selbst noch die Welt noch die Sprache geschaffen hat, in der er sein Dasein versteht. Die christliche Antwort des Projekts lautet: Der empfangene Charakter des Seins schließt eine eigene Antwort nicht aus. Vielmehr kann die Beziehung zu Gott menschliche Autorschaft ermöglichen und tragfähig machen, ohne den Menschen zu einem souveränen Urgrund zu erheben.
+Ein Mensch kann wissen, was zu tun ist und doch nicht in der Lage sein, entsprechend seinem Wissen zu handeln. Eine Einrichtung kann die Unabhängigkeit eines Menschen verkünden und gleichzeitig ihm das Recht nehmen, zu widersprechen, Entscheidungen zu treffen und für sie verantwortlich zu sein. Ein Gläubiger kann Anweisungen erfüllen, ohne zu verstehen, wie das Kirchenleben seine eigene Antwort auf Gott wird. Das Projekt Christen des dritten Jahrtausends untersucht den Zusammenhang zwischen diesen Schwierigkeiten.
 
-Aus dieser Frage entsteht ein umfassendes Forschungsprogramm. Zunächst fragt CDJ, was die Kirche für die Bildung des Menschen leisten soll. Dann untersucht es, wie überhaupt ein Subjekt entsteht, wie seine Wahrnehmung der Wirklichkeit beschaffen ist und warum es sich nicht nur in einzelnen Urteilen, sondern auch in den Grundlagen seines Lebens irren kann. Schließlich entwickelt das Projekt eine Methode zur Analyse von Institutionen und Kollektiven: Wem ermöglichen sie, zu sehen, anzufangen, zu widersprechen, Entscheidungen zu korrigieren und für die Folgen einzustehen?
+Ihr Gegenstand sind die Bedingungen menschlicher Autorschaft. Der Mensch empfängt Dasein, Sprache, Kultur und Fähigkeiten, bevor er etwas wählen kann. Dieser Empfang macht seine Handlungen nicht zur bloßen Fortsetzung äußerer Einflüsse. Eine eigene Antwort ist möglich: Der Mensch erkennt, was geschieht, setzt eine Handlung in Gang, nimmt ihre Folgen an und lässt Korrektur zu. CDJ untersucht, wie eine solche Antwort möglich wird, was ihrer Verwirklichung entgegensteht und welche Formen des Zusammenlebens ihre Entwicklung fördern.
 
-Der philosophische und der theologische Teil sind hier inhaltlich miteinander verbunden. Die Philosophie untersucht die Bedingungen menschlicher Antwort und die Grenzen der Selbstbegründung. Die Theologie erschließt diese Antwort als Beziehung zum dreieinigen Gott, eröffnet durch die Menschwerdung, das Kreuz und die Auferstehung Christi. Die Methodologie führt die Überlegung in das konkrete Leben zurück: Welche menschliche Fähigkeit bringt eine Praxis tatsächlich hervor, die sich als christlich, bildend, staatlich oder befreiend bezeichnet?
+Aus christlicher Sicht hat die Fähigkeit zu antworten einen geschenkten Grund. Das gesamte Projekt ist deshalb im Licht des Vorrangs des Handelns Gottes zu lesen. Menschliche Autorschaft entsteht nicht zunächst unabhängig von Gott, um anschließend religiös ergänzt zu werden. Gnade ist von Anfang an als Möglichkeitsbedingung der Freiheit vorausgesetzt. Die Antwort, die kraft der empfangenen Fähigkeit erfolgt, bleibt die eigene Antwort des Menschen. [1; 3, «В поисках пневматологии», §14]
 
-Eine wesentliche Leistung des Projekts besteht in der Verbindung dreier Fragen, die häufig getrennt behandelt werden: Woraus lebt der Mensch, kann er zum Autor seiner eigenen Antwort werden, und welche gesellschaftlichen Bedingungen ermöglichen eine solche Antwort? Die größte Schwierigkeit liegt in der Begründung der Übergänge zwischen diesen Fragen. Von der Unmöglichkeit absoluter Selbstbegründung zum persönlichen Gott ist ein eigener Übergang erforderlich; die strukturelle Analogie zur Trinität bedarf der Prüfung; eine überzeugende Diagnose menschlicher Praxis ist kein Beweis für das Heil.
+Die praktische Aufgabe von CDJ besteht darin, die tatsächlichen Gründe für Handlungen und Institutionen zu erforschen. Die Methode erlaubt es, zu fragen, ob eine Person oder Organisation in der Lage ist zu erkennen, welche Maßnahmen sie zur Verfügung haben, wer das Recht hat, eine Entscheidung zu ändern und wer den Preis dafür trägt. Es sieht auch vor, die Bedingungen zu entwerfen, unter denen eine eigene Antwort möglich wird. Und dabei können weder Analysten, noch Hirten, noch Führungskräfte ein anderes Urheber für den Menschen selbst erstellen.
 
-Die folgende Darstellung führt von der ursprünglichen Einsicht zum philosophischen Begriffsapparat, dann zur Theologie, zur gesellschaftlichen Problematik und zur Methodologie. Der kritische Teil prüft konkrete Argumente und unterscheidet dabei zwischen dem, was der Autor behauptet, und dem Grad seiner Begründung. Kurze Verweise in eckigen Klammern beziehen sich auf die am Ende aufgeführten Bände und Abschnitte. Die erläuternden Beispiele stammen aus dieser Analyse; sie werden nicht als vom Autor des CDJ-Projekts untersuchte Fälle ausgegeben.
+Drei Bände decken dieses Problem aus verschiedenen Seiten auf. Die erste formuliert die philosophische und theologische Frage nach dem menschlichen Dasein. Das zweite beschreibt das Auftreten, die Qualität und Entwicklung der Subjektsein. Der dritte Artikel entwickelt die Methode der Analyse und des Projektierung von Subjektenarchitekturen, während der letzte Artikel sich auf Pneumatologie und Triadologie bezieht. Die Beziehung zwischen beiden ist Gegenstand dieser Überprüfung.
 
-## 1 Die Ausgangsfrage nach dem Christentum
+Die Übersicht hat den Status einer zweitrangigen Darstellung. Die Verweise führen zu den Namen der Kapitel und Abschnitte des russischen Korps; wo die Paragraphennummer verwendet wird, ist die entsprechende Arbeit angegeben. Die für diese Überprüfung vereinbarten Erklärungen des Autors sind getrennt gekennzeichnet und werden nicht als Zitate aus den Banden angegeben. Die Lehrbeispiele sind Illustrationen der Übersicht. Die kritischen Urteile sind in einem eigenständigen Abschnitt zusammengestellt und werden nicht dem Autor des CDJ zugeschrieben.
 
-### Was der Verlust ontologischer Initiative bedeutet
+## 1 Die Ausgangsfrage und die Einheit der drei Bände
 
-Die Ausgangsdiagnose von CDJ besagt nicht lediglich, dass Christen unzureichend moralisch oder kirchliche Einrichtungen schlecht organisiert seien. Das Problem reicht tiefer: Das Christentum kann Riten, dogmatische Formeln und öffentliche Sichtbarkeit bewahren, aber aufhören, jene Welt zu bestimmen, innerhalb deren der Mensch seine Entscheidungen trifft. Dann sagt ihm die politische Ideologie, wer sein Feind ist; der Markt, was als Erfolg gilt; das psychische Wohlbefinden, was er vermeiden soll; das vertraute Milieu, wonach er nicht fragen darf. Das Christentum nimmt den verbleibenden Platz ein und heiligt eine bereits vorgegebene Bahn.
+Das Projekt beginnt mit einer funktionellen Frage über die Kirche: Was macht das kirchliche Leben für einen Menschen möglich? Diese Frage erfordert, zu ermitteln, was das Christentum für einen Menschen bedeutet, was seine Freiheit ist und was es heißt, aus dem Glauben zu leben. Die Analyse der kirchlichen Praxis führt daher zu einer Untersuchung der Gründe für menschliches Handeln. [1, «Функционал Церкви»]
 
-„Ontologische Initiative“ bezeichnet die Fähigkeit, von einem eigenen Verständnis des Menschen, der Wirklichkeit und der letzten Bestimmung des Lebens auszugehen. Gemeint ist kein Monopol auf gesellschaftliche Herrschaft. Christliche Initiative beginnt mit der Frage: Welche Weisen menschlichen Daseins werden durch das Evangelium möglich? Beschränkt sich die Antwort auf Traditionspflege, Trost oder Verhaltensregulierung, bleibt der spezifische Anspruch des Christentums unerschlossen.
+Die ursprüngliche Diagnose von CDJ besteht in dem Verlust der ontologischen Initiative durch das Christentum. Es geht um eine Situation, in der christliche Worte, Riten und Zugehörigkeit erhalten bleiben, aber wirksame Entscheidungen werden von anderen Gründen bestimmt. Zum Beispiel kann das angekündigte Vertrauen in Gott mit einer Praxis zusammenleben, bei der ein Status zu bewahren oder Unzufriedenheit zu vermeiden das höchste Kriterium ist. Dies ermöglicht es nicht, jeden Glaubenden oder jede Einrichtung vorher zu beurteilen; die Diagnose legt das Forschungsgegenstand  den Unterschied zwischen dem Bekannten und dem Betroffenen fest. [1, введение к «Опыту прикладной метафизики субъекта»]
 
-CDJ verbindet diesen Anspruch mit der Fülle des Menschseins. Christus kommt nicht, um den Menschen als gehorsames Element einer bereits bestehenden Ordnung festzuschreiben. Die Beziehung zu Christus soll seine Fähigkeit verändern, zu sehen, zu verstehen, zu kommunizieren, zu handeln und sich angesichts des Todes zu bewahren. Daher betrachtet das Projekt den Glauben als Seinsweise und das kirchliche Leben als Raum ihrer Bildung. [I, Einleitung zu „Ein Essay zur angewandten Metaphysik des Subjekts“; „Die Ausgangsposition. Einst die ursprüngliche“; „Das Funktionsgefüge der Kirche“.]
+Der erste Band stellt den Menschen vor die Frage, aus dem er besteht. Die zweite beschreibt, wie das entstandene Leben zu einem eigenen Anfang werden kann. Das dritte untersucht die Verteilung der Möglichkeiten für einen solchen Beginn zwischen den Teilnehmern bestimmter Beziehungen und Institutionen. So sind persönliche spirituelle Arbeit und Analyse des gesellschaftlichen Systems miteinander verbunden: Die Fähigkeit, zu antworten, hängt sowohl von der Position eines Menschen als auch von den Bedingungen ab, unter denen er handeln muss.
 
-### Warum die Frage nach der Funktion der Kirche eine theologische Frage ist
+Der Name Applied Metaphysics gibt diese Verbindung zum Ausdruck. Metaphysische Vorurteile werden in ihrem Wirken untersucht: welche Möglichkeiten sie eröffnen, welche sie ausschließen, was real ist und welche Antworten denkbar machen. Philosophische Arbeiten gewinnen praktischen Sinn, wenn man seine Vorbedingung entdecken und ihre Folgen prüfen kann.
 
-Man könnte CDJ irrtümlich als Vorschlag lesen, die Kirche nach Unternehmensmaßstäben zu beurteilen: Wie viele Menschen kamen, wie viele Leistungen wurden erbracht, wie zufrieden sind die Beteiligten? Der Autor stellt eine andere Frage. Wenn Gott, der Logos, als das eigentlich handelnde Gegenüber in den kirchlichen Sakramenten bekannt wird, was bedeutet dies für das menschliche Leben? Wie verhält sich die Teilnahme am Sakrament zur Entwicklung der Logosnatur des Menschen?
+## 2 Realität und die Grundlagen der Wahrnehmung
 
-Die funktionale Frage wird innerhalb der Theologie gestellt. Sie verlangt, den Zusammenhang zwischen Bekenntnis und Frucht des kirchlichen Lebens nachzuzeichnen. Ein Mensch kann die richtigen Formeln kennen, aber unfähig sein, Wahrheit von eigener Angst zu unterscheiden. Er kann ein diszipliniertes Gemeindemitglied sein, aber die Verantwortung für alles Geschehen seinem geistlichen Begleiter überlassen. Er kann von Gemeinschaft sprechen und doch ausschließlich Bestätigungen seines eigenen Weltbildes begegnen. Gerade diese Diskrepanzen werden zum Gegenstand der Untersuchung.
+### Realität und Karte
 
-Die Beobachtung menschlicher Ergebnisse eröffnet dem Forschenden allerdings keinen unmittelbaren Zugang zum Wirken der Gnade. Die Methode kann feststellen, dass eine bestimmte Leitungsstruktur eigenständige Antwort blockiert. Sie kann anhand dieses Merkmals weder das Geheimnis der Kirche noch das endgültige Schicksal eines Menschen erschöpfend beurteilen. Im III. Band ist diese Grenze besonders deutlich formuliert. [III, Abschnitt XIII; „Auf der Suche nach einer Pneumatologie“, §§16–17.]
+Die ursprüngliche Unterscheidung zwischen CDJ ist die Unterscheidung zwischen Realität und ihrer menschlichen Karte. Die Realität geht einem konkreten Akt ihrer Begriffsbildung voraus und ist nicht durch diese Begriffsbildung erschöpft. Die Karte ist eine Orientierungsmethode: Sie enthält Vorstellungen über die vorhandenen, ursächlichen Verbindungen, bedeutende, zulässige und mögliche. Die Grenzen der Karte machen sie nicht nutzlos; sie erfordert die Möglichkeit, sie zu korrigieren. [1, «Опыт прикладной метафизики субъекта», гл. 1; 3, разд. II]
 
-## 2 Realität und menschliche Karte
+Der Unterschied zwischen Ontoologie und Metaphysik wird durch die Formel "Ontoologie" ausgedrückt, was für mich real ist. Metaphysik  warum ich das für real halten In der methodischen Beschreibung umfasst die wirksame Ontologie auch das Verständnis und das Handeln: wie genau etwas bedeutend wird, welche Verbindungen anerkannt werden und welche Antworten zugelassen werden.
 
-### Die Realität geht dem Menschen voraus
+Nehmen wir an, der Führungskräfte behauptet, dass die Initiative in seiner Institution geschätzt wird. Wenn die Angebote der Mitarbeiter niemals ihre Entscheidung ändern und die Ablehnung bestraft wird, ist die tatsächliche Organisation der Beziehung nicht in Übereinstimmung mit dieser Beschreibung. Die CDJ schlägt vor, die Abweichung selbst zu untersuchen: Welche Verfahren und Erwartungen reproduzieren sie, wer sie bemerkt und ob es eine Korrektur gibt. Eine absichtliche Lüge ist nur eine der möglichen Erklärungen; die gewöhnliche Ordnung kann den Teilnehmern natürlich erscheinen.
 
-Die erste philosophische These von CDJ lautet: Der Mensch findet sich in einer bereits bestehenden Wirklichkeit vor. Sein Leib, seine Geschichte, seine Beziehungen, seine Sprache und seine Möglichkeiten sind nicht ursprünglich sein eigenes Werk. Er tritt in eine Welt ein, die seinen Wünschen widersteht und seine Vorstellungen widerlegen kann. Darin besteht der grundlegende Realismus des Projekts.
+### Anerkennung der Wahrheit
 
-Aus der Unabhängigkeit der Realität folgt jedoch nicht, dass der Mensch sie unmittelbar und vollständig sieht. Zwischen Wirklichkeit und Handlung liegt das vom Menschen angeeignete Weltbild. Zwei Menschen können dieselben Tatsachen kennen und dennoch in verschiedenen Welten leben: Der eine sieht in Kritik eine Korrekturmöglichkeit, der andere einen Angriff auf sein Existenzrecht. Nicht nur die Meinung über einen Sachverhalt unterscheidet sich, sondern auch die Verteilung dessen, was als bedeutsam, gefährlich, zulässig und möglich erscheint.
+In dem ersten Band wird die Wahrheit durch die Bereitschaft betrachtet, aus der entdeckten Realität zu kommen. Ein Fehler zu sehen und sich darauf einzuschließen, seine Wirkung zu ändern, ist eine Reihe von Ereignissen. Das Wissen hat daher eine existentielle Dimension: Wahres Urteilsvermögen kann die Anerkennung seiner Unrecht, das Verzicht auf Vorteile oder die Verantwortung verlangen. [1, «Опыт прикладной метафизики субъекта», гл. 1, §§5–6]
 
-Deshalb unterscheidet CDJ zwischen Realität und Karte. Die Karte ist notwendig: Ohne Auswahl, Unterscheidung und Verknüpfung ist sinnvolles Handeln unmöglich. Gefährlich wird es, wenn die Karte sich zur endgültigen Gesamtheit erklärt und keine Informationen über ihre eigenen Grenzen mehr annimmt. Dann wird Irrtum zur Lebensweise. Der Mensch verteidigt nicht ein einzelnes falsches Urteil, sondern eine Weltordnung, die ihm erlaubt, derjenige zu bleiben, für den er sich hält. [I, „Essay …“, Kap.1; III, Abschnitt II.]
+Bei einer solchen Auswertung sollte die Bereitschaft, die Konsequenzen der Wahrheit zu akzeptieren, durch eine Überprüfung des Urteils selbst begleitet werden. Ehrlichkeit und Entschlossenheit bestätigen nicht, dass es wahr ist. Ein Mensch kann mutig einer falschen Vorstellung folgen. Die Unterscheidung zwischen Realität und Karte gilt also sowohl für die christliche Selbstbeschreibung als auch für die Ergebnisse der CDJ-Analytiker.
 
-### Wahrheit als Verhältnis und als Prüfung
+### Vorreflexive Axiomatik
 
-Im I. Band wird Wahrheit über die Anerkennung der Realität beschrieben. Es geht um den Unterschied zwischen „Ich weiß, dass dies geschehen ist“ und „Ich bin bereit, mein weiteres Leben unter Berücksichtigung des Geschehenen zu gestalten“. Ein Mensch kann im Gespräch eine Niederlage anerkennen und weiterhin Entscheidungen treffen, als hätte sie nicht stattgefunden. Das Wissen ist noch nicht zum Handlungsgrund geworden.
+In „Genese des Subjektseins“ bezeichnet die vorreflexive Axiomatik vier praktische Grundhaltungen, aus denen der Mensch lebt, bevor er sie begrifflich formuliert: die Hermeneutik des Anfangs, die Hermeneutik der Verantwortung, den methodologischen Monotheismus und die ontologische Überprüfbarkeit. Sie betreffen die Annahme des empfangenen Daseins, die eigene Antwort, ihre letzte Ausrichtung und die Möglichkeit ihrer Überprüfung. Das Vorreflexive ist deshalb weder mit dem Falschen noch mit dem Aufgezwungenen gleichzusetzen. Es geht um die Bedingungen, unter denen eine Subjektposition entsteht. [2, «Генезис субъектности», §5]
 
-Dies erweitert die Wahrheitsfrage, hebt die Genauigkeit von Aussagen aber nicht auf. Sind die Tatsachen falsch, kann die Bereitschaft, „nach der Wahrheit“ zu leben, lediglich die konsequente Befolgung eines Irrtums bedeuten. In der hier vorgeschlagenen Interpretation verbindet CDJ deshalb die Überprüfbarkeit von Urteilen mit der existenziellen Bereitschaft, ihre Folgen anzunehmen. Im III. Band wird diese Verbindung durch die Forderung geschützt, Tatsache, Interpretation, Norm, Projekt und Prognose zu unterscheiden.
+Sprache, Gewohnheiten, körperliche Fähigkeiten und Institutionen können diese Architektur noch vor der Menschheit festhalten. In der ontologischen Erinnerung werden Erfahrungen von Zusammenarbeit und Erwartungen, die nach Verrat oder Katastrophe entstanden sind, bewahrt. Dieses Gedächtnis erleichtert eine nachhaltige Wirkung, kann aber den Sichthorizont verringern und die Korrekturpreise erhöhen. Daher kann eine vererbte Praxis sowohl die Erkenntnis der Freiheit als auch die Abhängigkeit stärken. [3, §§43–46, 165–166]
 
-Hierher gehört der Begriff der Diskrepanzinformation. Gemeint ist Information, die eine Kluft sichtbar macht: zwischen Wirklichkeit und wirkendem Modell, dem Maßstab einer Aufgabe und den Möglichkeiten eines Instruments, der erklärten Funktion und dem Ergebnis. Sie liefert nicht immer eine fertige Lösung. Manchmal besteht ihr einziger verlässlicher Gehalt darin, dass die bisherige Handlungsweise nicht länger als gerechtfertigt gelten kann.
+Die Weitergabe von Erfahrungen ist auch nicht nur die Übermittlung von vorbereiteten Erklärungen. Die Methodik der CDJ zeigt, dass Beispiel, gemeinsame Praxis, asketische Disziplin und Gehorsam die Fähigkeit zu unterscheiden und zu antworten bilden können, bevor ein Schüler die Grundlagen des angebotenen Handelns vollständig verstehen und ausdrücken kann. Diese Übertragung sollte zu einer eigenen Verantwortung führen und nicht die Abhängigkeit von einem äußeren Entscheidungsträger anheben. [3, §§164–166]
 
-### Metaphysik und wirkende Ontologie
+## 3 Gnade und die Möglichkeit einer eigenen Antwort
 
-In der Sprache von CDJ legt Metaphysik die letzten Voraussetzungen fest: Was ist letztlich wirklich, woher kommt Sinn, worauf gründet die Verbindlichkeit der Wahrheit? Die wirkende Ontologie zeigt, wie diese Voraussetzungen in der tatsächlichen Welt des Subjekts Gestalt annehmen: Was unterscheidet es, welche Handlungen kann es vollziehen, wem kommt die Initiative zu?
+### Der geschenkte Horizont
 
-Eine Organisation verkündet beispielsweise den Wert des Menschen, ihre Berichterstattung erfasst jedoch ausschließlich die Zahl der Vorgänge. Die ausdrücklich erklärte Metaphysik und die tatsächlich reproduzierte Ontologie fallen auseinander. Im alltäglichen Handeln erscheint der Mensch als Verarbeitungseinheit. Um dies zu ändern, genügt es nicht, die Erklärung zu wiederholen. Verändert werden müssen die Weisen des Sehens, Entscheidens, Bewertens und Verantwortens.
+Im Interpretationsbedingung des ersten Bandes wird deutlich gesagt, dass in allen Bestimmungen über menschliche Wahl und die Fähigkeit, eine bestimmte Position einzunehmen, Gnade als Bedingung für die Möglichkeit dieser Wahl vorgesehen ist. Diese Anweisung gilt für die gesamte Argumentation, nicht nur für speziell theologische Kapitel. [1, «Интерпретационное условие»]
 
-Die angewandte Metaphysik untersucht solche Zusammenhänge. Sie macht Voraussetzungen sichtbar, prüft ihre Folgen und eröffnet die Möglichkeit ihrer Revision. Sie verspricht nicht, sich endgültig von allen Voraussetzungen zu befreien: Auch der Forschende arbeitet mithilfe einer Karte. Eine ausgereifte Methode muss deshalb die Korrektur ihrer eigenen Rekonstruktion zulassen. [I, „Essay …“, Einleitung und Kap.5; III, §§112–114, 132–134.]
+In der für die vorliegende Darstellung angenommenen Verfasserung wird Gnade als von dem Dreieinigsten Person Gottes geschenkte Horizont verstanden, in dem Freiheit, Menschlichkeit und eigene Antwort möglich sind. Das Wort Horizont zeigt auf die Bedingung der Möglichkeit; es macht Gott nicht zu einer unpersönlichen Umgebung und ersetzt nicht die theologische Lehre über Gnade. Der Geber selbst ist persönlich. [1, «Интерпретационное условие»; 3, «В поисках пневматологии», §14; 4]
 
-## 3 Abgeleitetheit und eigene Antwort
+Man muss die Fähigkeit unterscheiden und ihre Ausübung in einer konkreten Antwort. Die Interpretationsbedingung  bezieht Gnade auf alle Bestimmungen über die Wahl; der Artikel über Pneumatologie verbindet ihre Wirkung mit der Heilung der Fähigkeit zu sehen, zu unterscheiden, zu wünschen und zu antworten. In diesem Zusammenhang sollte die Erkenntnis der Wahlfähigkeit in einer geschenkten Fähigkeit verstanden werden, nicht als eine Freiheit aus dem Nichts. [1, «Интерпретационное условие»; 3, «В поисках пневматологии», §14]
+
+### Empfangene Fähigkeit und Autorschaft des Handelns
+
+Gott und Mensch werden hier nicht als zwei Teilnehmer beschrieben, die ein begrenztes Maß an Handlungen aufteilen. Naturheilungen können die Fähigkeit des Menschen zu sehen, zu unterscheiden, zu begehren und zu handeln erhöhen. Die Fähigkeit, diese Fähigkeiten zu erlangen, macht nicht das menschliche Handeln fiktiv. [3, «В поисках пневматологии», §14]
+
+Das heißt nicht, dass alles, was getan wird, gut ist. Ein Mensch kann seine tatsächliche Fähigkeit nutzen, für falsche oder zerstörerische Handlungen zu verantworten. Die Unterscheidung zwischen dem Geschenk der Fähigkeit und dem Inhalt einer Antwort ist notwendig, damit die Verantwortung für das Böse nicht auf Gott übertragen wird.
+
+Aber die Verweigerung des Geschenks gibt keinen Grund, einen Menschen als menschenwürdig zu erklären. In der Urheberbestimmung geht es um das Risiko, die bereits erreichte persönliche Subjektsein zu verlieren  die Fähigkeit, eine eigene Antwort zu erkennen, auszuführen und zu akzeptieren. Diese Unterscheidung schließt die Verwandlung der Methodik in ein Mittel aus, um Menschen nach ihrem Recht zu verteilen. [4]
+
+### Gnade und die Grenzen der Überprüfung
+
+Im Artikel "In der Suche nach Pneumathologie" wird die Grenze zwischen der Analyse menschlicher Architektur und der Behauptung über das konkrete Wirken Gottes geprägt. Aus hoher Kompetenz, der Fähigkeit, die Karte zu korrigieren oder Initiative zu zeigen, kann man keine graziöse Wahrheit aus der Antwort ziehen. Das Fehlen solcher Beweise beweist nicht, dass es keine Gnade gibt, aber verbietet das Ansehen eines analytisch festgelegten Verbindungs. [3, «В поисках пневматологии», §17]
+
+Gnade ist also die ursprüngliche theologische Grundlage für eine Antwortmöglichkeit, und die Methode untersucht die menschlichen Urteilsweisen zugänglichen Behauptungen, Handlungen und Bedingungen. Diese Ebenen sind miteinander verbunden, aber nicht ersetzt.
+
+## 4 Subjektsein und die Grenze der Autonomie
 
 ### Drei Bedeutungen von Abhängigkeit
 
-Die Grundfrage des Projekts lässt sich so formulieren: Wie wird ein Wesen, dessen Anfang bereits gesetzt ist, selbst zu einem anfangenden Wesen? Der Mensch wählt nicht die ursprünglichen Bedingungen seines Erscheinens. Daraus folgt aber noch nicht, dass sein gesamtes weiteres Leben ausschließlich als Fortsetzung äußerer Einwirkungen verstanden werden muss.
+Der Mensch beginnt nicht mit sich selbst. Sein Körper, seine Sprache, seine Geschichte und sein Verhältnis sind vor seiner Wahl gegeben. Das ist kein Fehler, der beseitigt werden muss. Die Frage stellt sich, wenn die Bedingungen so auslaufen, dass man nur eine vorhandene Einrichtung wiederholt und keine eigene Position dagegen einnimmt. [2, «Генезис субъектности»]
 
-Hier sind drei Verhältnisse zu unterscheiden. Das erste ist der empfangene Charakter des Daseins selbst. Er wird weder durch Freiheit noch durch Reife noch durch Vergöttlichung aufgehoben. Das zweite ist die Reproduktion fremder Vorgaben ohne eigene Aneignung und Prüfung. Gerade diese Unselbstständigkeit möchte das Projekt überwinden. Das dritte ist die eigene Antwort innerhalb des fortbestehenden Empfangenseins: Der Mensch nimmt das Gegebene an, betrachtet es jedoch nicht als den erschöpfenden Urheber seiner nächsten Handlung.
+Für das Korpus ist es hilfreich, zwischen Existenz und Abwesenheit von eigener Autorität und nicht-souveränem Autorschaft zu unterscheiden. Im dritten Fall ist der Mensch selbst verantwortlich, obwohl er nicht die Quelle seines eigenen Lebens ist. Zum Beispiel kann es sich um eine eigene Entscheidung handeln, wenn man einen anderen Rat nimmt; selbstständig ein ungewöhnliches Handeln erfinden, garantiert dagegen noch kein sinnvolles Autorschaft.
 
-Den eigenen Anfang anzunehmen bedeutet nicht, Gewalt, Unrecht oder Irrtum gutzuheißen, die zur Geschichte dieses Anfangs gehören. Die Annahme stellt fest, mit welcher Wirklichkeit der Mensch es zu tun hat. Verantwortung beginnt dort, wo er klärt, was nun von seiner Antwort abhängt. Sie ist keine rückwirkende Übernahme von Schuld für alles, was er nicht gewählt hat. [II, „Genesis der Subjekthaftigkeit“, §§5.1–5.2; „Ontogenese der Subjekthaftigkeit“, §§2–5.]
+Die Grundlage ist der Beginn einer subjektiven Position: Der Mensch nimmt die Frage an, aus welchem Grund und wofür er handelt. Die Dekolonialisierung der Persönlichkeit bezieht sich auf die Art und Weise, wie andere Einrichtungen den endgültigen Grundstein nehmen. Sie verlangt nicht, dass alle vererbten Verbindungen zerstört werden. Das Erbe kann erkannt, überprüft und zur Verantwortung gezogen werden.
 
-### Die Antwort geht der Wahl voraus
+### Die radikale Fragestellung des ersten Bandes
 
-Das übliche Freiheitsmodell beginnt mit einem Menü von Möglichkeiten: Der Mensch ist frei, wenn er zwischen A und B wählen kann. CDJ richtet die Aufmerksamkeit auf die Herkunft dieses Menüs. Wer hat bestimmt, dass nur A und B möglich sind? Wer hat andere Möglichkeiten ausgeschlossen? Kann der Mensch die Fragestellung verändern?
+In der "Experienz der angewandten Metaphysik des Subjekts" wird Autonomie bis zu einem Grenzpunkt gebracht. Der Text verlangt einen echten Versuch, die universelle Anspruch mit eigenen Mitteln zu halten und bestätigt den Unausweichlichkeitsfall ihrer Misserfolg. Das ist im russischen Original vorhanden und ist kein Kommentator hinzugefügt. [1, «Опыт прикладной метафизики субъекта», гл. 2, §9]
 
-Ein Arzt, der zwischen zwei zugelassenen Verfahren wählt, trifft eine wirkliche Wahl. Wenn jedoch keines der beiden Verfahren dem Zustand des Patienten entspricht, ist eine weitere Fähigkeit erforderlich: die geltende Klassifikation infrage zu stellen und ihre Revision zu erreichen. Dies veranschaulicht den Unterschied zwischen einer Wahl innerhalb eines vorgegebenen Raums und einer Antwort, die den Raum des Möglichen verändert.
+Der Inhalt der Grenzprüfung besteht darin, die Unmöglichkeit zu entdecken, ein endgültiger Grund für sich selbst zu sein. Die Ablehnung der eigenen Unzulänglichkeit zerstört die Realität. Die Subjekte zu halten bedeutet, die Grenze anzuerkennen, ohne sie mit der Lüge zu kompensieren und nicht für ihre Antwort verantwortlich zu sein.
 
-Antwort bedeutet nicht beliebige Neuheit. Eine ungewöhnliche Handlung kann zufällig sein, während die Wiederholung einer bekannten Lösung eigenes verantwortliches Handeln sein kann. Entscheidend sind die Autorschaft des Verhältnisses zur Situation, die Annahme der Folgen und die Fähigkeit zur Korrektur. Der Mensch antwortet nicht deshalb, weil er alles von Grund auf erfunden hätte, sondern weil er sich die Entscheidung als eigene angeeignet hat und ihr verantwortlicher Träger bleibt.
+Der zweite und dritte Band beschreiben die Autorität innerhalb der erworbenen Existenz. Deshalb ist es notwendig, die Selbstständigkeit der Antwort vom Anspruch auf Selbstsuffisienz zu trennen. Die erste ist eine Bedingung für die Verantwortung; die zweite stellt Grenzen fest. Diese Unterscheidung hilft, die Band zu binden, beweist aber nicht, dass jeder Mensch in der gleichen chronischen Reihenfolge von Krisen leben muss. Die Frage nach der Allgemeinheit des Ersten Bandes bleibt für die kritische Analyse von Bedeutung.
 
-### Subjekthaftigkeit ist nicht gleich Tugend
+### Neuadressierung und Kreuz
 
-In den Bänden II–III wird Subjekthaftigkeit von der sittlichen Wahrheit der Antwort unterschieden. Ein Mensch kann eigenständig ein zerstörerisches Projekt beginnen. Er kann klug, konsequent, initiativ und in einem begrenzten Sinn verantwortlich sein und diese Fähigkeiten gegen andere richten. Die Stärke seiner Autorschaft bestätigt nicht die Richtigkeit ihres Grundes.
+Ontologische Umschreibung bedeutet, dass man sich nicht der Fähigkeit anschließt, die endgültige Quelle des Daseins zu sein. In der christlichen Antwort wird Gott-Logos als Grundlage anerkannt. Das Leben wird ohne persönliche Namen und Verantwortung angenommen. [1, «К онтологии Логоса»]
 
-Diese Unterscheidung ist auch für das Verständnis der Gottebenbildlichkeit notwendig. Die Möglichkeit zu antworten verschwindet nicht automatisch mit einer falschen Antwort; andernfalls wäre Verantwortung für das Böse unverständlich. Zu unterscheiden sind das Vorhandensein einer Fähigkeit, ihre tatsächliche Aktualisierung und die Qualität ihrer Richtung. Zugleich verwenden mehrere Formulierungen des I. Bandes „Subjekthaftigkeit“ in einem strengeren, normativ gehaltvollen Sinn: als bereits richtiges Verhältnis zur Realität. Dies ist eine wesentliche Akzentverschiebung, auf die der kritische Teil zurückkommen wird. [III, §§11–13, 125; II, „Ontogenese der Subjekthaftigkeit“, §15.]
+Das Kreuz zeigt diese Beziehung in einer äußersten Form. In der Erläuterung des Autors ist es mit der Treue zu Wahrheit und Menschlichkeit verbunden, wenn man sich von Selbstbewahrung als höchstes Kriterium ablehnt. Er rechtfertigt nicht willkürliche Leiden und macht die Unterwerfung menschlicher Macht nicht zum Ausgleich zur Gottseligkeit. In dem Text unterscheidet sich der Verzicht auf ontologische Autonomie von einer totalitären Auflösung der Persönlichkeit durch die Erhaltung und Stärkung der Verantwortung.
 
-## 4 Autonomie und ontologische Umadressierung
+Der Übergang zu Christus sollte in seiner christlichen Definition dargestellt werden. Die philosophische Entdeckung der Grenzen von Selbstbegründung und das Bekennen Jesu Christi sind nicht ein Urteil. Die Überprüfung sollte ihre Verbindung zeigen, ohne die Folge der Erläuterung für den vollständigen Beweis jedes theologischen Verpackungs zu geben.
 
-### Warum der Mensch Selbstständigkeit braucht
+### Der Logos und der Grund der Beziehung
 
-Im I. Band führt das Werden des Subjekts über Fundierung, Selbstbestimmung, Dekolonisierung der Person und Entwicklung der Autonomie. Fundierung bezeichnet die Annahme der eigenen Position; Dekolonisierung die Befreiung von Vorgaben, die faktisch anstelle des Menschen denken und entscheiden. Autonomie ermöglicht es, die eigene Position unter Druck zu bewahren und einen eigenen Zukunftsentwurf zu entwickeln.
+In dem ersten Band verbindet Logos die Sinnesbestimmung der Realität mit der Möglichkeit des Kommunikations. Die geschlossene Relation macht die Teilnehmer zum letzten Maß für einander. In der gegründeten Relation kann jeder die Unabhängigkeit der anderen Antwort anerkennen, da beide mit dem Grund zusammenhängen, den keiner von ihnen verfügt. In der christlichen Bekenntnis ist Logos der Sohn Gottes. Der methodologische Monotheismus verlangt, endgültige Bindungen und Pflichten mit einem einheitlichen Grenzgrund zu verknüpfen. Eine religiöse Praxis, ein Volk oder eine Institution kann zum Gegenstand des Götzendienstes werden, wenn ihre Barform aus der Prüfung herausgehoben und zur endgültigen Maßnahme für die Wahrheit gemacht wird. [1, «К онтологии Логоса»; 2, «Генезис субъектности», §5.3; 3, §150]
 
-Diese Phase kann nicht durch den äußeren Befehl „Verzichte auf dich selbst“ ersetzt werden. Wenn ein Mensch noch nicht selbst antworten kann, kann der Verzicht auf Selbstständigkeit seine Abhängigkeit von einem anderen Menschen oder einer Institution festigen. Gerade deshalb unterscheidet CDJ nachdrücklich zwischen christlicher Umadressierung und totalitärer Unterwerfung.
+### Gottesebenbildlichkeit und die Fülle der Person
 
-Im I. Band wird Selbstständigkeit allerdings bis zum Äußersten radikalisiert: Das Subjekt soll versuchen, einen universalen Anspruch aus eigener Kraft aufrechtzuerhalten, und die Unmöglichkeit der Selbstbegründung entdecken. Eine redliche Darstellung dieses Textes kann nicht behaupten, die Forderung, die Autonomie zu durchlaufen, sei vollständig vom Kommentator erfunden. Sie findet sich ausdrücklich im „Essay …“ und im Modell ontologischer Therapie. Die Frage betrifft den genauen Sinn dieser Autonomie. [I, „Essay …“, Kap.2, §§2, 7, 9–11; „Die Kirche als Infrastruktur …“, Punkte 4–7.]
+Das Thema Gottesbild verbindet menschliche Würde mit der persönlichen Antwort. Die Gleichung zeigt, wie man sich im Hinblick auf Gott entwickelt. Der Unterschied zwischen Würde und Subjektsein lässt uns über die Erhöhung oder Verlust der Fähigkeit sprechen, zu antworten, während wir die Würde eines jeden Menschen anerkennen. In der Perspektive des Gottesdienstes bleibt die vollständige Kommunikation mit Gott persönlich unverwechselbar und unterscheidet den Schöpfer von Geschöpfen. [1, «К метафизике личности»; 2, «Эсхатологическая субъектность»; 4]
 
-### Die Grenze der Selbstbegründung
+### Menschwerdung, Kreuz und Auferstehung
 
-Der Mensch kann Urheber eines Projekts sein, sich jedoch nicht zur Ursache seines eigenen Daseins machen, die Endlichkeit aufheben oder den endgültigen Sinn aller Folgen garantieren. Die Ausweitung des Projekts vergrößert die Verantwortung und macht zugleich sichtbar, dass der Anspruch den verfügbaren Kräften nicht entspricht.
+In der Menschwerdung ist die göttliche Initiative in die Geschichte der Menschen. In den Leidenschaften lässt Christus das menschliche Gericht stattfinden und nimmt auf dem Kreuz die wirklichen Folgen des ungerechten Urteils an. Die Ernsthaftigkeit der Freiheit des Menschen zeigt sich auch in einer falschen Antwort. Die Annahme dieses Preises durch Christus eröffnet die Verantwortung für das Verhalten und bewahrt die Freiheit des anderen. Die Auferstehung eröffnet eine Vollkommenheit, die menschliche Ausdauer und historische Erfolge nicht schaffen können. Diese Ereignisse stellen den christlichen Horizont für das Verständnis der menschlichen Subjektsein. [2, «Эсхатологическая субъектность»; 3, §14]
 
-Diese Überlegung besitzt einen starken Kern: Praktische Selbstständigkeit ist nicht gleich metaphysische Selbstgenügsamkeit. Aus der Abhängigkeit von Bedingungen folgt nicht, dass der Mensch nicht handelt; aus der Wirklichkeit seines Handelns folgt nicht, dass er von nichts abhängig ist. CDJ versucht, beide Seiten zugleich festzuhalten.
+## 5 Handeln und personale Eschatologie
 
-Die stärkere These des I. Bandes, jedes Subjekt müsse einen tatsächlichen Versuch universaler Selbstbegründung durchlaufen, bedarf einer eigenen Begründung. Es lässt sich fragen, warum ein Mensch nicht von Anfang an Endlichkeit und Verantwortung annehmen kann, ohne absolute Unabhängigkeit zu beanspruchen. Die „Genesis der Subjekthaftigkeit“ im II. Band beginnt gerade mit einer Hermeneutik des Empfangenseins und der Verantwortung. Eine zusammenhängende Lektüre des Korpus muss daher zwischen dem notwendigen Werden der Selbstständigkeit und einer möglichen radikalen Prüfung ihrer Grenze unterscheiden.
+Die Onthik wird innerhalb einer bereits vorgegebenen Ordnung durchgeführt: sie löst eine bestimmte Aufgabe, reproduziert ein Können oder unterstützt die bestehende Organisationsorganisation des Lebens. Die ontologische Frage betrifft die Reihenfolge, welche Gründe und Möglichkeiten es vorschlägt. Die CDJ untersucht die Veränderungen, in denen sich die Art und Weise verändert, wie man mit der Realität umgeht. [1, «Опыт прикладной метафизики субъекта», гл. 3; 2, «Онтогенез субъектности»]
 
-### Was umadressiert wird
+Der erste Band verwendet die radikale Sprache des Bruchs und stellt die ontologische Wirkung gegen die entropische Reproduktion von Bargeld. Die Formulierung, dass die Ontik Verzerrung reproduziert, ist wirklich im Original vorhanden. Bei der Überprüfung des gesamten Korpuses muss sie mit der Analyse von Kristallisierung, nachhaltigen Kompetenzen und Instituten im zweiten und dritten Band verglichen werden. Infrastrukturen, die in der Ausbildung, Behandlung und Wartung eingesetzt werden können, schaffen die Voraussetzungen für eine eigene Antwort. Dazu können sich Nachhaltigkeit und Wiederholung nicht als Zeichen des Verlustes der Subjektsein betrachten.
 
-Ontologische Umadressierung bezeichnet eine Veränderung des letzten Lebensgrundes. Der Mensch hört auf, die eigene Erhaltung, das eigene Begehren oder den geschichtlichen Erfolg als absolutes Kriterium zu betrachten. Die Entscheidung bleibt jedoch seine Entscheidung. Er überträgt die Verantwortung nicht auf einen anderen und erhält kein Recht, jede beliebige Handlung mit dem Hinweis auf einen höheren Willen zu rechtfertigen.
+Die ontologische Haltestelle zeigt auf die Grenze der früheren Handlungsweise. Sie garantiert keine Veränderungen: Es ist möglich, Unvereinbarkeiten zu leugnen, ein altes Schema wiederherzustellen oder eine neue Antwort zu finden. Der generative Übergang bedeutet das Auftreten einer anderen Architektur der Möglichkeiten, und die Kristallisierung  die Festlegung der entstandenen Fähigkeit in reproduzierbarer Form. Diese Anbindung ist erforderlich, um einen neuen Beginn nicht als einmalig zu behalten. [2, «Онтогенез субъектности»; 3, разд. III]
 
-In christlicher Perspektive ist der Adressat Gott, der sich in Christus offenbart. Der Name Gottes kann allerdings eine ganz andere Abhängigkeit verdecken. Wenn faktisch die Unfehlbarkeit eines Leiters, das Ansehen einer Institution oder der nationale Sieg zum letzten Grund wird, bezeugt die religiöse Sprache allein noch keine Umadressierung auf Gott.
+Die persönliche Eschatologie gibt die Grenzrichtung dieser Entstehung. Eschaton ist nicht nur ein prognostiziertes Zukunfts- oder erfolgreiches historisches Projekt. Die Einstellung zum zukünftigen Königreich verändert das Maß des gegenwärtigen: weder Staat, noch Organisation, noch Beruf kann die Bestimmung der Person auslaufen. [1, «Церковь как инфраструктура формирования персональной эсхатологии»; 2, «Эсхатологическая субъектность»]
 
-Der praktische Prüfstein ist die Möglichkeit der Korrektur: Kann der Mensch anerkennen, dass seine Deutung des göttlichen Willens falsch war? Behält er die Verantwortung für sein eigenes Verständnis? Kann er die Wirklichkeit eines anderen Menschen anerkennen, wenn dieser seinem Projekt im Weg steht? Eine Umadressierung, die solche Fragen ausschließt, droht gerade jene Kolonisierung zu reproduzieren, die sie überwinden soll.
+Glaube als Kompetenz bedeutet die stetige Fähigkeit, in Unsicherheit, Risiko und ohne vorbereitete Anweisung zu reagieren. Sie beinhaltet Unterscheidung, Lernen und Korrektur. Angst oder kein schneller Erfolg verleugnen sie nicht automatisch. Gleichzeitig befreit religiöse Überzeugung einen nicht von der Prüfung der Fakten und Folgen seines Handelns. [1, «Вера как компетенция»]
 
-## 5 Die Architektur menschlicher Antwort
+### Geschichtliche Offenheit und die Fülle des Eschatons
 
-### Der Dynamische Ikonische Raum
+Der eschatologische Horizont ermöglicht es, historische Formen zu bewerten, in ihnen zu agieren und sie bei einem Zusammenstoß mit der Realität neu zu betrachten. Seine Metaprojektsfunktion eröffnet die Möglichkeit für verschiedene historische Projekte. Keiner von ihnen hat das Recht, die Vollendung des Königreiches zu geben. Es hat im christlichen Sinne die Auferstehung des Körpers, die Umgestaltung der Schöpfung, das Reich Gottes und den Verehr. Die ewige ontologische Kommunikation bedeutet, dass das Leben Gottes mit der Erhaltung der Persönlichkeit und Unterschiede des Schöpfers und seiner Schöpfung verbunden ist. [2, «Эсхатологическая субъектность»]
 
-Der DIS bezeichnet die Weise, in der die Welt für das Subjekt gegenwärtig ist. Er umfasst nicht nur Informationen über Gegenstände, sondern auch Zusammenhänge, Bedeutsamkeit, Maßstab, Zeit, Bedrohungen, Erwartungen und Bilder des Möglichen. Das Wort „ikonisch“ beschränkt sich hier nicht auf Bilder oder kirchliche Ikonen: Gemeint ist die Darstellung der Wirklichkeit, durch die das Subjekt sich orientiert und handelt.
+### Gottes Sprache, Glaube und Umkehr
 
-Die Qualität des DIS bestimmt sich nicht allein durch die Wissensmenge. Man kann viele Einzelheiten kennen und das Ganze nicht sehen; in gewaltigen historischen Maßstäben denken und den konkreten Menschen nicht wahrnehmen; ein klares Bild der Gegenwart festhalten und zeitlich verzögerte Folgen übersehen. Wichtig sind deshalb Umfang, Auflösungsvermögen, Verbundenheit, Tiefe, Dynamik, Offenheit sowie die Fähigkeit, einen Widerspruch auszuhalten, ohne vorschnell eine seiner Seiten zu beseitigen.
+Die Sprache Gottes stellt die Frage, wie das Bekennen des Gottlichen Liebens mit dem Leiden und der Erfahrung seines Schweigens zusammenhängt. Die Konkurrenzontologie neigt dazu, in Gott eine höhere Kraft zu sehen, die zum Sieg ihrer Seite bestimmt ist. Solidaritätsontologie stellt die Frage, welcher Verhältnis den anderen Freiheit bewahrt. Diese Unterscheidung verändert die Vorstellung von Gottes Handeln und lässt eine offene Frage über den Sinn des konkreten Leidens. Reue und ontologische Aszektik berühren die Gründe, aus denen man das Geschehen sieht, sich selbst bewertet und reagiert. [1, «Язык Бога», «Вера как компетенция»; 2, «Качество онтологии», §6.2]
 
-Wer den Staatshaushalt für die persönliche Geldbörse des Herrschers hält, irrt sich nicht bloß in einzelnen Zahlen. Gegenstand, Kausalität und Verantwortung sind für ihn anders dargestellt. Eine Veränderung des DIS bedeutet, dass der Haushalt als verteiltes System von Verpflichtungen, Einnahmen, Ausgaben und künftigen Folgen sichtbar wird. [II, „Qualität der Ontologie“, §§1–3; III, §22 und Abschnitt IV.]
+## 6 Architektur der Antwort
 
-### Das Betriebssystem
+### Dynamischer ikonischer Raum und Betriebssystem
 
-Das OS ist die Gesamtheit der Weisen des Umgangs mit der Wirklichkeit. CDJ unterscheidet einen rezeptiv-interpretativen, einen projektiv-ausführenden und einen reflexiv-korrigierenden Funktionskreis: wie das Subjekt Informationen aufnimmt und versteht; wie es Handlungen entwirft und ausführt; wie es Folgen bewertet und sich selbst korrigiert.
+Der dynamische ikonische Raum, oder DIP, beschreibt die Konfiguration von dem, was für den Menschen als real und bedeutend vorhanden ist. Sie umfasst Bilder, Verbindungen, Szenen, Erwartungen, Vorstellungen von sich selbst und anderen, Zeit und Grundlage. Es geht nicht nur um die Menge an Informationen, sondern auch darum, welche Beziehungen man gleichzeitig halten kann. [2, «Качество онтологии»; 3, разд. II]
 
-Ein Mensch kann ein Problem sehen und über keine Operation verfügen, mit der er es lösen könnte. Eine Organisation kann verlässliche Informationen sammeln, ohne ein Verfahren zu besitzen, mit dem sich nach deren Eingang eine Entscheidung ändern lässt. Auch das Gegenteil ist möglich: Das Verfahren besteht formal, wird aber in einer bestimmten Klasse von Situationen niemals aktiviert. Diese Fälle verlangen unterschiedliche Erklärungen und unterschiedliche Veränderungen.
+Das Betriebssystem oder OS beschreibt die Art und Weise, wie man mit einem Erkennbaren arbeitet. Ihr Rezeptiv-Interpretationskontur ist mit Wahrnehmung und Verständnis, das Projektionalem - mit Aufbau und Durchführung von Handlungen, das Reflexiv-Korrektionskonzept - mit dem Lernen bei entdeckten Missverhältnissen verbunden. Diese Konstruktionen sind keine einzelnen Subjekte: Der ganze Mensch sieht, entscheidet und handelt.
 
-Das OS ist kein verborgenes zweites Subjekt im Menschen. Es ist eine analytische Bezeichnung seiner verfügbaren und tatsächlich verwendeten Operationen. Ebenso wenig „trifft“ der DIS „Entscheidungen“: Der ganze Mensch sieht, entscheidet und handelt.
+Die Subjektsein in dieser Architektur bezieht sich auf den eigenen Beginn und die Verantwortung dafür. In der Analyse von Institutionen sind die Berechtigungen wichtig, zu erkennen, zu interpretieren, zu beginnen, teilzunehmen, zu widersprechen, zu korrigieren und zu stoppen. Eine formelle Position entspricht nicht immer der tatsächlichen Verteilung dieser Möglichkeiten. [3, разд. VIII]
 
-### Subjekthaftigkeit und Szenariobuch
+Die Formel DIP × OS × Subjektsein bezeichnet die gegenseitige Abhängigkeit der Messungen. Sie schlägt nicht vor, die Identität durch das Malen von drei Zahlen zu berechnen. Eine breite Vision ohne Handlungsmethoden kann fruchtlos bleiben; eine technische Kompetenz bei einer engen Karte  ist ein falsches Ziel; die formelle Freiheit ohne Ausführungsmittel  bleibt eine Erklärung.
 
-Die dritte Dimension beantwortet die Frage: Wer ist der wirkliche Urheber der Antwort? Wer verfügt über Initiative, Widerspruchs-, Korrektur- und Abbruchrechte? Zu wem kehren die Folgen zurück? In einem komplexen System können diese Befugnisse verteilt sein. Dass es kein einziges Zentrum gibt, bedeutet für sich genommen nicht, dass Subjekthaftigkeit fehlt; zu klären ist, ob die verteilten Funktionen einen zusammenhängenden Funktionskreis bilden.
+### Qualität der Ontologie
 
-Die Formel „DIS × OS × Subjekthaftigkeit“ drückt die wechselseitige Abhängigkeit dieser Dimensionen aus. Sie ist keine Berechnung mit bekannten Einheiten und Koeffizienten. Ein reiches Weltbild gewährleistet keine Handlungsfähigkeit; entwickelte Operationen gewährleisten keine eigene Autorschaft; starke Initiative gleicht Blindheit nicht aus.
+Die Qualität der Ontologie ist vielfältig. Sie sind bedeutend für die Breite des Horizonts, die Zusammenhänge der Unterschiede, die Fähigkeit, Widersprüche zu ertragen, die Handlungsweise, die Offenheit zur Korrektur und das Verhältnis zu der Grundlage. Effizienz bei der Erreichung eines Ziels  nur ein Aspekt: Das Ziel selbst kann zerstörerisch sein, und der Preis für den Erfolg  übertragen auf andere. [2, «Качество онтологии»]
 
-Das Szenariobuch bezeichnet stabile Regeln, die diese Dimensionen in einer bestimmten Situation verbinden. Eine Institution kann beispielsweise Entscheidungen revidieren, erkennt aber jede öffentliche Kritik als Bedrohung. Dann wird die verfügbare Korrekturoperation gerade in der Situation der Kritik systematisch blockiert. Um die Existenz einer solchen Regel nachzuweisen, reicht eine einzelne Episode nicht aus: Erforderlich sind vergleichbare Fälle oder eine unabhängige Bestätigung. [III, §22а, §§113а, 118а.]
+Die Grenzlage des ersten Bandes ist eine Möglichkeit, die Qualität der Beziehung zur Realität zu erkennen. Sie ist nicht ausreichend auf das entwickelte Modell des zweiten Bandes. Es ist auch notwendig, die alltägliche Fähigkeit zu erforschen, zu lernen, Verbindungen aufrechtzuerhalten, Konsequenzen zu erkennen, Skala zu unterscheiden und das Unbekannte offen zu halten.
 
-### Qualität der Ontologie und ontologische Kompetenz
+### Das Szenarienbuch
 
-Die Qualität der Ontologie kennzeichnet die Beschaffenheit der wirkenden Welt des Subjekts. Ontologische Kompetenz bezeichnet seine Fähigkeit, sich in dieser Welt zu orientieren, die Grenzen der eigenen Karte zu sehen, notwendige Kenntnisse und Handlungsweisen aufeinander abzustimmen, Diskrepanz auszuhalten und eine Antwort hervorzubringen.
+Das Szenarienbuch verbindet den dynamischen ikonischen Raum, das Betriebssystem und das Subjektsein in einer konkreten Situation. Es beschreibt die Regeln, nach denen ein erkanntes Ereignis mit Erwartungen, verfügbaren Operationen und möglichen Antworten verknüpft wird. Es legt die Handlung nicht im Voraus fest. [3, разд. II, §22а]
 
-Diese Unterscheidung schützt das Projekt vor Intellektualismus. Eine umfassende Theorie garantiert keine Handlungsfähigkeit, und klares Verständnis garantiert keine Verwirklichung eines Projekts. Kompetenz umfasst das Verhältnis zu den eigenen Grenzen: Einen Fachkundigen zu finden, unzureichende Daten anzuerkennen oder eine unanwendbare Methode zu stoppen, ist manchmal wichtiger, als noch eine Erklärung anzubieten. Fundiertheit und Werteordnung durchziehen die gesamte Architektur: Wofür werden Fähigkeiten eingesetzt, und was wird beim Zusammenstoß von Gütern geopfert? [II, „Qualität der Ontologie“, §§4–9; III, §§32–36.]
+Hier werden mögliche, verfügbare und verwirklichte Antworten unterschieden. Eine Möglichkeit kann bestehen und unerkannt bleiben. Eine erkannte Option kann mangels einer Fähigkeit oder Ressource praktisch unverfügbar sein. Auch wenn alle Mittel vorhanden sind, kann die Handlung ausbleiben.
 
-## 6 Personwerdung und geschichtliches Handeln
+Zum Beispiel kann ein Mitarbeiter die Notwendigkeit verstehen, eine falsche Entscheidung zu stoppen, aber nicht wissen, wie man sie anwendet; sie kann sie kennen, aber keinen Zugang zum Entscheidenden haben; er kann zugreifen und trotzdem ablehnen. Diese Bestimmungen erfordern verschiedene Erklärungen. Man kann nicht alle auf eine Mangel an Mut oder moralischer Reife beschränken.
 
-### Von der Annahme des Anfangs zur eigenen Stimme
+## 7 Gesellschaft und Modernisierung
 
-Die „Genesis der Subjekthaftigkeit“ untersucht die Bedingungen des Entstehens einer Antwort; die „Ontogenese der Subjekthaftigkeit“ ihr Werden im menschlichen Leben. Das sind unterschiedliche Fragen. Festzustellen, dass empfangenes Sein mit Autorschaft vereinbar ist, erklärt noch nicht, wie ein konkreter Mensch zu antworten lernt, seine Identität bewahrt und Beziehungen eingeht.
+Die erste Ontoologie bezieht sich auf die direkte Verantwortung in der Raum eines bestimmten Verhältnisses. Das zweite ist die Verantwortung, die durch gesellschaftliche Funktionen, Rollen und Institutionen vermittelt wird. Die Nummerierung bestimmt nicht die Größe des menschlichen Wertes. Unmittelbare Nähe kann Sorge und Druck unterstützen; ein Institut kann einen Fremden schützen, aber auch die Verantwortung für das Verfahren verbergen. [2, «Модернизация»; 3, разд. IV]
 
-Ausgangspunkt ist die Annahme einer sinnhaften Bestimmtheit der Realität: Der Unterschied zwischen Entsprechung und Nichtentsprechung besteht und lässt sich entdecken. Auf menschlicher Seite sind Empfänglichkeit für Freiheit und die Möglichkeit erforderlich, über das bereits Verwirklichte hinauszugehen. Doch der „Geschmack an der Freiheit“ kann für sich genommen zur Willkür werden. Er muss mit der Annahme der Wirklichkeit, einer Hermeneutik der Verantwortung, der Orientierung am maximalen Grund und der Bereitschaft zur Prüfung verbunden werden.
+Der Übergang zur öffentlichen Funktion erfordert, dass man zwischen Mensch und Position, persönlicher Sympathie und Pflicht, Zugehörigkeit und Kompetenz unterscheidet. Der Richter muss die Sache eines Fremden unabhängig von seiner Lage behandeln. Die Ausführung der Funktion darf jedoch nicht die Sichtbarkeit eines bestimmten Menschen beseitigen, das von einer Entscheidung betroffen ist.
 
-Sich selbst anzunehmen bedeutet in diesem Prozess keine Selbstzufriedenheit. Der Mensch nimmt den Träger seiner Geschichte an, um sie fortsetzen und verändern zu können. Identität entsteht als Kontinuität der Antwort: Auch im Wandel kann der Mensch eine frühere Tat als seine eigene anerkennen, ihre Folgen korrigieren und darauf verzichten, die Vergangenheit einem fremden Menschen zuzuschreiben, der er angeblich früher gewesen sei.
+Die hergestellten Ontologien entstehen in den spezialisierten Bereichen  Recht, Wissenschaft, Bildung, Verwaltung, Technik. Jeder macht bestimmte Eigenschaften der Situation sichtbar, andere aber kann außer Acht gelassen werden. Die Interkontextübersetzung bedeutet also die Wiederherstellung von Sinnbedingungen, nicht einfach das Ersetzen von Wörtern. Die wirtschaftliche, juristische und pastoralische Beschreibung einer Situation kann unterschiedliche Verpflichtungen ausmachen. [3, разд. V]
 
-Ontische Subjekthaftigkeit – die Fähigkeit, in einer konkreten Welt zu handeln und zu antworten – bildet die notwendige Grundlage weiterer Ebenen. Man kann sie nicht überspringen und unmittelbar zu einer universalen Mission übergehen. Wenn jemand im Namen des Schicksals der Menschheit spricht, sich aber systematisch einfachen Verpflichtungen entzieht, sagt die Größenordnung seiner Erklärung noch nichts über die Qualität seiner Subjekthaftigkeit aus. [II, „Genesis der Subjekthaftigkeit“; „Ontogenese der Subjekthaftigkeit“, §§1–9.]
+Die Modernisierung in der CDJ wird durch die Begegnung von Komplexität sozialer Funktionen und dem Aufbau der Fähigkeit des Menschen, sie zu übernehmen, betrachtet. Ein Institut zu gründen bedeutet noch nicht, dass man die entsprechende Handlungsweise erlernt hat. Ein rechtliches Verfahren kann formell bestehen, während die tatsächlichen Entscheidungen immer noch durch persönliche Loyalität bestimmt werden. [2, «Модернизация»]
 
-### Durchbruch und Kristallisation
+Die horizontale Achse der Modernisierung bezieht sich auf den Übergang zwischen Skala und Ontologien; die vertikale  Qualität und Verteilung der Subjektsein; das eschatologische  Verhältnis der geschaffenen Form zu ihrer eigenen Grenze. Eine Einrichtung darf nicht zum letzten Maß der Menschheit werden. [3, разд. IV, §54]
 
-Ein ontologischer Durchbruch geschieht, wenn nicht eine einzelne Aufgabe, sondern die Struktur der Welt infrage steht, innerhalb deren Aufgaben unterschieden wurden. Eine solche Erfahrung erweitert das Mögliche, verbürgt aber keine Wahrheit. Ein starkes Erlebnis, eine ungewöhnliche Idee oder die Auflösung einer bisherigen Identität können einen neuen Horizont eröffnen und zugleich zu falscher Gewissheit führen.
+In dem ersten Band werden die Beziehungen zwischen Menschen durch eine Unterscheidung zwischen geschlossener und begründeter Relation betrachtet. Die Frage ist, ob die Teilnehmer ihre eigene Antwort behalten können, wenn einer von ihnen sich als endgültige Grundlage für den anderen anstellt. Die christliche Perspektive verbindet die Möglichkeit der Mitwirkung mit einem gemeinsamen Grundsatz, der keinem Teilnehmer gehört. Die Ankündigung solch einer Grundlage garantiert noch nicht die entsprechende Ordnung der Beziehungen: Ein Institut kann auf Gott verweisen und gleichzeitig menschliches Autorschaft ersetzen. [1, «Опыт прикладной метафизики субъекта», гл. 4]
 
-Nach dem Durchbruch sind deshalb Prüfung und Kristallisation notwendig: Die neue Unterscheidung muss eine beständige Form, Sprache, Praxis und Vermittlungsfähigkeit gewinnen. Eine verfrühte Kristallisation ist gefährlich, weil sie die erste gelungene Interpretation in ein unfehlbares System verwandelt. Auch fehlende Kristallisation hat ihren Preis: Die Erfahrung bleibt ein Aufblitzen, das die nächste Handlung nicht verändert.
+Die kollektive Subjektsein erfordert, zu untersuchen, wie verteilte Erkenntnis zur gemeinsamen Entscheidung wird, wer sie korrigieren kann und wer die Folgen bezahlt. Das Gemeinwesen entsteht nicht nur, weil die Führung im Namen des Kollektivs gesprochen hat. Die ontologische Zahlungsfähigkeit und die Kreditfähigkeit verbinden den Anspruch auf eine Handlung mit der realen Fähigkeit, seinen Preis zu akzeptieren und Vertrauen zu verdienen. Diese Begriffe sind nicht nur Geld: Zeit, Kompetenz, Verpflichtungen und Bedingungen für die Wiedergabe des gemeinsamen Handelns sind ebenfalls wichtig. [3, разд. VI– VIII]
 
-Der generative Übergang geht weiter. Das Subjekt eignet sich nicht nur eine fertige Form an, sondern schafft neue Weisen des Erkennens und Handelns, die andere übernehmen können. Für die Bewertung eines solchen Übergangs muss der Maßstab angegeben werden. Eine Lösung, die für einen Menschen neu ist, ist nicht notwendig für einen Beruf neu; eine historisch neue Institution eröffnet nicht notwendig ein neues Prinzip menschlichen Daseins. [II, „Ontogenese der Subjekthaftigkeit“, §§10–14; III, Abschnitt III.]
+### Das Gemeinsame, Legitimität und Preis
 
-### Zwei unabhängige Fähigkeiten
+Die Realität des Allgemeinen, die Richtigkeit seiner Vertretung und das Recht auf eine konkrete Forderung sind selbstständig zu prüfen. Die Entscheidungsbefugnis, die Möglichkeit, eine Entscheidung zu korrigieren und die Verantwortung für ihre Folgen zu tragen, können unterschiedlich sein. Die Studie zeigt also, wer die verfügbaren Optionen identifiziert hat, wer sich gegen sie äußern könnte und wem der tatsächliche Preis zugeführt wurde. [3, разд. VII–VIII]
 
-CDJ unterscheidet ontologische Kompetenz und sozio-ontische Projektualität. Die erste ermöglicht es, die Gründe, Grenzen und den menschlichen Sinn eines Projekts zu erkennen. Die zweite besteht darin, Organisation, Recht sowie wirtschaftliche und administrative Formen zu schaffen, durch die das Projekt in die Geschichte eintritt.
+Onthologische Kreditfähigkeit ist die begründete Erwartung, dass Versprechen, Handlungen und Verantwortlichkeiten verbunden bleiben. Zahlungsfähigkeit ist die Fähigkeit, einen tatsächlichen Preis für eine Antwort zu akzeptieren. Das ontologische Kapital beschreibt die gesammelten Möglichkeiten der sicheren Initiative und Zusammenarbeit, während das ontologische Budget zeigt, wie sie produziert, ausgegeben und reproduziert werden. [3, разд. VII]
 
-Ein scharfsinniger Denker muss nicht fähig sein, gemeinsames Handeln zu organisieren. Ein erfolgreicher Organisator kann ein zutiefst falsches Weltbild verwirklichen. Geschichtliche Macht ist folglich kein hinreichender Wahrheitsbeweis, und richtiges Verständnis ist keine hinreichende Bedingung für ein geschichtliches Ergebnis.
+## 8 Wie die CDJ-Analyse funktioniert
 
-Messianische Identität bezeichnet das Verständnis des eigenen Lebens als Berufung und Sendung. Sie garantiert keine gute Richtung: Auch Nation, Klasse oder Staat können zum absoluten Adressaten erhoben werden. In der christlichen Gestalt nimmt der Mensch sein Gesandtsein an, ohne sich die Rolle des endgültigen Retters anzueignen. Sein konkretes Projekt bleibt menschlich, begrenzt und korrigierbar. [II, „Ontogenese der Subjekthaftigkeit“, §§15–18; „Eschatologische Subjekthaftigkeit“, §§5–8.]
+### Rekonstruktion der tatsächlichen Struktur
 
-## 7 Der Logos und die Möglichkeit von Sinn
+Die CDJ-Analyse untersucht die Architektur der Antwort, nicht die Selbstbeschreibung des Objekts. Zuerst muss man den Fall beschränken: welche Organisation, Praxis oder Lösung untersucht wird, in welchem Zeitraum, aus welchen Materialien und für welche Funktion. Dann werden die tatsächlichen Bedingungen, die Karte der Teilnehmer, die verfügbaren Operationen und die Verteilung der Subjektsein rekonstruiert. [3, разд. X]
 
-### Warum Verbundenheit nicht genügt
+Anschließend werden die Erklärung und der Vorgang miteinander verglichen. Wer erkennt einen Fehler? Kann sein Nachricht die Entscheidung ändern? Wer hat das Recht, den Prozess zu stoppen? Ist es ein Gleichgewicht zwischen der Macht und der Verantwortung für die Folgen? Die Antworten sollten auf Dokumente, Beobachtungen und vergleichbare Zeugnisse beruhen, nicht nur auf den Erklärung der Teilnehmer.
 
-CDJ unterscheidet zwischen dem Bestehen einer Verbindung und sinnvoller Begegnung. Menschen können fortwährend Nachrichten austauschen, Handel treiben und Rollen erfüllen, ohne einander als eigenständige Träger einer Antwort anzuerkennen. Verbundenheit allein lässt Manipulation und Herrschaft zu.
+Die Subjekttopographie zeigt die Träger und den Ort der Konzentration der Möglichkeiten. Topologie betrachtet die Beziehungen zwischen ihnen: wie Initiative, Widerspruch oder Verantwortung von einem Teilnehmer zum anderen übergehen. Die Vektoranalyse ergänzt die Richtung der Veränderung im Laufe der Zeit. Eine erhöhte Aktivität oder Mobilisierung kann mit einer Verringerung der Möglichkeit verbunden sein, zu widersprechen und zu korrigieren. [3, разд. VIII–IX]
 
-Im I. Band wird dies durch die Unterscheidung zwischen geschlossener und gegründeter Relationalität ausgedrückt. Eine geschlossene Beziehung versucht, ihren letzten Grund ausschließlich in den Beteiligten zu finden; jeder droht sich zum letzten Maß des anderen zu machen. Eine gegründete Beziehung setzt voraus, dass keiner der Beteiligten das Recht besitzt, den anderen endgültig zu bestimmen, weil beide auf einen sie übersteigenden Grund bezogen sind.
+### Der Vektor des Subjektseins
 
-In dieser Konstruktion erfüllt der Logos zwei miteinander verbundene Aufgaben. Philosophisch bezeichnet er die letzte sinnhafte Bestimmtheit, dank deren sich Wahrheit und Falschheit, Angemessenheit und Willkür unterscheiden lassen. Theologisch ist der Logos der menschgewordene Sohn Gottes. Die Verbindung zwischen diesen Registern muss gewahrt bleiben, ohne das zweite durch das erste zu ersetzen. Christus erschöpft sich nicht im Prinzip logischer Kohärenz. [I, „Essay …“, Kap.4–6; „Zur Ontologie des Logos“; III, §§9–12.]
-
-### Methodologischer Monotheismus
-
-Der Mensch hat viele reale Bindungen und Pflichten: Familie, Beruf, Volk, Staat, den eigenen Leib. CDJ verlangt nicht deren Abschaffung. Methodologischer Monotheismus bedeutet, dass partielle Gründe ihren Platz und ihr Maß in Bezug auf den maximalen Grund erhalten müssen. Keiner von ihnen darf ungeprüft den ganzen Menschen beanspruchen.
-
-Dieses Prinzip hat einen praktischen Sinn. Verlangt der Staat, die Wahrheit dem Staatsnutzen zu opfern, stellt sich die Frage nach seinem Recht auf diese Forderung. Verlangt die Familie Ungerechtigkeit gegenüber einem Außenstehenden, hebt die Nähe als solche das Recht nicht auf. Verlangt eine kirchliche Organisation, ihren Ruf entgegen einer anerkannten Tatsache zu schützen, droht die Institution den Platz jenes Grundes einzunehmen, dem sie dienen soll.
-
-Das Prinzip eines einzigen letzten Grundes ist jedoch noch nicht das vollständige Bekenntnis zur Trinität. Im II. Band beschränkt der Autor seinen Status ausdrücklich auf eine Orientierungsstruktur. Es kann die theologische Betrachtung vorbereiten, ersetzt sie aber nicht. Eine tragfähige Analyse muss zeigen, an welcher Stelle der spezifisch christliche Gehalt eingeführt wird. [II, „Genesis der Subjekthaftigkeit“, §5.3.]
-
-### Götzendienst als Irrtum über den Grund
-
-Ein Götze ist in CDJ nicht nur ein Kultbild. Götzendienst entsteht, wenn ein endlicher Gegenstand, ein Modell oder eine Institution den Status endgültiger Realität erhält. Der Mensch beginnt, ihn vor jeder Prüfung zu schützen und andere Menschen ihm unterzuordnen.
-
-Dies ermöglicht eine Kritik des Götzendienstes innerhalb der Religiosität selbst. Der richtige Name des verehrten Gegenstands garantiert kein richtiges Verhältnis. Ein Mensch kann „Gott“ sagen und damit die absolute Bestätigung seiner Gruppe meinen. Er kann die Wahrheit verehren und faktisch seine eigene Unfehlbarkeit verteidigen. Logozentrizität bestimmt sich deshalb danach, woraus der Mensch handelt, und nicht allein nach dem Wortschatz seiner Selbstbeschreibung.
-
-Logofugalität bezeichnet entsprechend die Abkehr von dieser Prüfung und von der Bindung an den Grund. Sie kann hochorganisiert und technologisch effektiv sein. Sinnhafte Ordnung ist nicht mit sittlicher Wahrheit identisch: Auch ein falsches Projekt kann Disziplin und stabile Verfahren hervorbringen. An dieser Stelle präzisieren die Unterscheidungen der späteren Bände die schärferen Gegenüberstellungen des frühen philosophischen Teils.
-
-## 8 Gottebenbildlichkeit und Fülle der Person
-
-### Individualität und Unersetzlichkeit
-
-Die biografische Einmaligkeit eines Menschen erschließt für sich genommen noch nicht, was CDJ in der Person sucht. Auch eine Kombination von Ursachen kann einmalig sein. Das Projekt fragt nach etwas anderem: Warum hat gerade dieser Mensch ein Recht auf seine eigene Antwort und kann nicht durch einen funktional gleichwertigen Ausführenden ersetzt werden?
-
-Die theologische Antwort wird anhand von Bild und Ähnlichkeit Gottes entwickelt. Das Bild bezeichnet die dem Menschen gegebene Möglichkeit persönlicher Antwort; die Ähnlichkeit deren Entfaltung hin zur Fülle der Gottesbeziehung. Dies ist eine Arbeitsunterscheidung innerhalb der Architektur der Antwort, keine erschöpfende Definition sämtlicher Bedeutungen von Bild und Ähnlichkeit in der christlichen Tradition. Der Beitrag zur Pneumatologie begrenzt seinen Gegenstand ausdrücklich in diesem Sinn.
-
-Menschliches Werden erschafft Würde nicht aus dem Nichts und macht einen weniger kompetenten Menschen nicht weniger der Fürsorge würdig. Eine der wichtigsten Folgerungen aus dem eschatologischen Teil von CDJ lautet: Der Wert einer konkreten Person lässt sich nicht an ihrer gegenwärtigen Produktivität messen. Die Berufung zur Gemeinschaft mit Gott geht der Bewertung des tatsächlichen Gelingens ihrer Antwort voraus. Dies ist besonders wichtig für das Verständnis eines Kindes, eines Kranken, eines abhängigen Menschen oder eines Menschen mit Behinderung. Diese Anwendung ist eine Folgerung der vorliegenden Analyse aus der Unterscheidung zwischen Gabe und Aktualisierung, keine eigens ausgearbeitete Theorie im Korpus. [III, §11; „Auf der Suche nach einer Pneumatologie“, §2; II, „Eschatologische Subjekthaftigkeit“, §§11–14.]
-
-### Vergöttlichung und Bewahrung des Menschlichen
-
-Vergöttlichung bedeutet in der Logik von CDJ Teilhabe am Leben Gottes unter Wahrung des Unterschieds zwischen Schöpfer und Geschöpf. Der Mensch wird nicht zum Ursprung seiner selbst und verschwindet nicht in einem unpersönlichen Ganzen. Vielmehr verlangt die Fülle der Gemeinschaft die Bewahrung dessen, der in Gemeinschaft tritt.
-
-Der Verzicht auf autonome Selbstbegründung ist deshalb kein Verzicht auf die Person. Aufgegeben wird der Anspruch, absoluter Ursprung zu sein; Name, Geschichte, Antwort und Verantwortung bleiben erhalten. Darin besteht der grundlegende Unterschied zwischen Teilhabe und Aufgehen im Anderen.
-
-Die Formel „Christ bin“, die sich durch den I. Band zieht, drückt die Radikalität christlicher Selbstbestimmung aus: Das Christentum soll zur Daseinsweise werden, statt ein äußeres Verhältnis zu einem verehrten Vorbild zu bleiben. Sie muss als Teilhabe an Christus gelesen werden, nicht als Aneignung des einzigartigen hypostatischen Status des menschgewordenen Sohnes durch den Menschen. Der II. Band stützt gerade diese Unterscheidung: Gott tritt in Christus unmittelbar und hypostatisch in das Ontische ein; die menschliche geschichtliche Antwort ist abgeleitet und vermittelt. [I, „Zur Ontologie des Logos“; „Glaube als Kompetenz“; II, „Eschatologische Subjekthaftigkeit“, §§6, 13.]
-
-### Absolute Bedeutsamkeit ohne Absolutheit des Seins
-
-Im II. Band wird unterschieden zwischen der Absolutheit Gottes und der absoluten Bedeutsamkeit der Person für Gott. Der Mensch ist endlich und geschaffen. Seine Endlichkeit bedeutet aber nicht, dass er ersetzbar wäre oder einem unpersönlichen Ganzen als Verbrauchsmaterial geopfert werden dürfte.
-
-Das christliche Versprechen ewigen Lebens gilt dem konkreten Menschen, nicht bloß der Bewahrung von Informationen über ihn, seines gesellschaftlichen Beitrags oder des allgemeinen menschlichen Typs. Die Frage nach der Person erhält dadurch eschatologische Tiefe: Was ermöglicht gerade diesem Menschen, seine Identität in der endgültigen Gemeinschaft mit Gott zu bewahren?
-
-Im Rahmen seiner christlichen Voraussetzungen bietet CDJ hier eine theologische Begründung der Unersetzlichkeit. Die Behauptung, keine andere philosophische Begründung der Unersetzlichkeit sei möglich, wäre jedoch eine eigene, weiterreichende These. Dafür genügt es nicht, die Stärke der christlichen Lösung zu zeigen; konkurrierende Argumente müssten untersucht werden. [II, „Eschatologische Subjekthaftigkeit“, §§11–12.]
-
-## 9 Menschwerdung, Kreuz und Auferstehung
-
-### Die Initiative Gottes
-
-Würde man CDJ ausschließlich als Stufenleiter menschlicher Anstrengungen darstellen, entstünde eine erhebliche Verzerrung. Der Mensch prüft seine Gründe, scheitert, adressiert sein Leben um – und erreicht anscheinend aus eigener Kraft Gott. Der II. Band sagt deutlich das Gegenteil: Die Bewegung des Menschen zu Gott gründet in der vorausgehenden Bewegung Gottes zum Menschen.
-
-Menschwerdung bedeutet, dass der Logos in die geschaffene Wirklichkeit eintritt und menschliche Natur, Leib und Geschichte annimmt. Der Grund stellt nicht nur von außen eine Forderung an den Menschen. In Christus nimmt er selbst an menschlicher Verletzlichkeit teil. Die Theologie des Projekts lässt sich daher nicht in einer universalen Technik der Navigation zwischen Karten erschöpfen.
-
-Dies begrenzt auch eine negative Einstellung zum Ontischen. Wenn der Sohn Leib und Geschichte annimmt, ist die Konkretheit der Welt nicht bloß ein Hindernis beim Aufstieg zum Sinn. Sie wird zum Ort der Begegnung und Antwort. Arbeit, leibliche Fürsorge und die gerechte Gestaltung von Beziehungen gewinnen Bedeutung als Formen geschichtlicher Verkörperung, ohne dass eine von ihnen zum Reich Gottes selbst würde. [II, „Eschatologische Subjekthaftigkeit“, §§6, 13–14.]
-
-### Das Kreuz als Prüfung des Grundes
-
-Das Kreuz nimmt in CDJ eine zentrale Stellung ein, weil es die Treue zur Wahrheit von der Garantie des eigenen Erfolgs trennt. Hält ein Mensch nur das für wahr, was seine Macht, sein Ansehen und seine Sicherheit erhält, betrachtet er weiterhin sich selbst als letzten Grund. Die Praxis des Kreuzes bezeichnet die Möglichkeit, auf diese Bedingung zu verzichten.
-
-Doch nicht jedes Opfer wird dadurch christlich. Ein Mensch kann für ein falsches Projekt, unter fremdem Zwang oder für die eigene Grandiosität sterben. Die Größe des Verlusts beweist nicht die Wahrheit des Adressaten. Christliche Unterscheidung verlangt, das Verhältnis zur Wahrheit, zur Freiheit des anderen, zur Verantwortung und zu Christus selbst zu betrachten.
-
-Die Praxis des Kreuzes darf deshalb nicht in die Forderung umgewandelt werden, sich ständig Gefahren auszusetzen oder einer Institution die Verfügung über fremdes Leiden zu erlauben. In den Begriffen des späteren CDJ muss derjenige, der einen Preis verlangt, sein Recht auf diese Forderung begründen; freiwillige Askese ist nicht mit dem von außen verfügten Entzug von Subjekthaftigkeit identisch. Eine theologische Formel entbindet nicht von dieser Prüfung.
-
-Im II. Band erhält das Kreuz eine zusätzliche Deutung: Gott lässt wirkliche Folgen des menschlichen Urteils über sich zu, ohne dieses Urteil als wahr anzuerkennen. Die Freiheit des Menschen erweist sich als so ernst, dass seine falsche Antwort zu einem geschichtlichen Ereignis wird. Diese theologische Lesart des Autors erschließt den Preis der Beziehung; sie bedeutet jedoch nicht, dass der menschliche Urteilsspruch Macht über Gottes letzte Wahrheit gewinnt. [I, „Glaube als Kompetenz“; II, „Ontogenese der Subjekthaftigkeit“, §22; „Eschatologische Subjekthaftigkeit“, §13.]
-
-### Warum das Argument ohne Auferstehung unvollständig bleibt
-
-Bliebe man beim Kreuz als Redlichkeit angesichts der Niederlage stehen, entstünde eine Philosophie der Würde in der Katastrophe. Der christliche Sinn von CDJ reicht weiter. Auferstehung bedeutet, dass Tod und geschichtliches Urteil nicht den endgültigen Horizont der vom Logos angenommenen menschlichen Natur bilden.
-
-Der Glaube verwandelt hier eine Niederlage nicht durch Worte in einen Sieg. Er bezieht das geschichtliche Ereignis auf die verheißene Fülle, deren Ursprung in Gott liegt. Die menschliche Fähigkeit, eine Krise auszuhalten, bringt die Auferstehung nicht hervor und beweist sie nicht empirisch. Die Auferstehung geht als Inhalt der christlichen Verkündigung und als Grund der Hoffnung in das Projekt ein.
-
-Diese Unterscheidung verhindert zwei Reduktionen. Die erste verwandelt das Christentum in heroische Psychologie: Halte alles aus, und dadurch wirst du gerettet. Die zweite verwandelt Hoffnung in eine Leugnung der Folgen: Weil Gott siegen wird, sei der menschliche Irrtum unwesentlich. CDJ verlangt zugleich die Wirklichkeit des geschichtlichen Preises und die Offenheit für einen Horizont, der sich nicht in der Geschichte erschöpft.
-
-## 10 Glaube als Kompetenz und die Sprache Gottes
-
-### Von der Überzeugung zur Fähigkeit zu leben
-
-Der Glaube hat in CDJ psychische, gesellschaftliche und intellektuelle Erscheinungsformen, erschöpft sich aber nicht in ihnen. Erlebnis, Zugehörigkeit und Überzeugung können in den unterschiedlichsten religiösen und ideologischen Systemen vorkommen. Die spezifisch christliche Frage betrifft den Ursprung des Lebens und das Verhältnis zur Zukunft.
-
-Kompetenz bezeichnet eine beständige Fähigkeit, dort zu handeln, wo Wissen und Anweisungen keine fertige Lösung liefern. Ein Mensch kann viel über Vergebung wissen und nicht vergeben können; er kann die Notwendigkeit der Wahrheit verstehen und sie unter der Drohung eines Verlusts verbergen. Zwischen Bewusstseinsinhalt und Daseinsweise bleibt ein Übergang, den keine Definition allein vollziehen kann.
-
-Glaube als Kompetenz ist die Fähigkeit, unter wechselnden Bedingungen die Orientierung an Gott und Wahrheit zu bewahren, Verantwortung anzunehmen, das eigene Verständnis zu prüfen und die Antwort zu erneuern. Er garantiert nicht die Richtigkeit jeder Entscheidung und macht den Glaubenden nicht allwissend. Zu seiner Reife gehört die Fähigkeit, einen Irrtum anzuerkennen, ohne die Beziehung zum Grund selbst zu zerstören. [I, „Über die Natur des Glaubens“; „Glaube als Kompetenz“; III, Abschnitt XIII.]
-
-### Das Schweigen Gottes und die Konkurrenzwelt
-
-„Die Sprache Gottes“ im I. Band stellt eine schmerzhafte Frage: Wie lassen sich das Bekenntnis zum Gott der Liebe und die Wirklichkeit des Leidens sowie die Erfahrung seines Schweigens miteinander verbinden? Dies ist nicht bloß ein Kapitel über sakrale Sprache oder die logische Struktur der Schöpfung. Es untersucht die Diskrepanz zwischen dem vom Menschen erwarteten Eingreifen und jener Veränderung des Menschen selbst, auf die das Christentum zielt.
-
-Die konkurrenzielle Ontologie versteht Sein als Kampf um Selbsterhaltung, Überlegenheit und Kontrolle. In einer solchen Welt kann sogar Gott als der stärkste Teilnehmer gedacht werden, von dem man den Sieg der eigenen Seite erwartet. Eine solidarische Ontologie setzt einen anderen Beziehungstyp voraus: Die Fülle des einen darf sich nicht durch die Vernichtung des anderen verwirklichen. Demut ist hier mit dem Verzicht verbunden, sich das Zentrum des Seins anzueignen; Zielstrebigkeit mit der Bereitschaft, tatsächlich in ein anderes Verhältnis zum Leben einzutreten.
-
-Diese Lesart erklärt, warum das Christentum nicht jede menschliche Erwartung von Macht bestätigen muss. Sie beseitigt jedoch nicht alle Fragen der Theodizee. Daraus, dass ein erzwingendes Eingreifen Freiheit unterdrücken kann, folgt noch keine Erklärung jedes Leidens, insbesondere des Leidens derjenigen, die es nicht sinnvoll annehmen können. Das Kapitel sollte daher als Interpretation einer christlichen Weise des Antwortens gelesen werden, ohne es als abgeschlossenen Beweis für die Rechtfertigung alles Geschehenden auszugeben. [I, „Die Sprache Gottes“.]
-
-### Umkehr und Askese
-
-Umkehr betrifft in CDJ die Grundlagen von Wahrnehmung und Handlung. Der Mensch bedauert nicht nur eine Verfehlung, sondern klärt, welches Verständnis seiner selbst und der Welt sie möglich gemacht hat. Betrachtet er einen anderen Menschen weiterhin als Mittel seiner eigenen Beruhigung, muss eine einzelne Entschuldigung die sich reproduzierende Beziehungsstruktur nicht verändern.
-
-Ontologische Askese bezeichnet die Disziplin, auf unhaltbare Elemente der eigenen Karte zu verzichten. Das ist eine schwierige Fähigkeit: Eine irrige Konstruktion kann Würde, Zugehörigkeit und vertraute Sicherheit stützen. Auf sie zu verzichten erfordert nicht nur ein Argument, sondern die Bereitschaft, anders zu leben.
-
-Fortwährende Prüfung bedeutet dabei keine chronische psychische Destabilisierung. Beständige Gewohnheiten, Fertigkeiten und Lebensformen können die Antwort stützen. Entscheidend ist ihre Offenheit für Korrektur, nicht die obligatorische Zerstörung von Stabilität bei jeder Handlung. Hier ermöglicht die spätere Methode eine vorsichtigere Lektüre der Sprache des unablässigen Bruchs im I. Band.
-
-## 11 Die Kirche als Ereignis und geschichtliche Form
-
-### Gemeinschaft statt gegenseitiger Bestätigung
-
-Ontologische Kommunikation beginnt dort, wo die Begegnung mit dem anderen nicht nur neue Informationen vermittelt, sondern auch die Grundlagen des eigenen Verständnisses verändern kann. Dazu muss die eigenständige Wirklichkeit des Gegenübers anerkannt werden, die sich nicht auf dessen Platz im eigenen Weltbild reduzieren lässt. Die Antwort des anderen kann etwas aufdecken, das diese Karte nicht umfasst.
-
-Für CDJ ist dies sowohl in der Beziehung zu Gott als auch in der Beziehung zum Menschen wesentlich. Gemeinschaft lässt sich nicht auf die Intensität von Erlebnissen oder auf Übereinstimmung reduzieren. Selbst ein Konflikt kann zum Ereignis der Begegnung werden, wenn die Beteiligten ihre Gründe der Prüfung öffnen. Umgekehrt kann Einmütigkeit aus dem systematischen Ausschluss Andersdenkender entstehen.
-
-Die Kirche wird als Raum betrachtet, in dem eine solche Kommunikation eine beständige geschichtliche Form erhalten soll. Der theologische Sinn von Versammlung und Eucharistie wird mit der Teilhabe am Leben des Reiches Gottes und mit der Erfahrung einer Gemeinschaft verbunden, die sich nicht in den Regeln der Konkurrenzwelt erschöpft. Das Sakrament wird nicht durch ein Gespräch ersetzt: Es geht um die menschliche Form der Teilhabe am Handeln Gottes. [I, „Die Ausgangsposition. Einst die ursprüngliche“; „Essay …“, Kap.6–7; II, „Eschatologische Subjekthaftigkeit“, §§9–10.]
-
-### Wozu Infrastruktur notwendig ist
-
-Ein einzelnes Begegnungsereignis kann sich als nicht vermittelbar und nicht reproduzierbar erweisen. Die geschichtliche Form – Gottesdienst, Bildung, Gemeinde, Disziplin, Gedächtnis, Leitung – schafft Bedingungen, unter denen ein neuer Mensch in die Erfahrung eintreten und seine eigene Antwort entwickeln kann.
-
-Das Wort „Infrastruktur“ darf deshalb nicht bedeuten, die Kirche sei lediglich eine Dienstleistungsorganisation. Es hebt einen Aspekt ihres geschichtlichen Daseins hervor: was die Bildung, Erhaltung, Prüfung und Reproduktion eschatologischer Subjekthaftigkeit ermöglicht. Dies ist eine funktionale Perspektive innerhalb des theologischen Verständnisses, keine erschöpfende dogmatische Definition.
-
-Eine kirchliche Form kann ihre Funktion erfüllen, sich deren Erfüllung erst erarbeiten, das Ausbleiben des Ergebnisses kompensieren, es simulieren oder den entgegengesetzten Effekt hervorbringen. Eine Leitung, die Unterscheidungsfähigkeit vermitteln soll, kann beispielsweise die Unfähigkeit festigen, ohne den Leiter zu entscheiden. Für eine solche Diagnose sind konkrete Daten über die Praxis erforderlich; ein kritischer Ton allein genügt nicht. [III, Abschnitt XIII; „Auf der Suche nach einer Pneumatologie“, §16.]
-
-### Gehorsam und Verantwortung
-
-CDJ ermöglicht eine strenge Frage an den Gehorsam: Befähigt er den Menschen zu einer umfassenderen Antwort, oder überträgt er die Autorschaft seines Lebens auf eine andere Person? Äußerlich ähnliche Handlungen können einen unterschiedlichen Sinn haben. Die freiwillige Annahme einer Disziplin kann Freiheit erweitern; die erzwungene Unterdrückung von Widerspruch kann sie einschränken.
-
-Der Unterschied lässt sich weder am Wort „Gehorsam“ noch an der bloßen Tatsache einer Beschränkung feststellen. Zu klären ist, ob Prüfung, Verantwortung, die Möglichkeit, eine Diskrepanz anzuzeigen, und die Anerkennung der Machtgrenzen des Leiters erhalten bleiben. Eine Institution kann sich nicht zum letzten Adressaten der Umadressierung erklären und sich das Handeln Gottes aneignen.
-
-Eine der zentralen ekklesiologischen Fragen von CDJ lässt sich daher so formulieren: Bringt das kirchliche Leben Menschen hervor, die Gott selbst antworten können? Diese Fragestellung verlangt keine Verneinung der Institution. Sie verlangt von der Institution, ihre Treue zu der Bestimmung zu zeigen, um derentwillen sie besteht.
-
-## 12 Eschatologie und Offenheit der Geschichte
-
-### Die Zukunft als Grund gegenwärtigen Handelns
-
-Der Mensch handelt nicht nur unter dem Einfluss der Vergangenheit. Er bezieht die Gegenwart auf etwas, das noch nicht besteht: Er erzieht ein Kind, schafft eine Institution, hält ein Versprechen. Die Zukunft ist im Handeln als Horizont gegenwärtig, nicht als bereits vorhandener Gegenstand.
-
-Eschatologische Subjekthaftigkeit erschließt in CDJ diese Struktur in Bezug auf die letzte Fülle. Sie lässt sich nicht auf eine Prognose der letzten Ereignisse reduzieren. Der Mensch kann die bestehende Ordnung von dem her beurteilen, wozu menschliches Dasein berufen ist. Daher erhält das geschichtlich Erfolgreiche nicht automatisch den Status endgültiger Wahrheit.
-
-Der eschatologische Horizont erfüllt eine metaprojektuale Funktion: Er eröffnet den Raum möglicher Modelle, schreibt aber kein einziges politisches oder wirtschaftliches Programm vor. Zwischen dem Grund und einer konkreten Institution liegen menschliche Interpretation, Wahl, Ressourcen, Risiko und Verantwortung. Dem eigenen Projekt unbedingte göttliche Autorität zuzuschreiben bedeutet, gerade diese Übergänge zu beseitigen. [II, „Eschatologische Subjekthaftigkeit“, §§1–8.]
-
-### Offenheit und falsche Vollendung
-
-Der Utopismus versucht, endgültige Fülle mit den Mitteln der Geschichte herzustellen. Die apokalyptische Lähmung verzichtet umgekehrt auf Handeln, weil sie das Ende erwartet. Messianischer Narzissmus eignet dem Menschen die Rolle des unersetzlichen Retters zu; eschatologische Inflation erklärt jedes Ereignis zum letzten Kampf.
-
-Der gemeinsame Mangel dieser Modi ist der Verlust des Unterschieds zwischen letztem Horizont und endlicher geschichtlicher Form. CDJ wahrt das Recht, entschlossen zu handeln, ohne das eigene Handeln für endgültig zu erklären. Korrigierbarkeit ist nicht Überzeugungslosigkeit; die Begrenztheit eines Projekts hebt die Pflicht zu seiner Verwirklichung nicht auf, sofern es begründet ist.
-
-Die Geschichte prüft nicht nur die Qualität der Ausführung. Der Widerstand der Wirklichkeit kann einen Fehler im Modell selbst oder in der Werteordnung aufdecken. Die Treue zum Grund verlangt deshalb manchmal, ein Projekt zu verändern, das ursprünglich als Ausdruck dieser Treue verstanden wurde.
-
-### Das Eschaton ist keine endlose Diskussion
-
-Im geschichtlichen Handeln bedeutet Offenheit die Möglichkeit der Korrektur und den Verzicht auf die Sakralisierung endlicher Formen. Das endgültige Eschaton wird in CDJ jedoch nicht auf ewige Unabgeschlossenheit reduziert. Es umfasst die Auferstehung des Leibes, die Verklärung der Schöpfung, das Reich Gottes und die Fülle der Gemeinschaft.
-
-Die Formel ewiger ontologischer Kommunikation bezeichnet die Teilhabe am Leben Gottes unter Bewahrung der Person und des Unterschieds zwischen Schöpfer und Geschöpf. Sie meint keinen endlosen Informationsaustausch. Es aufersteht nicht nur das Denkvermögen: Der Mensch tritt in der Ganzheit seines geschaffenen Seins in die Fülle ein.
-
-Eine Übersicht, die alles mit dem einzigen Wort „Offenheit“ abschließt, verliert daher den positiven Gehalt christlicher Hoffnung. CDJ verbindet die geschichtliche Unabgeschlossenheit menschlicher Konstruktionen mit dem Versprechen einer Fülle, die der Mensch nicht aus eigener Kraft hervorbringen kann. [II, „Eschatologische Subjekthaftigkeit“, §§11–15.]
-
-## 13 Trinitarischer Grund und Pneumatologie
-
-### Warum Gnade kein zusätzliches Modul ist
-
-Der Beitrag „Auf der Suche nach einer Pneumatologie“ beginnt mit einer vom Autor anerkannten Lücke. Die Architektur menschlicher Antwort war bereits ausgearbeitet, doch der Ort des Heiligen Geistes und der Gnade hatte noch keine gesonderte Erklärung erhalten. Die Lösung besteht nicht darin, DIS, OS und Subjekthaftigkeit um ein viertes Element zu ergänzen, sondern die gesamte Architektur theologisch zu lesen.
-
-Die Argumentationsrichtung ist hier einseitig. Die Trinität wird nicht daraus abgeleitet, dass das anthropologische Modell drei Dimensionen enthält. Das Projekt geht bereits vom christlichen Bekenntnis aus und prüft, ob unabhängig eingeführte Unterscheidungen einen Aspekt der Gottebenbildlichkeit genauer beschreiben können.
-
-Dies ist eine grundlegende Begrenzung. Das anthropologische Schema beweist das Dogma nicht; das dogmatische Bekenntnis macht nicht jede vorgeschlagene anthropologische Analogie automatisch wahr. Die Entsprechung muss Erklärungskraft zeigen und einer negativen Prüfung standhalten. [III, „Auf der Suche nach einer Pneumatologie“, §§1–4.]
-
-### Drei Entsprechungen und ihre Asymmetrie
-
-Subjekthaftigkeit wird vornehmlich auf das väterliche Prinzip des Anfangs, der Autorschaft und der Verantwortung bezogen. Der Mensch ist nicht anfangslos, kann aber ein wirklicher abgeleiteter Anfang der Antwort sein. Dies bezeichnet keinen Grad von Göttlichkeit, sondern unterscheidet zwischen dem Empfang einer Fähigkeit und dem eigenen Vollzug des Aktes.
-
-Das OS wird vornehmlich auf das dem Sohn zugeordnete, logoshafte Prinzip der Unterscheidung und Operation bezogen. Die Welt ist kein absolut ununterscheidbares Chaos, und die menschliche Antwort kann sinnhafte Bestimmtheit besitzen. Dabei reicht die Logosdimension über das OS hinaus: Sie betrifft sowohl die Bestimmtheit der Realität selbst als auch die Struktur ihrer Gegenwart.
-
-Der DIS wird hinsichtlich der Struktur der Gegenwart teilweise auf die pneumatologische Dimension bezogen. Wahrheit muss nicht nur richtig benannt werden, sondern für den Menschen lebendig und bedeutsam werden, ihn berühren und die Möglichkeit gewinnen, seine Lebensweise zu verändern. Starke Gegenwart verbürgt jedoch noch keine Wahrheit: Auch Angst, ein Götze oder ein falsches Bild können das Bewusstsein völlig einnehmen.
-
-Die Entsprechungen sind bewusst asymmetrisch. Die pneumatologische Dimension durchzieht die gesamte Architektur: Offenheit, Belebung der Beziehung zur Wahrheit, Heilung, Übergang vom Wissen zur wirklichen Antwort. Sie beschränkt sich nicht auf den DIS. Ebenso wenig ist Subjekthaftigkeit der ausschließliche Wirkungsbereich des Vaters, und Operationen sind nicht der ausschließliche Wirkungsbereich des Sohnes. Das Wirken der Trinität ist eines. [Ebd., §§3–15.]
-
-### Gnade und Wirklichkeit menschlicher Autorschaft
-
-In CDJ wird die Gnade als ein vom Dreieinigen Personalen Gott geschenkter Horizont verstanden, in dem Freiheit, Menschsein im personalen Sinne und die eigene Antwort des Menschen möglich werden. Diese Formulierung wurde vom Autor bei der Vorbereitung der vorliegenden Darstellung präzisiert. Indem der Mensch diesen geschenkten Horizont nicht erkennt und sich nicht erschließt, läuft er Gefahr, bereits erlangte menschliche (personale) Subjekthaftigkeit zu verlieren. Die Grundlage dieser Präzisierung findet sich in der „Interpretationsbedingung“ in CDJ I: Gnade wird in allen Aussagen über die Wahl und die Fähigkeit des Subjekts, eine bestimmte Position einzunehmen, als Bedingung der Möglichkeit der Wahl vorausgesetzt. Menschliche Autorschaft wird daher als Vollzug einer von Gott geschenkten und geheilten Handlungsfähigkeit verstanden. Gottes Handeln darf nicht als Konkurrent menschlichen Handelns gedacht werden: Die Heilung der Natur bedeutet eine vollere Fähigkeit des Menschen zu antworten, nicht das Verschwinden des Urhebers der Antwort. [CDJ I, „Interpretationsbedingung“; CDJ III, „Auf der Suche nach einer Pneumatologie“, §14.]
-
-Die durch Gnade ermöglichte menschliche Autorschaft bedeutet jedoch nicht, dass jede Antwort durch Gnade bestimmt ist: Der Mensch kann eine falsche, zerstörerische und sündhafte Antwort geben und trägt Verantwortung für deren Inhalt. Damit ist der Ort der Gnade als Bedingung der Möglichkeit der Antwort in CDJ bestimmt. Offen bleibt eine erschöpfende Theorie des Verhältnisses zwischen göttlichem Handeln und menschlicher Kausalität im konkreten freien Akt, einschließlich der Unterscheidung zwischen natürlicher Fähigkeit, gnadenhafter Heilung und persönlicher Annahme. Der Autor benennt diese Grenze ausdrücklich; sie hebt die bereits bestimmte Grundlage nicht auf. [CDJ III, „Auf der Suche nach einer Pneumatologie“, §§14, 18.]
-
-Auch die Anwendung der Methode hat eine strenge Grenze. Aus hoher Kompetenz lässt sich das Wirken des Heiligen Geistes nicht diagnostizieren. Aus Initiative lässt sich nicht schließen, ein konkreter Anfang sei ein normatives Bild des Vaters. An der Fähigkeit zu logischen Operationen lässt sich das Verhältnis eines Menschen zum Sohn nicht messen. Die Analyse rekonstruiert die menschliche Architektur; die Theologie deutet deren mögliche Entsprechungen; eine Aussage über ein konkretes Handeln Gottes folgt aus keinem von beiden automatisch. [Ebd., §§17–19.]
-
-## 14 Modernisierung und gesellschaftliche Verantwortung
-
-### Die Erste Ontologie
-
-Die Erste Ontologie organisiert die menschliche Welt um unmittelbare Beziehungen: Familie, Nachbar, Haus, Boden, konkrete Pflicht, sichtbarer Gegner und persönliche Gefahr. Innerhalb dieses Radius kann sie große Genauigkeit besitzen. Der Mensch weiß, wem er verpflichtet ist, wer ein Versprechen gebrochen hat und wen er schützen muss.
-
-Sie darf nicht bloß als primitive Stufe betrachtet werden. Sie bewahrt etwas, das komplexe Institutionen oft verlieren: die Konkretheit des anderen Menschen und den unmittelbaren Ernst der Verantwortung. Gerechtigkeit garantiert sie jedoch nicht. Nähe kann zum Grund für den Ausschluss Fremder, persönliche Treue zur Rechtfertigung von Gewalt werden.
-
-Ihre Grenze zeigt sich dort, wo Verantwortung gegenüber Unbekannten, Abwesenden oder noch Ungeborenen erforderlich wird. Demografie, Haushalt, Infrastruktur und ökologische Folgen sind nicht als einzelner Mensch oder Gegenstand gegeben. Sie sind über Zeit, Raum und Kausalzusammenhänge verteilt. [II, „Modernisierung“; III, §§50–51.]
-
-### Die Zweite und die abgeleiteten Ontologien
-
-Die Zweite Ontologie macht verteilte Realität durch gesellschaftliche Funktionen, Rollen und Institutionen zugänglich. Der Mensch lernt, Amt und Amtsträger, persönliches Eigentum und öffentliche Ressource, Sympathie und Pflicht, Zugehörigkeit und Kompetenz zu unterscheiden.
-
-Sie erweitert den Verantwortungsradius, darf aber das unmittelbare menschliche Verhältnis nicht zerstören. Nutzt ein Amtsträger seine Befugnisse als Ressource der Familie, fällt die Zweite Ontologie in die Erste zurück. Sieht eine Institution im Menschen nur eine Funktion und bemerkt seine einmalige Situation nicht, erfolgt die umgekehrte Reduktion.
-
-Abgeleitete Ontologien sind spezialisierte Architekturen von Wissenschaft, Recht, Verwaltung, Berufen und Technologien. „Abgeleitet“ bedeutet hier keine defizitäre Unselbstständigkeit. Spezialisierung erhöht das Auflösungsvermögen. Das Problem entsteht, wenn eine lokale Sprache beansprucht, den Menschen erschöpfend zu beschreiben.
-
-Interontologische Übersetzung ist beispielsweise beim Zusammentreffen medizinischer, rechtlicher und familiärer Perspektiven erforderlich. Sie übersetzt nicht nur Wörter, sondern die Bedingungen tatsächlichen Sinns. Dasselbe Wort „Verantwortung“ kann unterschiedliche Operationen und Anforderungen bezeichnen. Die bloße Übertragung eines Begriffs ohne Rekonstruktion dieser Bedingungen erzeugt eine Aberration: Die fremde Struktur wird mithilfe der nächstliegenden vertrauten Kategorie gedeutet. [III, §§52–68.]
-
-### Warum neue Institutionen noch keine Modernisierung bedeuten
-
-In CDJ entsteht Modernisierung aus der Begegnung zunehmend komplexer gesellschaftlicher Ontologien mit der sich entwickelnden Fähigkeit des Menschen, sie sich anzueignen. Wächst die gesellschaftliche Komplexität schneller als die subjekthafte Kapazität, entstehen Institutionen, die Menschen nach der Logik einer anderen Tätigkeit nutzen.
-
-Man kann ein Gericht schaffen, das ein System persönlicher Patronage bleibt; eine Universität, die Bildungsbescheinigungen statt selbstständigen Denkens erzeugt; eine digitale Verwaltung, die keine Korrektur einer Entscheidung zulässt. Technische Neuheit beweist in diesen Fällen keine Veränderung der Architektur der Antwort.
-
-Der III. Band unterscheidet drei Modernisierungsachsen. Die horizontale betrifft den Maßstab und die Übergänge zwischen Erster, Zweiter und spezialisierten Ontologien. Die vertikale betrifft die Verteilung subjekthafter Befugnisse. Die eschatologische betrifft die Offenheit für den letzten Grund und den Verzicht darauf, eine geschichtlich geschaffene Form als endgültig anzusehen. Die horizontale Achse dieses Modells ist nicht mit dem horizontalen Vektor der Methodologie identisch: Es handelt sich um unterschiedliche analytische Unterscheidungen.
-
-Ein starkes Modernisierungskriterium ist die Fähigkeit, Menschen hervorzubringen, die wachsende Komplexität bewältigen, ohne ihre eigene Antwort zu verlieren. Es ergänzt wirtschaftliche und technische Kennzahlen, macht sie aber nicht überflüssig. Ohne Mittel, Ausbildung und Infrastruktur kann die Forderung nach Subjekthaftigkeit ein moralischer Appell bleiben. [II, „Modernisierung“; III, §54.]
-
-## 15 Das Gemeinsame, Macht und der Preis des Handelns
-
-### Wann eine Vielheit zum Subjekt wird
-
-Ein gemeinsames Gefühl, Identität oder Mobilisierung beweisen noch nicht das Bestehen eines kollektiven Subjekts. Es muss festgestellt werden, ob Erkennen, Initiative, Entscheidung, Handlung, Folgen und Korrektur einen reproduzierbaren Funktionskreis bilden.
-
-Die Subjekttopographie zeigt, wo Befugnisse liegen und wer sie trägt. Die Topologie zeigt, wie sie verbunden sind. Ein Experte kann alles verstehen, ohne einen Weg zur Entscheidung zu haben; eine Führungskraft kann entscheiden, ohne verlässliche Informationen zu erhalten; ein Ausführender kann Folgen tragen, ohne das Recht zu besitzen, eine fehlerhafte Handlung zu stoppen. Jeder Beteiligte handelt lokal rational, während das Gesamtsystem nicht antworten kann.
-
-Reale kollektive Subjekthaftigkeit wird auch durch den Wechsel von Generationen und Beteiligten geprüft. Ist eine Antwort nur dank eines außergewöhnlichen Anführers oder einer außerordentlichen Bedrohung möglich, ist sie wirklich, hat aber noch keine beständige institutionelle Form erhalten. Lebendige Zeit verwandelt Erfahrung in neue Fähigkeit; tote Zeit reproduziert eine Form, die allmählich ihre Verbindung zur Aufgabe verliert. [III, Abschnitte VI und VIII.]
-
-### Die Realität des Gemeinsamen rechtfertigt nicht jede Forderung
-
-Der Staat, das gesellschaftliche Gedächtnis und die Zukunft eines Volkes können reale Gegenstände sein. Aus ihrer Realität folgt aber nicht, dass jeder, der in ihrem Namen auftritt, jedes beliebige Opfer verlangen darf.
-
-CDJ trennt mehrere Prüfungen: Besteht das Gemeinsame? Wie wird es repräsentiert? Ist das Vertrauen in seinen Vertreter begründet? Hat dieser das Recht, gerade diese Forderung zu stellen? Wie wird die Verantwortung eines konkreten Menschen verortet? Diese Trennung verhindert den Übergang von „Das ist für alle wichtig“ zu „Du musst jeden Preis zahlen“.
-
-Ontologische Kreditwürdigkeit ist die begründete Erwartung einer Verbindung von Versprechen, Handeln, Prüfung und Verantwortung. Zahlungsfähigkeit ist die Fähigkeit, den Preis der eigenen Autorschaft tatsächlich zu übernehmen. Diese Begriffe unterscheiden sich: Man kann durch frühere Ergebnisse Vertrauen erwecken und nicht bereit sein, für eine neue Entscheidung zu zahlen; man kann opferbereit sein, ohne hinreichende Gründe für Vertrauen in das Projekt zu besitzen.
-
-Ontologisches Kapital bezeichnet die angesammelte Möglichkeit glaubwürdiger Initiative und Kooperation. Es kann reproduziert oder verbraucht werden. Ein vergangener Sieg, die Heiligkeit eines Gründers oder eine wissenschaftliche Leistung gewähren den Nachfolgern keinen unbegrenzten Kredit. Der Ausfall des Vertreters des Gemeinsamen bedeutet nicht das Verschwinden des Gemeinsamen selbst. [III, §§78–85.]
-
-### Subjekthaftigkeit und Macht
-
-Macht kann den Raum eigener Antwort erweitern, fällt aber nicht mit Subjekthaftigkeit zusammen. Ein Mensch kann ein Amt innehaben und ein fremdes Szenario ausführen. Er kann keinen formalen Status besitzen und dennoch bestimmen, welche Fragen, Instrumente und Entscheidungen zulässig sind.
-
-Die Frage „Wer hat unterschrieben?“ muss deshalb ergänzt werden: Wer hat die Optionen formuliert, wer konnte widersprechen, wer konnte stoppen, wer erhält das Ergebnis und wer übernimmt die Folgen? Der Preis macht sichtbar, was die Selbstbeschreibung des Systems verdeckt.
-
-Diese Analyse besitzt normative Kraft, ersetzt jedoch nicht die Prüfung der Umstände. Eine ungleiche Verteilung der Lasten kann aus Ausbeutung, freiwilliger Verpflichtung, unterschiedlichen Ressourcen oder funktionaler Arbeitsteilung hervorgehen. Festzustellen, welche Interpretation zutrifft, ist eine eigene Aufgabe. Die Methode verlangt eine starke Alternative, keine automatische Anklage.
-
-## 16 Methodologie der CDJ-Analyse
-
-### Was genau analysiert wird
-
-CDJ-Analyse wird als Vektoranalyse der Subjekthaftigkeit bestimmt. Ihr Gegenstand ist die Veränderung von Ebene, Richtung, Träger und Verteilung menschlicher Antwort. Sie fragt nicht nur, wie effektiv ein System handelt, sondern auch, welche Art von Mensch die Teilnahme an ihm hervorbringt.
-
-Unterschieden werden die ontische, ontologische und eschatologische Ebene. Die Richtung kann aufsteigend, horizontal oder absteigend sein. Gesondert berücksichtigt werden der dynamische Modus, die Entsprechung zur erklärten Funktion, Zeit, Maßstab, Preis und Verteilung der Befugnisse. Aus einem einzigen Parameter lässt sich keine Gesamtbewertung gewinnen.
-
-Zentralisierung kann beispielsweise vorübergehend eine zerstörte Verbundenheit wiederherstellen und Handeln ermöglichen, um sich später in einen Mechanismus dauerhaften Initiativeentzugs zu verwandeln. Die Verteilung von Entscheidungen kann Beteiligung erweitern oder das System ohne Verantwortlichen für das Ganze lassen. Die Form selbst bestimmt den Vektor nicht. [III, Abschnitt IX; §§125–128.]
+Ein Vektorprofil beschreibt den Träger, die Ebene und Richtung der Veränderung, die Verteilung von Befugnissen, die Dynamik, die Entsprechung zur erklärten Funktion und die Zahlungsfähigkeit. Die Analyse berücksichtigt Zeit und Maßstab. Zentralisierung kann beispielsweise vorübergehend die Handlungsfähigkeit wiederherstellen und danach den Entzug von Initiative verfestigen. Der Schluss muss sich auf eine bestimmte Konfiguration von Beteiligten, Zeit und Ebene beziehen. Andernfalls entsteht aus Daten zu unterschiedlichen Zuständen ein scheinbarer Kausalzusammenhang. [3, разд. IX–X]
 
 ### Entsprechungsmodi
 
-Der authentische Modus bedeutet, dass die Praxis die erklärte Funktion tatsächlich erfüllt. Der projektive Modus bedeutet, dass sie auf ein noch nicht erreichtes Ergebnis ausgerichtet ist; die Erklärung einer Zukunft wird nicht als bereits bestehende Wirklichkeit ausgegeben. Der kompensatorische Modus erhält die Möglichkeit, unter einem Defizit zu existieren, ohne dieses vollständig zu beseitigen. Der simulative Modus reproduziert Merkmale der Funktionserfüllung ohne entsprechendes Ergebnis. Der inversive Modus erzeugt eine Wirkung, die der erklärten Bestimmung entgegengesetzt ist.
+CDJ unterscheidet fünf Modi im Verhältnis zwischen erklärter und hervorgebrachter Funktion. Im authentischen Modus wird die Funktion im Wesentlichen erfüllt. Im projektiven Modus entsteht eine neue Architektur von Möglichkeiten. Im kompensatorischen Modus kann eine Fähigkeit den Mangel einer anderen ausgleichen oder verdecken. Im simulativen Modus bleiben die Kennzeichen der Funktion ohne den entsprechenden Gehalt bestehen. Im inversiven Modus entsteht die gegenteilige Wirkung. [3, §105]
 
-Diese Unterscheidungen verlangen Kontext. Zeitweilige Kompensation kann notwendig und offen eingestanden sein. Gefährlich wird sie, wenn sie Korrektur ersetzt und als Problemlösung ausgegeben wird. Ebenso wenig ist jedes Scheitern eine Simulation: Zu prüfen sind ein gewöhnlicher Fehler, Ressourcenmangel und die Unabgeschlossenheit des Projekts.
+Kompensation ist nicht unbedingt schädlich: Eine zeitweilige Ausnahmemobilisierung kann die Arbeit eines schwachen Instituts unterstützen. Es geht um den Preis, die Dauer und die Folgen. Auch sollte die Umkehrung nicht als Beschuldigungszeichen dienen: Es muss gezeigt werden, welche Verbindungen das Gegenteil erzeugen.
 
-Eine Bildungspraxis, die selbstständiges Denken entwickelt, erfüllt ihre Funktion authentisch. Eine Praxis, die die notwendigen Bedingungen erst schafft und ihre Grenzen offenlegt, kann projektiv sein. Ein System, das Unabhängigkeit zum Ziel erklärt, eigenständige Fragen jedoch beständig bestraft, gibt Anlass zur Prüfung eines inversiven Modus. Dies sind erläuternde Beispiele, keine fertigen Diagnosen konkreter Institutionen.
+### Überprüfung und Aussetzung der Schlussfolgerung
 
-### Die Abfolge der Untersuchung
+Die Unvereinbarkeitsinformationen deuten auf eine Mangel an Karte, Modell oder Bedingungen hin. Das Signal braucht eine weitere Interpretation: Ein ungewöhnliches Ergebnis kann mehrere Gründe haben. Die Analyse sollte eine alternative Rekonstruktion prüfen und angeben, welcher Beweis die Schlussfolgerung ändern würde. [3, разд. II и X]
 
-Zunächst wird die Anwendbarkeit geprüft: Ist der Begriffsapparat von CDJ hier überhaupt erforderlich? Zur Feststellung eines Datums oder zur Messung einer physikalischen Größe ist er meist überflüssig. Anschließend wird der Gegenstand eingegrenzt: Zeitraum, Beteiligte, Funktion und Maßstab. Einzelne Episoden dürfen nicht ohne Beleg zu einer einheitlichen Entität namens „Volk“ oder „Kirche“ verbunden werden.
+Das fail-closed Prinzip verbietet, die Begründung oder das Verwenden eines Szenarios so fortzusetzen, als wären die notwendigen Bedingungen erhalten geblieben, wenn dies nicht nach dem Auftreten einer relevanten Ungleichheit angezeigt wird. Es bedeutet nicht, dass jede Tätigkeit automatisch verboten wird. Seine Funktion  erlaubt es nicht, einen unbewiesenen Übergang unbemerkt als festgelegte zu geben.
 
-Dann werden die vorausgehende Wirklichkeit, die Karte der Beteiligten, die verfügbaren Operationen und die tatsächliche Verteilung der Befugnisse rekonstruiert. Worte, Wahrnehmung des Möglichen und Handeln werden verglichen. Topographie und Topologie werden erstellt; bei ausreichender Datenlage wird das Szenariobuch rekonstruiert.
+Die Untersuchung kann mit Unsicherheit abgeschlossen werden. Das Fehlen ausreichender Beweise ist nicht das gleiche wie der Nachweis des Fehlens eines Phänomens. Die analytische Trazierbarkeit erfordert, den Weg vom Material zur Schlussfolgerung zu halten, und die interanalytische Prüfung  die Rekonstruktionen verschiedener Forscher miteinander zu vergleichen. [3, разд. X–XII]
 
-Danach wird die Vereinbarkeit der Kontexte geprüft. Beziehen sich die Informationen auf denselben Gegenstand, dieselbe Zeit, Ebene, Subjektposition und denselben Maßstab? Zwei wahre Prämissen können keinen wahren gemeinsamen Schluss ergeben, wenn sie unterschiedliche Konfigurationen betreffen. Das Vorhandensein eines kompetenten Fachmanns beweist die Kompetenz einer Organisation erst dann, wenn der Weg seines Wissens zur Entscheidung gezeigt ist.
+## 9 Gestaltung und praktische Anwendung
 
-Erst dann werden Vektor, Entsprechungsmodus und Verteilung des Preises festgestellt. Verbindlich sind eine starke alternative Rekonstruktion und ein negativer Test: Welche Beobachtung würde dazu zwingen, das Ergebnis zu ändern? Ein anderer Forschender muss die Herkunft der Behauptung rekonstruieren und einen konkreten Übergang anfechten können. [III, §§109–135.]
+Der positive Horizont der CDJ ist in der christlichen Offenbarung festgelegt: Das Projekt will das menschliche Verständnis, das in Christus offenbart wurde, ausdrücken und praktisch verarbeiten. Eine bestimmte Organisationsentscheidung erhält dabei keinen Status als Evangeliumsvorordnung. Zwischen der theologischen Grundlage und dem Aufbau einer Institution ist eine unabhängige Analyse- und Projektionsarbeit erforderlich.
 
-### Was Sperrung bei fehlendem Nachweis bedeutet
+Die CDJ-Vorgaben sind die Übergangsweise von der Diagnose zur Planung. Wenn die Einschränkung festgestellt ist, können Sie den Austausch von Informationen, die Verteilung der Befugnisse, die Ausbildung der Teilnehmer und die Art und Weise ändern, wie Sie Konsequenzen aufnehmen. Aber ein Projekt muss aus konkreten Ressourcen und Verbindungen stammen, und sein Ergebnis ist überprüfbar. [3, разд. XI]
 
-Das Fail-closed-Prinzip verbietet, einen notwendigen Zusammenhang allein deshalb als festgestellt zu behandeln, weil er plausibel ist. Ein fehlender Nachweis der Verbindung beweist nicht ihr Fehlen. Ein zulässiges Ergebnis kann in Unbestimmtheit, konkurrierenden Erklärungen oder der Anerkennung der Unanwendbarkeit der Methode bestehen.
+Ein Beispiel: Die Organisation erklärt, dass die Mitarbeiter das Recht haben, Fehler zu melden. Die Nachrichten werden angenommen, aber der Führer bewertet sie als Untreue und das Verfahren zur Überprüfung von Entscheidungen fehlt. Es reicht nicht aus, nur noch eine Form von Feedback hinzuzufügen. Es ist notwendig, herauszufinden, wer die Mitteilung betrachtet, ob dieser Teilnehmer das Recht hat, seine Entscheidung zu ändern und welche Auswirkungen dies auf den Antragsteller hat.
 
-Diese Forderung gilt auch für CDJ selbst. Erhöhen seine Kategorien das Auflösungsvermögen der Untersuchung nicht, ist ihre Anwendung zu beenden. Die Stärke dieser Einstellung liegt in der Möglichkeit, die Methode von einer ansprechenden nachträglichen Interpretation zu trennen. Ihre tatsächliche Produktivität muss sich jedoch in Untersuchungen zeigen, in denen Alternativen das Ergebnis wirklich verändern können.
+Ein mögliches Projekt beinhaltet die Festlegung von Überprüfungsbefugnissen, den Schutz einer ehrlichen Nachricht, das Unterrichten über Faktenprüfung und eine klare Verteilung der Verantwortung. Sie überprüfen, ob die berechtigten Nachrichten das Handeln beeinflussen. Die Anzahl der ausgefüllten Formulare beweist nicht das Ergebnis. Das ist ein Beispiel für die Anwendung von CDJ-Unterschieden, nicht der Bericht über das Experiment.
 
-CDJ-Gestaltung beginnt nach der Diagnose. Sie verändert die Architektur des Möglichen: Informationskanäle, Initiativrechte, Bedingungen für Korrektur und Abbruch sowie die Verbindung der Entscheidung mit ihren Folgen. Der Appell „Seid verantwortlich“ genügt nicht, wenn die Systemstruktur Antwort systematisch unmöglich macht. [III, §§130–140.]
+In der ursprünglichen philosophischen Auslegung wird die Frage, wer ich bin, durch das Überprüfen dessen herausgestellt, wer man sich selbst behauptet. Es wird eine bestimmte Anspruchsfrage überprüft: zum Beispiel, ob er wirklich der Urheber einer Entscheidung ist oder sich nur das fertige Ergebnis zuschreibt. Es geht um die Kriterien der Prüfung selbst. Sie können nicht nur durch ein Verfahren beseitigt werden: Das Verfahren beinhaltet auch Gründe, die zur Prüfung zugänglich sein müssen. [1, «К онтологии Логоса»]
 
-## 17 Philosophische Prüfung der zentralen Argumente
+In der persönlichen Praxis kann man mit einem bestimmten Episode beginnen: was passiert ist; was möglich erklärt wurde; welche Voraussetzung andere Antworten ausschließt; welche Mittel tatsächlich vorhanden waren; was getan wurde. Dann wird ein bestimmtes Urteil überprüft, zum Beispiel: "Ich konnte nicht ablehnen". Die Möglichkeit der Ablehnung zu entdecken, beweist noch nicht, dass die Ablehnung richtig oder sicher wäre. Es ermöglicht uns, die Gründe für unsere eigenen Entscheidungen genauer zu betrachten.
 
-### Was die Unterscheidung zwischen Karte und Realität beweist
+Die Gestaltung von Freiheitsbedingungen hat Grenzen: Man kann Erfahrungen vermitteln, Informationen zugänglich machen und eine Art der Widerspruchsweise schaffen, aber man kann nicht garantieren, dass andere Menschen sie in gewisser Weise nutzen. Andernfalls wird die Bildung der Subjektsein in eine vorhergesteuerte Ergebnisführung verwandelt.
 
-Das Argument des Realismus lässt sich so rekonstruieren: Irrtum ist nur sinnvoll, wenn zwischen einer Vorstellung und dem, wovon sie eine Vorstellung ist, unterschieden wird. Die Möglichkeit der Korrektur setzt Grenzen voraus, die nicht willkürlich von der gegenwärtigen Karte festgelegt werden. Deshalb kann Wirklichkeit nicht restlos mit ihrer vorhandenen Beschreibung gleichgesetzt werden.
+## 10 Die Kirche und die Aktualisierung der Tradition
 
-Dieses Argument stützt einen minimalen Realismus und die Forderung nach Korrektur. Für sich genommen beweist es jedoch noch nicht, dass die Realität insgesamt einen persönlichen Grund oder einen einzigen endgültigen Sinn besitzt. Der Übergang von einer unabhängigen Begrenzung zum Logos erfordert zusätzliche Prämissen.
+Die Definition der Kirche als Infrastruktur für die Bildung einer persönlichen Eschatologie stellt die Frage, wie das kirchliche Leben einem Menschen hilft, sich selbst zu Gott zu stellen. Infrastruktur umfasst die Erhaltung von Erfahrungen, Gottesdienst, Geheimnisse, Bildung, Kommunikation und Verantwortung. Funktionsbezogene Prüfung erfolgt im theologischen Verständnis der Kirche und erschließt ihre Geheimnisse nicht. [1, «Функционал Церкви»; 3, разд. XIII]
 
-Ein wesentlicher Einwand besteht nicht in der Verneinung jeder Wirklichkeit. Er lautet: Warum kann die Anerkennung fehlbarer Karten nicht mit begrenzten, revidierbaren Kriterien ohne einen einzigen maximalen Grund vereinbar sein? Die Antwort von CDJ verweist auf den Regress der Kriterien und die Gefahr, etwas Partielles zu verabsolutieren. Um die Auseinandersetzung zu entscheiden, muss gezeigt werden, warum dieser Regress gerade einen persönlichen Grund erfordert und wie die menschliche Hinwendung zu ihm vermeidet, das eigene Gottesbild in eine weitere, vor Prüfung geschützte Karte zu verwandeln.
+In dieser Perspektive ist es wichtig, die Möglichkeit zu unterscheiden, ob eine Kirche vorhanden ist und wie sie im menschlichen Leben aktualisiert wird. Die Anzahl der Teilnehmer, die Disziplin oder die administrative Stabilität zeigen bestimmte Aspekte der Tätigkeit, aber sie selbst bestätigen weder die Vollständigkeit der christlichen Antwort noch das Wirken der Gnade.
 
-### Ist menschliche Autorschaft bewiesen?
+Der Unterschied zwischen Aktualisierung und Reform unterstreicht die Notwendigkeit, Tradition zu erlernen. Das Unverständnis der Verwendung von Praxis ist noch nicht die Grundlage für ihre Beseitigung. Die historische Erhaltung der Form befreit jedoch auch nicht von der Frage, wie sie jetzt funktioniert. Die Aufgabe des Gläubigen ist es, die vermittelte Erfahrung zu erkennen und sich selbst an ihr beteiligen zu lassen; die Infrastruktur hilft, aber nicht für sie. [4]
 
-Die Unterscheidung zwischen empfangenem Dasein und Autorschaft der Antwort beseitigt eine falsche Alternative: Entweder erschafft der Mensch sich selbst, oder er handelt überhaupt nicht. Dies ist ein starkes begriffliches Ergebnis. Eine Antwort kann die eigene sein, ohne absoluter Urgrund zu sein.
+Die Hirtenverantwortung bezieht sich darauf, welche Möglichkeiten eine geistige Führung für die eigene Antwort schafft. Ein anderer kann helfen zu sehen, zu lehren, zu korrigieren und zu warnen, aber er kann nicht statt dessen eine Antwort vor Gott empfangen. Gehorsam kann zur Bildung der Subjektsein beitragen; sein Ergebnis wird dadurch bewertet, ob man besser fähig ist, Verantwortung zu erkennen, zu antworten und zu übernehmen. [3, §§163–166]
 
-Ein Vertreter eines lückenlosen Determinismus wird jedoch fragen, warum der Vorgang der Verantwortungsübernahme nicht selbst ein Ergebnis vorausgehender Ursachen ist. Die Beschreibung des Subjekts als Urheber löst die metaphysische Kausalitätsfrage noch nicht. Ebenso muss zwischen der Abhängigkeit von Ursachen und der Reduktion des Handlungssinns auf diese Ursachen unterschieden werden: Die Erklärung der Herkunft einer Überzeugung ist nicht gleichbedeutend mit der Beurteilung ihrer Wahrheit.
+Im Korpus selbst werden zwei Möglichkeiten unterschieden: die vorübergehende Entscheidung des kompetenteren Anderen zum Zwecke der Ausbildung und die dauerhafte Übertragung seiner Rechte an eigener Erkenntnis, Wahl und Verantwortung. In dem ersten Fall hilft die Kompetenzasymmetrie der Entwicklung; im zweiten  festigt die Subjektsein. Es geht also nicht nur um das Verhalten des Lehrers, sondern auch um die wirkliche Funktion der geistigen Führung. [3, §§165–166]
 
-CDJ bietet eine Sprache, in der sich menschliche Antwort untersuchen lässt, ohne sie aus der Beschreibung zu tilgen. Der theologische Teil schlägt ihren Grund in Gottebenbildlichkeit und Gnade vor. Eine erschöpfende Theorie der Vereinbarkeit menschlicher Kausalität, natürlicher Bedingungen und göttlichen Handelns bleibt jedoch offen. Der Autor selbst erkennt diese Grenze im Beitrag zur Pneumatologie an.
+In der Kirchenkommunikation erhält man Zugang zu Glaubenserfahrungen durch Gottesdienst, Kommunikation und Praxis. Ihre Infrastrukturfunktion besteht darin, die Teilnahme und eigene Antwort nachhaltig möglich zu machen. Nachlässigkeit bedeutet, die vermittelte Erfahrung in den veränderten Bedingungen zu erlernen. Das Kriterium der geistigen Führung ist die Fähigkeit des Menschen, Verantwortung zu erkennen, zu antworten und zu übernehmen, die ihm hilft, sie zu entwickeln. [1, «Церковь как инфраструктура формирования персональной эсхатологии»; 3, §§164–166; 4]
 
-### Erfordert Gemeinschaft einen einzigen persönlichen Grund?
+## 11 Pneumatologie und die Grenzen des anthropologischen Modells
 
-Das Argument des I. Bandes verbindet das Fehlen eines gemeinsamen Grundes mit gegenseitiger Kolonisierung: Macht sich jeder Beteiligte zum letzten Maß, wird der andere zum Mittel. In der christlichen Lösung begrenzt die Gemeinsamkeit des Grundes die Ansprüche jedes Einzelnen und eröffnet gemeinsame Teilhabe.
+Der Artikel "In der Suche nach Pneumathologie" untersucht, wie die Antwortarchitektur im Hinblick auf das einheitliche Handeln der Dreifaltigkeit verstanden werden kann. Ihre Frage bezieht sich auf die spezielle Konzeption der Pneumatologie. Es bedeutet nicht, dass Gnade in den ursprünglichen Grundsätzen des CDJ fehlte: Ihr Status ist bereits im Interpretationsbedingung des ersten Bands angegeben. [1; 3, «В поисках пневматологии», §§1–4, 18]
 
-Der bedingte Teil des Arguments überzeugt: Eignet sich ein Beteiligter das letzte Recht an, den anderen zu bestimmen, wird gegenseitige Anerkennung untergraben. Der stärkere Teil – jede Beziehung ohne ausdrücklich angenommenen transzendenten Grund werde unvermeidlich zur Kolonisierung – bedarf eines zusätzlichen Nachweises. Zu untersuchen sind die Möglichkeit gegenseitiger Begrenzung, korrigierbarer Normen und der Anerkennung des anderen ohne abgeschlossenen metaphysischen Konsens.
+Es werden formelle Übereinstimmungen vorgeschlagen: Subjektsein ist mit dem öthologischen Aspekt des Beginns und der Urheberkunft, OS  mit dem Sohnes, Logos-Aspekt der Unterscheidung und Operation, DIP  teilweise mit dem pneumatologischen Aspekt der Präsenz verbunden. Diese Übereinstimmungen unterscheiden den Menschen nicht zwischen drei unabhängigen göttlichen Ursachen. Die einheitliche Wirkung der Dreifaltigkeit ist nicht in isolierte Funktionen unterteilt. [3, «В поисках пневматологии», §§5–10]
 
-Zudem garantiert das gemeinsame Bekenntnis zu einem gemeinsamen Grund keinen Verzicht auf Herrschaft. Das spätere CDJ liefert selbst eine Antwort auf diesen Einwand: Die wirkende Architektur muss geprüft werden; eine Erklärung genügt nicht. So präzisiert die Methodologie die gesellschaftliche Anwendung der frühen metaphysischen These.
+Die Pneumatologie ist eine Art von Architektur, die sich durch Offenheit, Wahrheitsanschauung, Heilung und Möglichkeit einer tatsächlichen Korrektur erstreckt. Die Intensität der Präsenz selbst ist kein Zeichen für die Wahrheit: Angst oder ein falsches Bild können auch das volle Aufmerksamkeitsgefühl einer Person beeinflussen.
 
-### Die Einzigkeit der christlichen Antwort
+Gnade wird nicht in die Architektur eingeführt, als späte Ergänzung zwischen Realität und Mensch. § 14 behauptet, dass Gott die Fähigkeit zu handeln gibt und heilt, aber nicht den Inhalt einer bestimmten Antwort für einen Menschen bestimmt. Die Fähigkeit, die man erworben hat, entfernt weder das Realität des menschlichen Autorschafts noch die Verantwortung für falsche oder zerstörerische Handlungen. [3, «В поисках пневматологии», §14]
 
-Philosophische Analyse kann die Grenze der Selbstbegründung zeigen, nach dem Ursprung der Normativität fragen und die Bedingungen der Bewahrung der Person untersuchen. Das christliche Bekenntnis beantwortet diese Fragen durch die Trinität und das Christusereignis. Das Vorliegen einer zusammenhängenden christlichen Antwort beweist aber nicht automatisch die Unmöglichkeit aller Alternativen.
+Die Methodik ist in dem Artikel selbst festgelegt: Nach Kompetenz kann man die Wirkung des Heiligen Geistes nicht diagnostizieren, aber auf menschliche Initiative  ihre göttliche Herkunft bestätigen. Die trinitäre Analogie bleibt eine menschliche Konzeption und muss auf die Übereinstimmung mit ihren eigenen theologischen Gründen überprüft werden. Die Überprüfung des Modells bedeutet nicht, dass Gott durch dieses Modell überprüft wird. [3, «В поисках пневматологии», §§17–19]
 
-Um Einzigkeit zu beweisen, müssen die Kriterien ausdrücklich angegeben, die stärksten Alternativen rekonstruiert und der notwendige Punkt gezeigt werden, an dem jede von ihnen unüberwindlich scheitert. Der I. Band behauptet die Verengung des Kreises der Adressaten auf einen einzigen; eine Abfolge von Behauptungen ersetzt jedoch kein vollständiges vergleichendes Argument.
+Die Trinitärkonformität wird im Licht der bereits angenommenen christlichen Behauptung gelesen. Ihre Erklärungskraft hängt davon ab, wie genau sie die Einheit des göttlichen Handelns und den Unterschied zwischen menschlicher Architektur und ihrer theologischen Grundlage berücksichtigen. [3, «В поисках пневматологии», §§5–10, 17–19]
 
-Daraus folgt nicht, dass Philosophie überhaupt nicht zur Begründung der christlichen Antwort beitragen kann oder dass die Wahl willkürlich wäre. Der genaue Schluss ist enger: In den untersuchten Übergängen sind philosophische Argumente, existenzielle Annahme und der Inhalt der Offenbarung zu unterscheiden. Sie vorab für unverbunden zu erklären wäre ebenso ungenau, wie sie für wechselseitig ableitbar zu erklären.
+## 12 Kritische Analyse
 
-## 18 Theologische Grenzen und Entwicklung der Begriffe
+### Was das Projekt zusammenhält
 
-### Wie Unterschiede zwischen den Bänden zu lesen sind
+Die CDJ verbindet die Erforschung der Gründe für Existenz, menschliches Autorschaft und der sozialen Bedingungen der Antwort. Dadurch erhält die Frage der persönlichen Freiheit eine institutionelle Dimension, und die Analyse der Institution  einen anthropologischen und theologischen Horizont. Die praktische Funktion von Unterschieden besteht darin, den Weg vom Verständnis der Situation zu Handlungen und Folgen zu verfolgen.
 
-CDJ ist ein sich entwickelndes Korpus. Im I. Band bedeutet Subjekthaftigkeit häufig eine wahre Position, und ontisches Handeln wird ontologischem scharf gegenübergestellt. Im II. Band werden die notwendige ontische Subjekthaftigkeit eingeführt und die Stärke eines geschichtlichen Projekts von der Qualität seines Grundes unterschieden. Der III. Band verbietet ausdrücklich, aus der bloßen Fähigkeit anzufangen auf sittliche Wahrheit zu schließen.
+Der Übergang zum Analyseverfahren ermöglicht es, nicht nur die Einigung mit der philosophischen Position zu diskutieren, sondern auch die Qualität einer konkreten Rekonstruktion. Es ist möglich, zu prüfen, ob die Schlussfolgerung mit den vorgelegten Materialien übereinstimmt, ob Alternativen angesehen wurden und wie ein vorgeschlagener Projekt die untersuchte Praxis ändern sollte. Die Vorhandensein eines solchen Verfahrens beweist jedoch noch nicht, dass es über die anderen Methoden hinausgeht.
 
-Diese Unterschiede dürfen in der Darstellung nicht einfach getilgt werden. Eine vermittelnde Rekonstruktion ist möglich: Der frühe Text beschreibt die letzte Norm der Subjekthaftigkeit, die späteren ihre analytisch unterscheidbaren Fähigkeiten und Formen. Dies ist jedoch eine Interpretation und muss als solche gekennzeichnet werden. Sie beseitigt nicht die wörtliche Spannung zwischen den Formeln.
+### Autonomie und nicht souveräne Autorschaft
 
-Ähnlich bezeichnet Autonomie einmal die praktische Fähigkeit, eine eigene Position aufrechtzuerhalten, ein anderes Mal den Anspruch, Ursprung des eigenen Seins zu sein. Das Erste ist für die Antwort notwendig; das Zweite wird kritisiert. Werden beide Bedeutungen ohne Übergang mit demselben Wort bezeichnet, erscheint die Überlegung als Forderung, ein und dasselbe zugleich aufzubauen und aufzuheben. Eine verständliche Analyse muss den Gegenstand der Aussage fortwährend präzisieren.
+Die erste Inhaltsfrage betrifft die Beziehung der radikalen Autonomieanforderung im ersten Band zur Genese des erworbenen Autorschafts im zweiten. Der Unterschied zwischen Selbstständigkeit und Selbstsuffisierenheit erklärt vieles, aber es bleibt nötig, den Status der Anforderung eines tatsächlichen Versuchs vollständiger Selbstbegründung genau zu bestimmen. Ist das eine universelle Bedingung, ein begrenztes Gedankengut und existentielles Erlebnis oder nur einer der Möglichkeiten?
 
-### Ontisches, Entropie und Stabilität
+Die Antwort wirkt auf die Praxis aus. Wenn ein universeller Weg beschrieben ist, muss man ihm die Notwendigkeit zeigen. Wenn es ein Grenzmodell ist, dann ist es wichtig zu verstehen, wie das hilft, Menschen zu verstehen, die sich nicht in einer Form dieser Krise befinden. Die Überprüfung darf weder die Anforderung im Text leugnen noch selbstständig erklären, dass das Problem gelöst ist.
 
-Der vollständige russische I. Band enthält tatsächlich die Formel, ontisches Handeln reproduziere Entropie. Sie darf nicht ausschließlich einem Fehler des Rezensenten zugeschrieben werden. Zugleich bieten die Bände II–III Mittel, ihre Anwendung zu begrenzen: Ontische Verkörperung ist notwendig, Institutionen können Gedächtnis und Korrektur bewahren, und Stabilisierung ist nicht mit Erstarrung identisch.
+### Normativer und analytischer Gebrauch des Subjektseins
 
-Das Wort „Entropie“ bezeichnet in der sozialphilosophischen Analyse den Verlust von Verbindung, Sinn, ursprünglicher Bestimmung und Erneuerungsfähigkeit. Ohne gesonderte Definition messbarer Größen ist dies kein physikalischer Beweis für die unvermeidliche Degradation aller menschlichen Systeme. Ein thermodynamischer Wortschatz kann allein keine moralische oder historische Bewertung begründen.
+In dem ersten Band ist Subjektsein eng mit der Loyalität von Realität und Logos verbunden. Die Methodik-Abschnitte untersuchen auch reale Gründe, die falsch oder zerstörerisch sein können. Man muss zwischen der Wirklichkeit des Autors und der Qualität seiner Orientierung unterscheiden. Andernfalls entsteht ein Kreis: Eine unangenehme Wirkung wird nur als nicht-subjektiver erklärt, weil sie nicht der Norm des Forschers entspricht.
 
-Die starke These von CDJ lautet, dass eine erfolgreiche Form beginnen kann, sich selbst statt ihrer Bestimmung zu reproduzieren. Daraus folgt nicht, dass jede Wiederholung schädlich wäre. Fürsorge, Bildung, liturgischer Rhythmus und ein verlässliches Verfahren können gerade durch ihre Beständigkeit Subjekthaftigkeit stützen. Das Problem beginnt, wenn Prüfung und Erneuerung ausgeschlossen werden.
+Dieser Unterschied ist besonders wichtig, wenn man nicht christliche Institutionen analysiert. Die christliche Grundlage der Methode bestimmt ihren Grenzhorizont, aber die konkreten Kompetenzen und tatsächlichen Möglichkeiten eines anderen Subjekts müssen beschrieben werden, ohne dass sie aufgrund von Konfessionsunterschieden vorher gelöscht werden.
 
-### Grenzen naturwissenschaftlicher und kultureller Veranschaulichungen
+### Ontische Reproduktion und neuer Anfang
 
-Im I. Band findet sich eine Tabelle der Informationsfilterung mit dem Endkoeffizienten 10⁻¹⁷. Ihr philosophisches Motiv ist verständlich: Die menschliche Karte ist selektiv. Eine quantitative Aussage über den Anteil an der gesamten objektiven Realität erfordert jedoch einen bestimmten Nenner, Maßeinheiten und miteinander vereinbare Berechnungsbedingungen auf jeder Stufe. Die bloße Multiplikation verschiedenartiger Schätzungen gewährleistet dies nicht. Die Zahl sollte daher weder als nachgewiesenes Maß menschlicher Begrenztheit noch als wissenschaftliche Bestätigung der Lehre vom Fall verwendet werden.
+Eine radikale Beschreibung von Ontik als Verzerrungsprozess erfordert eine Einigung mit der Notwendigkeit nachhaltiger Fähigkeiten und Institutionen. Wiederholung kann eine Lüge behalten oder die Bedingungen für verantwortungsvolle Handlungen erhalten. Es ist hilfreich, genau zu wissen, was wiederholt wird und ob die Möglichkeit der Überprüfung erhalten bleibt. Es ist eine wesentliche Aufgabe, den Körper zu harmonisieren und nicht nur stilistische Lockerung.
 
-Ähnliche Vorsicht ist gegenüber kulturellen Verallgemeinerungen in „Die Sprache Gottes“ erforderlich, einschließlich der kategorischen Behauptung, Depression sei im Milieu der Bergvölker unmöglich. Die Beobachtung einer bestimmten Weise, Tragödien zu erleben, belegt weder das Fehlen eines Zustands in einer gesamten Population noch dessen ausschließlich kulturellen Ursprung. Eine verständliche Darstellung kann die philosophische Frage nach der Fähigkeit bewahren, auf Unheil zu antworten, ohne die Verallgemeinerung des Autors zu einer feststehenden Tatsache zu machen.
+### Philosophische Argumentation und christliches Bekenntnis
 
-Diese Einwände widerlegen die Architektur von CDJ nicht. Sie trennen ihre Argumente von Veranschaulichungen, die einer eigenständigen Prüfung bedürfen. Gerade das eigene Prinzip des Projekts – keinen unbewiesenen Übergang zuzulassen – macht diese Abgrenzung notwendig.
+Die Anerkennung einer unabhängigen Realität, der Unmöglichkeit selbstbegründeter und der Notwendigkeit von Verantwortung sollten nicht mit dem Beweis für alle Bestimmungen christlicher Theologie verwechselt werden. Das Projekt verbindet philosophische Argumentation, Erfahrung und Bewegung. Für jeden Übergang ist eine eigene Vorbedingung erforderlich.
 
-### Kenosis und Schutz der Person
+Besonders wichtig ist die Frage, ob die christliche Antwort einzigartig ist. Es ist zu ermitteln, welche Alternativen berücksichtigt wurden, nach welchen Kriterien sie ausgeschlossen werden und ob die Kriterien selbst nicht den bereits angenommenen Schlussfolgerung entsprechen. Es ist nicht die Forderung, ein Beweis abzulehnen; es ist die Forderung, den Inhalt und die Beweiskraft eines bestimmten Arguments zu unterscheiden.
 
-Die theologische Forderung nach Selbsthingabe lässt sich leicht verzerren, wenn sie zur Rechtfertigung fremder Macht eingesetzt wird. Deshalb genügt es nicht zu sagen, eine echte Umadressierung bewahre die Person: Es muss gezeigt werden, wie sich dies in kirchlicher Praxis unterscheiden lässt. Das Recht, eine Diskrepanz anzuzeigen, die Kompetenzgrenzen des Leiters und die Verbindung von Entscheidung und Verantwortung werden zu Prüfsteinen der erklärten Bestimmung, nicht zu bloßen äußeren Zugeständnissen.
+### Veranschaulichungen und Überprüfbarkeit
 
-Zugleich darf das Leben aus der Gnade nicht auf einen Satz beobachtbarer Führungskennzahlen reduziert werden. Ein Mensch kann unter Schwäche, Krankheit und ohne öffentliches Ergebnis zutiefst treu bleiben. Die funktionale Prüfung betrifft die geschichtliche Architektur und ihre zugänglichen Früchte; sie wird nicht zum Messinstrument für Heiligkeit.
+Naturwissenschaftliche Vergleiche, Zahl illustriert und kulturelle Zusammenfassungen des ersten Bands sollten getrennt von philosophischen Unterschieden bewertet werden. Eine Analogie mit der Entropie oder einer tropischen Kette überträgt nicht automatisch die physische oder biologische Lohnmäßigkeit auf das menschliche Dasein. Ohne ein spezielles Modell wird die Zahl nicht zum Maß für Freiheit.
 
-### Prüfung der trinitarischen Analogie
+Die Herkunft der Intuition aus persönlicher oder historischer Erfahrung kann die Frage erklären, aber nicht die Allgemeinheit der Antwort bestätigen. Die Kommentar der Autorin zur Formierung des Begriffs von ontologischer Spannung im Jahr 1993 ist tatsächlich in dem ersten Band vorhanden. Sie ist der Beweis des Autors für die Entstehung eines Begriffs; die Schlussfolgerungen über seine Anwendung in anderen Umständen erfordern eine eigenständige Arbeit. [1, «Опыт прикладной метафизики субъекта», гл. 2, авторская ремарка]
 
-Der Beitrag zur Pneumatologie schlägt einen eigenen negativen Test vor: Die Entsprechung darf nicht allein auf sprachlicher Ähnlichkeit beruhen; die Vertauschung der Elemente muss die Erklärungskraft verringern; die Ausgangsdefinitionen dürfen nicht zugunsten des Schemas verändert werden; die Personen der Trinität dürfen nicht in Funktionen verwandelt werden.
+Für die Methodik ist es produktiv, einen begrenzten Fall von mehreren Forschern mit dem gleichen Datensatz zu überprüfen. Die Unterschiede zeigen, welche Kategorien nachhaltig angewendet werden und welche weiter verarbeitet werden müssen. Eine Vergleiche mit einer einfachen Erklärung lässt feststellen, was genau die Analyse der Subjektarchitektur hinzufügt. Die Überprüfung des Projekts erfordert, dass die erwarteten Änderungen und die Gründe für eine Entscheidung zu überprüfen sind.
 
-Dies sind ernsthafte Begrenzungen, doch die innere Stimmigkeit der Analogie beweist noch nicht ihre Ausschließlichkeit. Zu klären ist, was sie über die ursprüngliche anthropologische Beschreibung hinaus erklärt und warum eine alternative theologische Zuordnung weniger erklären würde. Die bewusste Asymmetrie von DIS, OS und Subjekthaftigkeit macht die Konstruktion gehaltvoller als eine bloße Gegenüberstellung von Dreiergruppen. Die abschließende Bewertung erfordert eine eigene theologische Diskussion.
+Die komplette Synergie-Theorie bleibt eine einzelne Aufgabe, wie in einem Artikel über Pneumatologie anerkannt. Aber ihr Fehlen kann nicht in eine Behauptung über das Fehlen von Gnade in der CDJ verwandelt werden. Es ist notwendig, einen konkreten Übergang anzugeben, für den die Unterscheidung zwischen dem Gaben der Fähigkeit und dem eigenen Akt nicht ausreicht. [3, «В поисках пневматологии», §14]
 
-## 19 Bedeutung des Projekts und Prüfprogramm
+### Mögliche Vergleiche
 
-### Worin der eigenständige Beitrag besteht
+Der Vergleich mit der Phänomenologie kann sich auf die Methoden der Ermittlung und Unterscheidung beziehen; mit den Philosophien des Dialogs  Beziehung zu dem Anderen; mit kritischen Theorien  Reproduktion von Abhängigkeit; mit der christlichen Theologie  Gnade, Freiheit und Eschatologie. Bis zur einzelnen Untersuchung der Texte sollten diese Bereiche als Vergleichsfragen betrachtet werden. Sie legen keine direkte Darlehen, historische Priorität oder Vorrang von CDJ über die genannten Traditionen fest.
 
-CDJ verbindet eine Anthropologie der Antwort, christliche Eschatologie und die Analyse wirkender Institutionen. Sein Gehalt bestimmt sich durch diese Verbindung, nicht durch die Zahl neuer Begriffe. Begriffe werden nützlich, wenn sie einen konkreten Bruch sichtbar machen: Wissen erreicht die Entscheidung nicht, Initiative wird vom Preis getrennt, kirchliche Leitung reproduziert Abhängigkeit, geschichtlicher Erfolg wird für endgültige Wahrheit gehalten.
+## 13 Kurzes Glossar
 
-Besonders produktiv sind die Unterscheidungen zwischen Empfangensein und Autorschaft, Karte und Realität, Kompetenz und Projektualität, erklärter und hervorgebrachter Wirkung, Kreditwürdigkeit und Zahlungsfähigkeit. Sie ermöglichen präzisere Auseinandersetzungen und machen einen Teil der Behauptungen überprüfbar.
+Wirklichkeit. Das, was nicht ausführlich mit menschlicher Beschreibung und die Fähigkeit zu erkennen ist, seine Unvereinbarkeit. In der theologischen Perspektive hat das Dasein des Menschen einen gegebenen Grund.
 
-Theologisch bedeutsam ist der Übergang von der allgemeinen Behauptung menschlicher Würde zur Frage nach einer eigenen, unersetzlichen und eschatologisch offenen Fähigkeit zur Antwort. Christus wird hier nicht einer fertigen Philosophie als religiöser Schmuck hinzugefügt: Menschwerdung, Kreuz und Auferstehung bestimmen den letzten Gehalt dessen, wozu der Mensch berufen ist. Zugleich kann die Methodologie einzelne menschliche Architekturen untersuchen, ohne dass der Forschende zuvor die gesamte Theologie annehmen muss.
+Eine Karte. Die Art und Weise, wie man Erfahrungen darstellt und organisiert, mit der sich ein Subjekt in Wirklichkeit orientiert. Nicht identisch mit der Realität.
 
-### Wie CDJ mit anderen Philosophien verglichen werden kann
+Wirkende Onthologie. Die tatsächliche Architektur dessen, was dem Subjekt als existent, signifikant, verursacht und beantworten muss.
 
-Ein Vergleich beginnt sinnvollerweise mit Fragen: Wie verhalten sich Gegebenheit und Freiheit zueinander? Wie wird der andere zugänglich, ohne auf ein Objekt reduziert zu werden? Was macht eine Norm verbindlich? Wie handeln verteilte Kollektive? So lassen sich wirkliche Gesprächspunkte mit Phänomenologie, Dialogphilosophie, Handlungstheorien und Sozialontologie bestimmen.
+Metaphysische Voraussetzungen. Gründe, anhand derer eine bestimmte Beschreibung der Welt für wahr gehalten und Handlungen bestimmt wird.
 
-Die Übereinstimmung von Wörtern wie „Sein“, „Entscheidung“ oder „Dialog“ beweist jedoch weder die Herkunft eines Arguments noch die Überlegenheit eines Systems über ein anderes. Wer behauptet, CDJ überwinde eine Grenze Heideggers, Bubers, Barths oder einer anderen Tradition, muss die jeweiligen Texte symmetrisch rekonstruieren. Solche Vergleiche sind hier das Programm einer gesonderten Untersuchung, kein fertiges Ergebnis.
+Vorreflexiver Akziomatik. Die vier grundlegenden praktischen Einrichtungen der Subjektsposition sind die Hermenevtik des Beginns, die Hermenevtik der Verantwortung, der methodologische Monotheismus und die ontologische Verifizierbarkeit. Sie handeln vor ihrer weit entwickelten theoretischen Auslegung. [2, «Генезис субъектности», §5]
 
-Dasselbe gilt für die Biografie. Eine Bemerkung des Autors verbindet das Aufkommen des Begriffs „ontologische Spannung“ mit der Erfahrung von 1993. Dies ist ein wichtiges Zeugnis für die Entstehung der Einsicht, aber weder ein Universalitätsbeweis noch ein Hindernis für Universalität. Diese wird daran geprüft, ob das Argument die Übertragung in andere Situationen trägt, einschließlich Alltag, Fürsorge, Bildung und langsamer institutioneller Entwicklung.
+Subjektsein. Die Fähigkeit zu einem eigenen Anfang und einer eigenen Antwort im empfangenen Dasein. Die Analyse unterscheidet die Wirklichkeit der Autorschaft, ihre Befugnisse und die Qualität ihrer Ausrichtung.
 
-### Welche Untersuchungen die Methode tatsächlich prüfen würden
+Der Derivat. Die Produktivität. Es ist notwendig, den Kontext zu klären: Ein Erhalt des Daseins entspricht nicht dem Fehlen eines eigenen Autorschafts.
 
-Ein erster Test wäre die unabhängige Analyse eines begrenzten Falls durch mehrere Forschende. Sie sollten vorab Datenkorpus, Zeitraum und Funktion festlegen und anschließend ihre Rekonstruktionen von Karte, Operationen, Befugnissen und Vektor vergleichen. Wichtig ist nicht nur der Grad der Übereinstimmung, sondern die Möglichkeit, den Grund einer Abweichung genau zu lokalisieren.
+Die Stiftung. Beginn der Subjekte-Position und Annahme der Verantwortung für die Gründe ihrer eigenen Existenz. Es bedeutet nicht, dass der Mensch sich selbst erschafft.
 
-Ein zweiter Test wäre der Vergleich mit einer einfacheren Erklärung. Lässt sich ein Versagen vollständig durch Ressourcenmangel erklären, muss CDJ zeigen, was die Analyse der Subjektarchitektur hinzufügt. Fügt sie nichts Wesentliches hinzu, ist die Verkomplizierung des Wortschatzes nicht gerechtfertigt.
+Die Dekolonialisierung der Persönlichkeit. Erkennen und überwinden, wie eine äußere Anlage ihre eigene Position ersetzt. Es verlangt nicht, dass man jede Tradition oder Hilfe aufgibt.
 
-Ein dritter Test wäre eine prospektive Untersuchung. Vor dem nächsten Ereignis müssen die erwarteten Merkmale einer Antwort und die Bedingungen formuliert werden, die zur Revision der Hypothese zwingen würden. Dies hilft, Erklärungskraft von der Fähigkeit zu unterscheiden, im Nachhinein jeden Ausgang zu beschreiben.
+Die ontologische Spannung. In dem ersten Band  die Spannung zwischen Existenz und Anspruch auf ihre Grundlage, die eine eigene Antwort erfordert. Es geht nicht um psychischen Stress.
 
-Ein vierter Test wäre die Anwendung auf kirchliche oder pädagogische Praxis mit einer tatsächlichen strukturellen Veränderung. Die Eröffnung eines Korrekturkanals sollte beispielsweise nicht am Vorhandensein eines Dokuments geprüft werden, sondern daran, ob Entscheidungen sich nach dem Eingang bedeutsamer Informationen ändern. Das geschichtliche Ergebnis darf dabei nicht als Messung des Handelns Gottes ausgegeben werden.
+Die Onthologische Haltestelle. Die Entdeckung einer Grenze der früheren Konfiguration, in der ihre Wiedergabe nicht mehr die gewünschte Antwort gibt. Das ist kein Garantie für den Wechsel zur neuen Form.
 
-### Der zentrale Schluss
+Eine ontologische Umschriftung. Die Ablehnung der Behauptung, ein endgültiger Grund für das eigene Leben zu sein, bei der Erhaltung der Verantwortung. Christliche Inhalte  Beziehung zu Gott-Logos.
 
-Die zentrale These von CDJ lässt sich wie folgt rekonstruieren: Der Mensch empfängt sein Sein, ist aber berufen, selbst zu antworten; eine eigene Antwort verlangt die Unterscheidung zwischen Realität und eigener Karte, die Übernahme der Folgen und Offenheit für Korrektur; das Christentum erschließt den letzten Grund dieser Antwort im dreieinigen Gott und ihre Bestimmung in ewiger Gemeinschaft; geschichtliche Formen sind danach zu beurteilen, ob sie eine solche Antwort ermöglichen.
+Ich habe einen DIP. Dynamischer Ikonisches Raum: Konfiguration des Gegenstands für das Subjekt als real und bedeutend.
 
-Dies ist eine zusammenhängende und gehaltvolle Forschungsposition. Ihre Stärke verlangt nicht, sämtliche metaphysischen Übergänge bereits für bewiesen, die Theorie der Synergie für abgeschlossen oder die gesamte Methode für empirisch bestätigt zu erklären. Vielmehr setzt die eigene Forderung von CDJ, der Realität das Recht zu lassen, die Karte zu verändern, einen angemessenen Maßstab für die weitere Arbeit am Projekt selbst.
+Betriebssystem. Operationssystem: Methoden der Wahrnehmung und Auslegung, des Projektierung und Ausführens, der Reflektion und Korrektur.
 
-## Kurzes Glossar
+Das Szenarienbuch. Die Regeln der situativen Verbindung von DIP, OS und Subjektsein in einer konfigurierten Antwort. Das ist nicht die Unvermeidlichkeit.
 
-Das Glossar dient der Lektüre dieser Analyse. Es ersetzt nicht das Begriffsregister des Autors und bewahrt die wesentlichen Unterscheidungen der späteren Bände.
+Die Qualität der Ontologie. Charakterisierung der Fähigkeit, die Realität zu halten, zu handeln, Gründe zu prüfen und eine eigene Antwort zu entwickeln. Es geht nicht um Effizienz oder einen Indikator.
 
-**Realität.** Die der menschlichen Antwort vorausgehende Wirklichkeit, die sich nicht in ihrer vorhandenen Karte erschöpft. Auch der Zugang des Forschenden zu ihr ist vermittelt und bedarf der Prüfung.
+Die Informationen sind nicht relevant. Informationen, die eine fehlende Karte, ein Modell, ein Instrument oder eine Antwortbedingungen erkennen. Es braucht eine Erklärung.
 
-**Karte der Realität.** Eine angeeignete Konfiguration von Unterscheidungen, Verbindungen, Bedeutsamkeiten und Möglichkeiten. Für das Handeln notwendig, aber nicht mit ihrem Gegenstand identisch.
+Der Generationsübergang. Auftreten einer neuen Architektur der Möglichkeiten des Handelns. Kristallisierung  ihre Verfestigung in reproduzierbarer Form.
 
-**Metaphysik.** Voraussetzungen über Wirklichkeit, Sinn und letzten Grund. Die angewandte Metaphysik untersucht, wie sie das Leben organisieren und seiner Prüfung standhalten.
+Erste und zweite Onthologie. Die Organisation einer direkten und institutionell mittelbaren Verantwortung. Unterschiede sind keine Hierarchie des menschlichen Wertes.
 
-**Wirkende Ontologie.** Architektur der dem Subjekt zugänglichen Wirklichkeit, innerhalb deren etwas als bestehend, bedeutsam, möglich und eine Antwort verlangend erscheint.
+Interontologische Übersetzung. Rekonstruktion der Bedingungen, unter denen der Gehalt einer Ontologie in einer anderen verstanden und verwendet werden kann, ohne wesentliche Unterscheidungen zu verlieren.
 
-**DIS.** Dynamischer Ikonischer Raum: die Weise, in der Realität für das Subjekt gegenwärtig ist, einschließlich Inhalt, Verbindungen, Bedeutsamkeit, Maßstab und Zeithorizont.
+Die Objektspeicher. Die Fähigkeit, verschiedene Rollen, Ontologien, Umfang und Verantwortungslinien zu halten, ohne die Verbindlichkeit der eigenen Antwort zu verlieren.
 
-**OS.** Betriebssystem: verfügbare Weisen der Wahrnehmung und Deutung, des Entwerfens und Ausführens, der Reflexion und Korrektur.
+Die Subjekttopographie. Die Position der Träger und die Befugnisse der Antwort. Subjekttopologie beschreibt, wie Erkenntnis, Entscheidung, Handlung, Folgen und Korrektur miteinander verbunden sind.
 
-**Subjekthaftigkeit.** Fähigkeit, wirklicher Urheber einer Antwort zu sein und sie mit Folgen und Korrektur zu verbinden. In frühen Formulierungen ist der Begriff zusätzlich mit der Forderung nach Wahrheit der Position verbunden.
+Die Onthologische Kreditfähigkeit. Eine begründete Erwartung an die Verbindung von Versprechen, Handlungen, Überprüfungen und Verantwortlichkeiten.
 
-**Abgeleitetheit des Daseins.** Empfangensein des Seins und der anfänglichen Bedingungen. Wird durch Freiheit nicht aufgehoben und ist nicht mit fehlender Autorschaft gleichzusetzen.
+Das ontologische Kapital und das Budget. Die gesammelten Möglichkeiten für eine sichere Initiative und Zusammenarbeit sowie die Art und Weise, wie sie produziert, ausgegeben und reproduziert werden.
 
-**Derivativer Modus.** Im kritischen Gebrauch: Reproduktion fremder Bestimmungen ohne eigenes verantwortliches Verhältnis. Nicht mit Geschöpflichkeit oder der funktionalen Abgeleitetheit professioneller Ontologien zu verwechseln.
+Das Vektorprofil. Beschreibung der Subjektseinsänderung unter Berücksichtigung des Träger, des Niveaus, der Richtung, der Verteilung von Befugnissen, der Dynamik, der Konformität und der Zahlungsfähigkeit.
 
-**Fundierung.** Herstellung eines Grundes und einer eigenen Antwortposition. Der I. Band unterscheidet den anfänglichen Austritt aus dem derivativen Modus und die Aktualisierung der Subjektposition.
+Die Onthologische Zahlungsfähigkeit. Die Fähigkeit, den tatsächlichen Preis einer Antwort anstelle der Verhüllung oder freiwilligen Übertragung auf eine andere zu akzeptieren.
 
-**Ontologische Autonomie.** Kontextabhängig unterschiedliche Bedeutungen: Selbstständigkeit und Projektualität oder der Anspruch auf Selbstbegründung. Das Erste darf nicht automatisch mit dem Zweiten gleichgesetzt werden.
+Glaube als Kompetenz. Die stetige Fähigkeit, aus einem Beziehung zu Gott und der anerkannten Wahrheit in Unsicherheit zu leben und zu handeln, wobei Verantwortung und Korrektur möglich bleiben.
 
-**Ontologische Spannung.** Aufrechterhaltene Diskrepanz zwischen Realität und wirkendem Modell oder dessen Gründen. Nicht identisch mit psychischem Stress; im frühen Text mit der äußersten Prüfung der Autonomie verbunden.
+Eine persönliche Eschatologie. Das Verhalten der menschlichen Entstehung zum begrenzten christlichen Horizont, das die Maßnahme des gegenwärtigen Umschlags verändert und nicht erlaubt, dass die endgültige Form die Persönlichkeit erschöpft.
 
-**Diskrepanzinformation.** Information, die die Unzulänglichkeit einer Karte, eines Instruments, eines Modells oder einer Architektur der Antwort aufdeckt. Ein mögliches vorläufiges Signal bedarf noch der Deutung und Prüfung.
+Gnade ist wie ein geschenkter Horizont. Die Bedingungen für die Möglichkeit der Freiheit, Menschlichkeit und eigene Antwort des dreifachen Personlichen Gottes. Es wird nicht durch analytische Verfahren gemessen.
 
-**Ontologische Umadressierung.** Verzicht darauf, das eigene Ich oder einen anderen abgeleiteten Grund als letzten Ursprung und Maßstab des Lebens zu betrachten, unter Bewahrung der eigenen Antwort und Verantwortung.
+Die Grenzen des analytischen Urteils. Die Analyse menschlicher Architektur bestätigt nicht, dass Gott eine konkrete Handlung hat. Die Theologie wird nicht zu einem diagnostischen Verfahren. [3, «В поисках пневматологии», §17]
 
-**Methodologischer Monotheismus.** Forderung, partielle Gründe auf einen einzigen maximalen Grund zu beziehen. Ein strukturelles Orientierungsprinzip, das das vollständige theologische Bekenntnis nicht ersetzt.
+## Schluss
 
-**Logozentrizität.** Ausrichtung des Lebens auf den Logos als Grund, welche die Verabsolutierung des eigenen Projekts begrenzt und Prüfung zulässt.
+Die CDJ untersucht, wie ein Mensch, der die Existenz und das Handeln erlangt hat, der Autor seiner eigenen Antwort wird. Die philosophische Darstellung zeigt das Verhältnis zur Realität und die Grenzen der Selbstbegründung; die theologische  Freiheit und ihr christlicher Horizont; die methodologische  konkrete Bedingungen für Erkenntnis, Handeln, Verantwortung und Korrektur.
 
-**Logofugalität.** Orientierung, bei der Abgeleitetes an die Stelle des letzten Grundes tritt und die Bindung an Wahrheit sowie die Möglichkeit der Prüfung der Selbsterhaltung der Konstruktion untergeordnet werden.
+Die praktische Anwendung beginnt mit einer bestimmten Frage über das eigene Leben oder die Möglichkeit, gemeinsam zu handeln. Was ist hier realisiert? Warum? Welche Möglichkeiten gibt es? Wer hat das Recht zu beginnen und zu korrigieren? Wer nimmt die Konsequenzen an? Die Antworten müssen überprüft werden, und die vorgeschlagenen Änderungen  sind mit den geltenden Bedingungen verbunden.
 
-**Qualität der Ontologie.** Mehrdimensionale Charakteristik von DIS, OS und Subjekthaftigkeit, betrachtet zusammen mit Fundiertheit und Werteordnung. Nicht auf bloßen Erfolg oder eine einzige Krisenprüfung reduzierbar.
+In der Kirchenperspektive ist diese Arbeit auf das Ausnutzen und Aktualisieren des übertragenen Erfahrungen ausgerichtet. Die Kirche hilft einem Menschen, die Fähigkeit zu erlangen, Gott gegenüber zu verantworten, aber sie entfernt nicht sein Autorschaft. Die Analyse kann Hindernisse und Unvereinbarkeiten erkennen, aber sie ersetzt nicht die Antwort selbst und bestätigt nicht endgültig das Wirken der Gnade. Die Erhaltung dieser Grenze bezieht sich auf die Bedingungen für den Einsatz der Methodik selbst.
 
-**Ontologische Kompetenz.** Fähigkeit, Gründe, Maßstäbe und Grenzen zu unterscheiden, mit der eigenen Karte zu arbeiten, Diskrepanz auszuhalten und zu antworten. Ihre Umsetzung in ein geschichtliches Projekt erfordert zusätzliche Fähigkeiten und Bedingungen.
+## Quellen und Zitierweise
 
-**Ontologische Askese.** Disziplinierte Bereitschaft, unhaltbare Elemente der eigenen Ontologie aufzugeben.
+[1] Hierodiakon Panteleimon (Leon Adzhindzhal). An die Christen des dritten Jahrtausends. Band I, Reflexionen eines abchasischen Exilanten. Die Verweise beziehen sich auf Kapitel und Unterabschnitte der russischen Ausgabe. Die „Interpretationsbedingung“ folgt auf das Kapitel über die Kirche als Infrastruktur zur Ausbildung personaler Eschatologie. [Russischer Text von Band I](https://doi.org/10.5281/zenodo.19776054).
 
-**Ontologische Ätherifizierung.** Im I. Band der Übergang zu einem umfassenderen Horizont, der größere Komplexität zu halten ermöglicht. Bedeutet keine Abkehr von der konkreten Wirklichkeit.
+[2] Hierodiakon Panteleimon (Leon Adzhindzhal). An die Christen des dritten Jahrtausends. Band II, Architektur des Subjektseins. Die Verweise nennen die Untersuchungen und ihre nummerierten Abschnitte. [Russischer Text und Übersetzungen von Band II](https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-II).
 
-**Szenariobuch.** Beständige Regeln der situationsbezogenen Verbindung von DIS, OS und subjekthaften Befugnissen. Macht die Antwort verfügbar, ohne ihren Vollzug unvermeidlich zu machen.
+[3] Hierodiakon Panteleimon (Leon Adzhindzhal). An die Christen des dritten Jahrtausends. Band III, Methodologie der CDJ-Analyse. Römische Ziffern bezeichnen die Abschnitte der Methodologie. Der Aufsatz „Auf der Suche nach einer Pneumatologie“ hat eine eigene Nummerierung. [Russischer Text und Übersetzungen von Band III](https://github.com/LeonAbasgus/Christians-of-the-Third-Millennium-III).
 
-**Kristallisation.** Das Gewinnen einer beständigen und reproduzierbaren Form durch ein neues Verständnis. Kann Entwicklung stützen oder Prüfung vorzeitig schließen.
+[4] Autoren-Vorgaben zur Darstellung der CDJ: Gnade als Horizont, der vom Dreieinigsten Persönlichen Gott gegeben wurde; Unterscheidung zwischen menschlicher Würde und erlangter persönlicher Subjektsein; Aktualisierung der Kirchentradition und Unausweichlichkeit der eigenen Antwort. Die Zitate werden als Erläuterungen des Autors angesehen, nicht als wortwörtliche Zitate aus dem Gehäuse.
 
-**Generativität.** Fähigkeit, neue Architekturen möglicher Antwort zu schaffen. Erfordert die Angabe des Maßstabs der Neuheit und ihres Trägers.
+[Navigation im Korpus](https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/corpus/) · [Kanonisches Metadokument](https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/ru/) · [Sprachfassungen der Darstellung](https://leonabasgus.github.io/Christians-of-the-Third-Millennium-Project/exposition/).
 
-**Ontologische Kommunikation.** Begegnung, bei der die Gründe und die Karte eines Beteiligten durch die Wirklichkeit des anderen infrage gestellt werden können, statt bloß um Informationen ergänzt zu werden.
-
-**Sozio-ontische Projektualität.** Fähigkeit, eine Sichtweise in gesellschaftlichen Strukturen, Ressourcen und Handlungen zu verkörpern. Verbürgt nicht die Wahrheit des Projektgrundes.
-
-**Messianische Identität.** Verständnis des eigenen Lebens als Berufung und Mission. Im christlichen Gebrauch Annahme des Gesandtseins; die Form der Mission selbst kann auch einem falschen Grund dienen.
-
-**Eschatologische Subjekthaftigkeit.** Ausrichtung menschlicher Antwort auf eine letzte, in keiner geschichtlichen Form aufgehende Fülle und auf die endgültige Gemeinschaft mit Gott.
-
-**Glaube als Kompetenz.** Fähigkeit, aus der Beziehung zu Gott zu leben und dabei eine verantwortliche Orientierung an der Wahrheit unter Ungewissheit, beim Verlust von Garantien und angesichts notwendiger Korrektur zu bewahren.
-
-**Praxis des Kreuzes.** Verzicht darauf, Selbsterhaltung und Erfolg zum letzten Wahrheitskriterium zu machen. Nicht identisch mit beliebigem Leiden, beliebigem Opfer oder Unterwerfung unter eine fremde Forderung.
-
-**Erste Ontologie.** Organisation von Sichtbarkeit und Verantwortung in unmittelbaren, konkreten Beziehungen.
-
-**Zweite Ontologie.** Erweiterung der Verantwortung auf verteilte Realität durch gesellschaftliche Funktionen und Institutionen.
-
-**Abgeleitete Ontologien.** Spezialisierte Architekturen der Unterscheidung und des Handelns, etwa wissenschaftliche oder rechtliche. Abgeleitetheit ist hier kein Vorwurf der Unselbstständigkeit.
-
-**Subjekthafte Kapazität.** Fähigkeit, unterschiedliche Ontologien, Rollen und Maßstäbe zu halten, ohne Verbundenheit und eigene Antwort zu verlieren.
-
-**Subjekttopographie.** Verortung der Befugnisse und ihrer tatsächlichen Träger.
-
-**Subjekttopologie.** Verbindungen zwischen Erkennen, Entscheidung, Handlung, Folgen, Korrektur und Gedächtnis.
-
-**Ontologische Kreditwürdigkeit.** Begründete Erwartung einer Verbindung von Versprechen, Handlung, Ergebnis und Verantwortung.
-
-**Ontologische Zahlungsfähigkeit.** Fähigkeit, den tatsächlichen Preis und die Folgen der eigenen Autorschaft zu übernehmen.
-
-**Ontologisches Kapital und Budget.** Angesammelte Möglichkeit glaubwürdiger Initiative und Kooperation; die Weise ihrer Produktion, Verteilung, Verwendung und Reproduktion.
-
-**Vektorprofil.** Mehrdimensionale Beschreibung einer Veränderung der Subjekthaftigkeit unter Angabe von Ebene, Richtung, Trägern, Zeit, Maßstab, Entsprechungsmodus und Preis.
-
-**Fail-closed.** Sperrung eines notwendigen analytischen Übergangs bei fehlendem Nachweis. Macht das Fehlen eines Beweises nicht zum Beweis des Gegenteils.
-
-**Trinitarische Entsprechung.** Begrenzte theologische Korrelation von Prinzipien der menschlichen Architektur mit Aspekten des einen Wirkens der Trinität. Verteilt menschliche Funktionen nicht auf drei unabhängige göttliche Ursachen.
-
-## Quellen und Orientierung im Korpus
-
-**I.** Hierodiakon Panteleimon (Adzhindzhal). „An die Christen des dritten Jahrtausends. Betrachtungen eines abchasischen Exilanten“. Vollständige russische Fassung mit „Ein Essay zur angewandten Metaphysik des Subjekts“, dem theologischen Zyklus und Anhängen. Im Inhaltsverzeichnis dieser Fassung beginnt der „Essay …“ auf S.5; „Die Ausgangsposition. Einst die ursprüngliche“ auf S.39; „Über die Natur des Glaubens“ auf S.50; „Zur Metaphysik der Person“ auf S.64; „Die Sprache Gottes“ auf S.77; „Das Funktionsgefüge der Kirche“ auf S.85; „Zur Ontologie des Logos“ auf S.99; „Glaube als Kompetenz“ auf S.119; „Die Kirche als Infrastruktur zur Bildung personaler Eschatologie“ auf S.135. Innerhalb der Analyse werden bevorzugt Abschnittstitel verwendet, da die Seiteneinteilung von DOCX-Dateien von der Darstellung abhängt.
-
-**II.** „An die Christen des dritten Jahrtausends. Architektur der Subjekthaftigkeit“. Russischer Text mit den Untersuchungen „Genesis der Subjekthaftigkeit“, „Qualität der Ontologie“, „Ontogenese der Subjekthaftigkeit“, „Eschatologische Subjekthaftigkeit“ und „Modernisierung: die erste praktische Anwendung von CDJ“. Die Verweise beziehen sich auf die Untersuchungstitel und ihre internen Paragrafen.
-
-**III.** „An die Christen des dritten Jahrtausends. Methodologie der CDJ-Analyse“. Russisches PDF mit 107 Seiten. Methodologischer Teil: wirkende Ontologie – Abschnitt II; Genesis und generativer Übergang – III; Erste, Zweite und abgeleitete Ontologien – IV; Zusammenwirken von Ontologien – V; Kommunikation und kollektive Subjekthaftigkeit – VI; das Gemeinsame, Kreditwürdigkeit und Legitimität – VII; Subjektarchitektur – VIII; Vektoranalyse – IX; Verfahren – X; Gestaltung – XI; Grenzen der Methode – XII; Rückkehr zur Frage nach der Kirche – XIII.
-
-**Pneumatologische Untersuchung.** „Auf der Suche nach einer Pneumatologie. Von der pneumatologischen Lücke zur trinitarischen Architektur der Subjekthaftigkeit“, zweiter Text des III. Bandes, S.92–107. Die Nummerierung §§1–19 gehört zu diesem eigenständigen Beitrag und darf nicht mit der Nummerierung des methodologischen Teils vermischt werden.
-
-**Redaktionelle Grundlage.** „Überblick über die Philosophie Adzhindzhals“, Fassung 4, 25 Seiten. Übernommen wurde die gelungene Abfolge der Gesamtdarstellung: Ausgangsfrage, philosophische Grundlagen, Theologie, Architektur, Methode, Kritik und Glossar. Die Zuschreibungen und inhaltlichen Schlussfolgerungen der vorliegenden Analyse stützen sich auf das russische CDJ-Korpus, nicht auf die Autorität des Überblicks.
-
-## Zur Überarbeitung des Überblicks
-
-In dieser Fassung wird der philosophische Teil des I. Bandes anhand des vollständigen russischen Textes untersucht; die frühere Kennzeichnung des gesamten Abschnitts als ungeprüft wurde aufgehoben. Die Quelle der Bemerkung des Autors zu 1993 wurde im Kapitel über das Subjekt neben der Darstellung der ontologischen Spannung lokalisiert. Gesondert untersucht wurden die Bedeutungen von Autonomie sowie die tatsächlichen Unterschiede zwischen dem frühen und dem späteren Gebrauch von Subjekthaftigkeit und Ontischem.
-
-In der theologischen Darstellung wurde der Inhalt von „Die Sprache Gottes“ wiederhergestellt; Christologie und Eschatologie wurden erweitert, geschichtliche Offenheit und endgültige Fülle der Gemeinschaft unterschieden. Die Pneumatologie wird mit ihren eigenen Begrenzungen dargestellt. Im methodologischen Teil wurden Preis, das Gemeinsame, Legitimität, Topographie und Topologie, die starke Alternative und die Bedingungen eines negativen Ergebnisses ergänzt.
-
-Die Kritik richtet sich auf konkrete Übergänge, nicht auf die Herkunft des Autors oder mangelnde äußere Anerkennung. Vergleiche mit anderen Denkern werden als mögliche Untersuchungen gekennzeichnet; wertende Superlative ersetzen kein Argument. Das Glossar ist auf diese Unterscheidungen abgestimmt und besitzt den Status einer kurzen Lesehilfe.
+Dieser Überblick wurde mit ChatGPT erstellt. Erläuterungen, Lehrbeispiele und kritische Urteile ersetzen den Autortext nicht. Bei der Zitierung von CDJ-Bestimmungen sollten die genannten Quellen verwendet werden; Interpretationen des Überprüfungs können genau wie Interpretationen zitiert werden.

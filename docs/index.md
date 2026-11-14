@@ -18,7 +18,7 @@ This site is the **canonical semantic entry point** to the architecture of CTM I
 
 ## Start here — Exposition and Analysis
 
-For an accessible, full-length account of the philosophy and theology of CTM, read the [Exposition and Analysis]({{ "/exposition/" | relative_url }}). It includes 19 chapters, a glossary, sources, and a critical discussion, with Word and PDF downloads. Prepared with ChatGPT; distinct from the canonical corpus and Meta-Document.
+For an accessible, full-length account of the philosophy and theology of CTM, read the [Exposition and Analysis]({{ "/exposition/" | relative_url }}). It includes 13 numbered sections, a glossary, sources, and a critical discussion, with Word and PDF downloads. Prepared with ChatGPT; distinct from the canonical corpus and Meta-Document.
 
 <a href="{{ '/exposition/ru/' | relative_url }}">Русский</a> · <a href="{{ '/exposition/en/' | relative_url }}">English</a> · <a href="{{ '/exposition/de/' | relative_url }}">Deutsch</a> · <a href="{{ '/exposition/fr/' | relative_url }}">Français</a> · <a href="{{ '/exposition/el/' | relative_url }}">Ελληνικά</a> · <a href="{{ '/exposition/sr/' | relative_url }}">Српски</a>
 
