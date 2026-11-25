@@ -130,13 +130,13 @@ Le premier tome emploie le langage radical de la rupture et oppose l’action on
 
 L'arrêt ontologique indique la limite de l'ancienne façon d'agir. Elle ne garantit pas de changement: il est possible de nier les incohérences, de rétablir l'ancien schéma ou de trouver une nouvelle réponse. La transition générative signifie l'apparition d'une autre architecture de possibilités, et la cristallisation  le renforcement de la capacité née dans une forme reproduisible. Ce renforcement est nécessaire pour que le nouveau départ ne soit pas un épisode unique. [2, «Онтогенез субъектности»; 3, разд. III]
 
-L'eschatologie personnelle définit la direction limite de cette formation. Eschaton ne se résume pas à un avenir prédit ou à un projet historique réussi. Le regard que nous portons sur le Royaume à venir change la mesure du présent: ni l'État, ni l'organisation, ni le rôle professionnel ne peuvent épuiser l'emploi de la personne. [1, «Церковь как инфраструктура формирования персональной эсхатологии»; 2, «Эсхатологическая субъектность»]
+L’eschatologie personnelle donne à ce devenir son orientation ultime. L’eschaton ne se réduit ni à un avenir prévisible ni à un projet historique réussi. Le rapport au Royaume à venir modifie la mesure du présent : ni l’État, ni une organisation, ni un rôle professionnel ne peuvent épuiser la vocation de la personne. [1, «Церковь как инфраструктура формирования персональной эсхатологии»; 2, «Эсхатологическая субъектность»]
 
 La foi en tant que compétence signifie la capacité régulière de répondre dans des conditions d'incertitude, de risque et sans instruction prête. Elle suppose la distinction, l'apprentissage et la possibilité de se corriger. La peur ou l'absence de succès rapide ne le rejettent pas automatiquement. Mais la confiance en soi ne peut pas vous empêcher de vérifier les faits et les conséquences. [1, «Вера как компетенция»]
 
 ### L’ouverture historique et la plénitude de l’eschaton
 
-L'horizon eschatologique permet d'évaluer les formes historiques, d'agir à l'intérieur et de les revoir en se heurtant à la réalité. Sa fonction de méta-projet ouvre la possibilité à différents projets historiques. Aucun d'eux n'a le droit de donner la fin du Royaume. Dans le sens chrétien, l'eschaton comprend la résurrection du corps, la transformation de la création, le Royaume de Dieu et le culte. La communication ontologique éternelle signifie la participation de la vie de Dieu à la préservation de l'identité et des différences entre le Créateur et la création. [2, «Эсхатологическая субъектность»]
+L’horizon eschatologique permet d’évaluer les formes historiques, d’agir en leur sein et de les réviser lorsqu’elles se heurtent à la Réalité. Sa fonction de méta-projet ouvre la possibilité de différents projets historiques. Aucun d’eux ne peut s’attribuer le caractère définitif du Royaume. Au sens spécifiquement chrétien, l’eschaton comprend la résurrection du corps, la transfiguration de la création, le Royaume de Dieu et la déification. La communication ontologique éternelle signifie la participation à la vie de Dieu, dans la préservation de la personne et de la distinction entre le Créateur et la création. [2, «Эсхатологическая субъектность»]
 
 ### Le langage de Dieu, la foi et le repentir
 
@@ -178,7 +178,7 @@ Les ontologies dérivées apparaissent dans des domaines spécialisés comme le 
 
 La modernisation dans le CTM est considérée par une rencontre entre la complexité des fonctions sociales et l'émergence de la capacité humaine à les prendre en charge. La création d'un établissement ne signifie pas encore l'apprentissage de la méthode appropriée. La procédure juridique peut exister de manière formelle, alors que les décisions réelles sont toujours déterminées par la loyauté personnelle. [2, «Модернизация»]
 
-L'axe horizontal de la modernisation concerne le passage entre les échelles et les ontologies; la vertical  qualité et répartition de la sujetsité; l'essatologie  relation de la forme créée à sa propre limite. L'institution ne doit pas devenir la mesure finale de l'homme. [3, разд. IV, §54]
+L’axe horizontal de la modernisation concerne le passage entre les échelles et les ontologies ; l’axe vertical, la qualité et la répartition de la subjectalité ; l’axe eschatologique, le rapport de la forme créée à sa propre limite. Une institution ne doit pas devenir la mesure ultime de l’être humain. [3, разд. IV, §54]
 
 Le premier volume examine les relations entre les personnes à travers la distinction entre une relation fermée et fondée. La question est de savoir si les participants peuvent conserver leur propre réponse, si l'un d'eux se confie la position de fondement définitif pour l'autre. La perspective chrétienne relie la possibilité de complicité à une base commune qui ne appartient à aucun participant. La proclamation même d'une telle Fondation ne garantit pas encore un système de relations approprié: l'institution peut se référer à Dieu et en même temps remplacer l'auteur humain. [1, «Опыт прикладной метафизики субъекта», гл. 4]
 
@@ -236,7 +236,7 @@ La conception des conditions de liberté a une limite: on peut transmettre l'exp
 
 ## 10 L’Église et l’actualisation de la tradition
 
-La définition de l'Église comme une infrastructure pour former une échatologie personnelle pose la question de savoir comment la vie ecclésiastique aide un homme à devenir capable de répondre à Dieu. L'infrastructure comprend l'expérience conservée, le culte, les mystères, l'enseignement, la communication et la pratique de la responsabilité. Le traitement fonctionnel est effectué dans la compréhension théologique de l'Église et ne couvre pas ses secrets. [1, «Функционал Церкви»; 3, разд. XIII]
+Définir l’Église comme une infrastructure de formation de l’eschatologie personnelle soulève la question de savoir comment la vie ecclésiale aide une personne à devenir capable de sa propre réponse à Dieu. Cette infrastructure comprend l’expérience conservée, le culte, les sacrements, l’apprentissage, la communion et la pratique de la responsabilité. L’examen fonctionnel s’inscrit dans une compréhension théologique de l’Église et n’épuise pas son mystère. [1, «Функционал Церкви»; 3, разд. XIII]
 
 Dans cette perspective, il est important de pouvoir distinguer la présence d'une forme ecclésiastique et sa mise en œuvre dans la vie humaine. Le nombre de participants, la discipline ou la résilience administrative montrent certains aspects de l'activité, mais ne confirment pas par eux-mêmes ni la plénitude de la réponse chrétienne ni l'action de la grâce.
 
@@ -362,7 +362,7 @@ Une capacité de paiement ontologique. Capacité à accepter le prix réel d'une
 
 La foi comme compétence. C'est la capacité durable à vivre et agir en fonction de notre relation avec Dieu et de la vérité reconnue dans des conditions d'incertitude, tout en conservant une responsabilité et une possibilité de correction.
 
-Une échatologie personnelle. L'attitude de la formation humaine à l'horizon chrétienne limité, qui transforme la mesure du présent et ne permet pas à la forme finale d'épuiser la personnalité.
+Eschatologie personnelle. Le rapport du devenir humain à l’horizon chrétien ultime, qui transforme la mesure du présent et empêche une forme finie d’épuiser la personne.
 
 La grâce est comme un horizon. L'auteur clarifie les conditions de liberté, d'humanité et de réponse personnelle donnée par le Dieu Trinitarien. Il n'est pas mesuré par une procédure d'analyse.
 

@@ -130,13 +130,13 @@ Band I verwendet die radikale Sprache des Bruchs und stellt das ontologische Han
 
 Die ontologische Haltestelle zeigt auf die Grenze der früheren Handlungsweise. Sie garantiert keine Veränderungen: Es ist möglich, Unvereinbarkeiten zu leugnen, ein altes Schema wiederherzustellen oder eine neue Antwort zu finden. Der generative Übergang bedeutet das Auftreten einer anderen Architektur der Möglichkeiten, und die Kristallisierung  die Festlegung der entstandenen Fähigkeit in reproduzierbarer Form. Diese Anbindung ist erforderlich, um einen neuen Beginn nicht als einmalig zu behalten. [2, «Онтогенез субъектности»; 3, разд. III]
 
-Die persönliche Eschatologie gibt die Grenzrichtung dieser Entstehung. Eschaton ist nicht nur ein prognostiziertes Zukunfts- oder erfolgreiches historisches Projekt. Die Einstellung zum zukünftigen Königreich verändert das Maß des gegenwärtigen: weder Staat, noch Organisation, noch Beruf kann die Bestimmung der Person auslaufen. [1, «Церковь как инфраструктура формирования персональной эсхатологии»; 2, «Эсхатологическая субъектность»]
+Die personale Eschatologie gibt diesem Werden seine letzte Ausrichtung. Das Eschaton lässt sich weder auf eine prognostizierte Zukunft noch auf ein erfolgreiches geschichtliches Projekt reduzieren. Das Verhältnis zum kommenden Reich verändert den Maßstab der Gegenwart: Weder der Staat noch eine Organisation oder eine berufliche Rolle können die Bestimmung der Person ausschöpfen. [1, «Церковь как инфраструктура формирования персональной эсхатологии»; 2, «Эсхатологическая субъектность»]
 
 Glaube als Kompetenz bedeutet die stetige Fähigkeit, in Unsicherheit, Risiko und ohne vorbereitete Anweisung zu reagieren. Sie beinhaltet Unterscheidung, Lernen und Korrektur. Angst oder kein schneller Erfolg verleugnen sie nicht automatisch. Gleichzeitig befreit religiöse Überzeugung einen nicht von der Prüfung der Fakten und Folgen seines Handelns. [1, «Вера как компетенция»]
 
 ### Geschichtliche Offenheit und die Fülle des Eschatons
 
-Der eschatologische Horizont ermöglicht es, historische Formen zu bewerten, in ihnen zu agieren und sie bei einem Zusammenstoß mit der Realität neu zu betrachten. Seine Metaprojektsfunktion eröffnet die Möglichkeit für verschiedene historische Projekte. Keiner von ihnen hat das Recht, die Vollendung des Königreiches zu geben. Es hat im christlichen Sinne die Auferstehung des Körpers, die Umgestaltung der Schöpfung, das Reich Gottes und den Verehr. Die ewige ontologische Kommunikation bedeutet, dass das Leben Gottes mit der Erhaltung der Persönlichkeit und Unterschiede des Schöpfers und seiner Schöpfung verbunden ist. [2, «Эсхатологическая субъектность»]
+Der eschatologische Horizont ermöglicht es, geschichtliche Formen zu beurteilen, innerhalb dieser Formen zu handeln und sie in der Konfrontation mit der Realität zu revidieren. Seine Metaprojektfunktion eröffnet die Möglichkeit unterschiedlicher geschichtlicher Projekte. Keines von ihnen darf die Endgültigkeit des Reiches für sich beanspruchen. Im spezifisch christlichen Sinne umfasst das Eschaton die Auferstehung des Leibes, die Verklärung der Schöpfung, das Reich Gottes und die Vergöttlichung. Ewige ontologische Kommunikation bedeutet Teilhabe am Leben Gottes unter Wahrung der Person und der Unterscheidung zwischen Schöpfer und Schöpfung. [2, «Эсхатологическая субъектность»]
 
 ### Gottes Sprache, Glaube und Umkehr
 
@@ -178,7 +178,7 @@ Abgeleitete Ontologien entstehen in spezialisierten Bereichen wie Recht, Wissens
 
 Die Modernisierung in der CDJ wird durch die Begegnung von Komplexität sozialer Funktionen und dem Aufbau der Fähigkeit des Menschen, sie zu übernehmen, betrachtet. Ein Institut zu gründen bedeutet noch nicht, dass man die entsprechende Handlungsweise erlernt hat. Ein rechtliches Verfahren kann formell bestehen, während die tatsächlichen Entscheidungen immer noch durch persönliche Loyalität bestimmt werden. [2, «Модернизация»]
 
-Die horizontale Achse der Modernisierung bezieht sich auf den Übergang zwischen Skala und Ontologien; die vertikale  Qualität und Verteilung der Subjekthaftigkeit; das eschatologische  Verhältnis der geschaffenen Form zu ihrer eigenen Grenze. Eine Einrichtung darf nicht zum letzten Maß der Menschheit werden. [3, разд. IV, §54]
+Die horizontale Achse der Modernisierung betrifft den Übergang zwischen Maßstabsebenen und Ontologien; die vertikale Achse betrifft die Qualität und Verteilung der Subjekthaftigkeit; die eschatologische Achse betrifft das Verhältnis der geschaffenen Form zu ihrer eigenen Grenze. Eine Institution darf nicht zum endgültigen Maßstab des Menschen werden. [3, разд. IV, §54]
 
 In dem ersten Band werden die Beziehungen zwischen Menschen durch eine Unterscheidung zwischen geschlossener und begründeter Relation betrachtet. Die Frage ist, ob die Teilnehmer ihre eigene Antwort behalten können, wenn einer von ihnen sich als endgültige Grundlage für den anderen anstellt. Die christliche Perspektive verbindet die Möglichkeit der Mitwirkung mit einem gemeinsamen Grundsatz, der keinem Teilnehmer gehört. Die Ankündigung solch einer Grundlage garantiert noch nicht die entsprechende Ordnung der Beziehungen: Ein Institut kann auf Gott verweisen und gleichzeitig menschliches Autorschaft ersetzen. [1, «Опыт прикладной метафизики субъекта», гл. 4]
 
@@ -236,7 +236,7 @@ Die Gestaltung von Freiheitsbedingungen hat Grenzen: Man kann Erfahrungen vermit
 
 ## 10 Die Kirche und die Aktualisierung der Tradition
 
-Die Definition der Kirche als Infrastruktur für die Bildung einer persönlichen Eschatologie stellt die Frage, wie das kirchliche Leben einem Menschen hilft, sich selbst zu Gott zu stellen. Infrastruktur umfasst die Erhaltung von Erfahrungen, Gottesdienst, Geheimnisse, Bildung, Kommunikation und Verantwortung. Funktionsbezogene Prüfung erfolgt im theologischen Verständnis der Kirche und erschließt ihre Geheimnisse nicht. [1, «Функционал Церкви»; 3, разд. XIII]
+Die Bestimmung der Kirche als Infrastruktur zur Bildung personaler Eschatologie wirft die Frage auf, wie das kirchliche Leben einem Menschen hilft, zu einer eigenen Antwort auf Gott fähig zu werden. Die Infrastruktur umfasst bewahrte Erfahrung, Gottesdienst, Sakramente, Lernen, Gemeinschaft und die Praxis der Verantwortung. Die funktionale Betrachtung erfolgt im Rahmen eines theologischen Verständnisses der Kirche und schöpft ihr Geheimnis nicht aus. [1, «Функционал Церкви»; 3, разд. XIII]
 
 In dieser Perspektive ist es wichtig, die Möglichkeit zu unterscheiden, ob eine Kirche vorhanden ist und wie sie im menschlichen Leben aktualisiert wird. Die Anzahl der Teilnehmer, die Disziplin oder die administrative Stabilität zeigen bestimmte Aspekte der Tätigkeit, aber sie selbst bestätigen weder die Vollständigkeit der christlichen Antwort noch das Wirken der Gnade.
 
@@ -362,7 +362,7 @@ Die Onthologische Zahlungsfähigkeit. Die Fähigkeit, den tatsächlichen Preis e
 
 Glaube als Kompetenz. Die stetige Fähigkeit, aus einem Beziehung zu Gott und der anerkannten Wahrheit in Unsicherheit zu leben und zu handeln, wobei Verantwortung und Korrektur möglich bleiben.
 
-Eine persönliche Eschatologie. Das Verhalten der menschlichen Entstehung zum begrenzten christlichen Horizont, das die Maßnahme des gegenwärtigen Umschlags verändert und nicht erlaubt, dass die endgültige Form die Persönlichkeit erschöpft.
+Personale Eschatologie. Das Verhältnis des menschlichen Werdens zum letzten christlichen Horizont, das den Maßstab der Gegenwart verwandelt und verhindert, dass eine endliche Form die Person ausschöpft.
 
 Gnade ist wie ein geschenkter Horizont. Die Bedingungen für die Möglichkeit der Freiheit, Menschlichkeit und eigene Antwort des dreifachen Personlichen Gottes. Es wird nicht durch analytische Verfahren gemessen.
 

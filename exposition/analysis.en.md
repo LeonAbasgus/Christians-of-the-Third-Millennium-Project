@@ -130,13 +130,13 @@ Volume I uses the radical language of rupture and contrasts ontological action w
 
 The ontological stop indicates the limit of the previous mode of action. It does not guarantee transformation: it is possible to deny inconsistency, restore an old pattern or find a new answer. Generative transition means the emergence of a different architecture of possibilities, and crystallization  the consolidation of an emerging ability in a reproducible form. This is a necessary consolidation so that the new beginning does not remain a single episode. [2, «Онтогенез субъектности»; 3, разд. III]
 
-Personal eschatology sets the boundary of this formation. Eschaton is not a predicted future or successful historical project. The attitude toward the future Kingdom changes the measure of the present: neither government, organization, nor professional role can exhaust the purpose of a person. [1, «Церковь как инфраструктура формирования персональной эсхатологии»; 2, «Эсхатологическая субъектность»]
+Personal eschatology sets the ultimate direction of this becoming. The eschaton cannot be reduced to a predicted future or a successful historical project. The relationship to the coming Kingdom changes the measure of the present: neither the state, nor an organization, nor a professional role can exhaust the vocation of the person. [1, «Церковь как инфраструктура формирования персональной эсхатологии»; 2, «Эсхатологическая субъектность»]
 
 Faith as a competence means the ability to respond steadily in uncertainty, risk and lack of ready instruction. It involves discernment, learning and the ability to correct. Fear or lack of quick success doesn't automatically refute it. At the same time, religious conviction does not free a person from examining facts and consequences of his actions. [1, «Вера как компетенция»]
 
 ### Historical Openness and the Fullness of the Eschaton
 
-The eschatological horizon allows us to assess historical forms, act within them and re-examine them in the face of reality. Its meta-project function opens up the possibility of various historical projects. None of them have the right to give the ultimate Kingdom. In the proper Christian sense, eschaton includes the resurrection of the body, the transformation of creation, God's Kingdom and worship. Eternal ontological communication means the involvement of God's life with preserving the personality and distinctions between the Creator and creation. [2, «Эсхатологическая субъектность»]
+The eschatological horizon makes it possible to assess historical forms, act within them, and revise them when confronted with Reality. Its meta-project function opens up the possibility of different historical projects. None of them may claim the finality of the Kingdom for itself. In the specifically Christian sense, the eschaton includes the resurrection of the body, the transfiguration of creation, the Kingdom of God, and deification. Eternal ontological communication means participation in the life of God while preserving the person and the distinction between Creator and creation. [2, «Эсхатологическая субъектность»]
 
 ### God’s Language, Faith and Repentance
 
@@ -178,7 +178,7 @@ Derived ontologies arise in specialized fields such as law, science, education, 
 
 Modernization in ICT is considered through the encounter of complex social functions and the development of human capacity to take them into account. The establishment of an institution does not yet mean that you have mastered the appropriate way. Legal proceedings can exist formally, whereas real decisions are still determined by personal loyalty. [2, «Модернизация»]
 
-The horizontal axis of modernization concerns the transition between scales and ontologies; vertical  quality and distribution of subjecthood; eschatological  relationship of created form to its own boundary. An institution should not become the ultimate measure of man. [3, разд. IV, §54]
+The horizontal axis of modernization concerns transitions between scales and ontologies; the vertical axis concerns the quality and distribution of subjecthood; the eschatological axis concerns the relationship of a created form to its own limit. An institution must not become the ultimate measure of the human being. [3, разд. IV, §54]
 
 The first volume examines relationships between people through the distinction of closed and founded relation. The question is whether the participants can keep their own answer if one of them gives himself a final ground for the other. The Christian perspective links the possibility of complicity to a common ground that does not belong to any participant. The very proclamation of such a foundation does not guarantee the proper arrangement of relations: an institution can refer to God and at the same time replace human authorship. [1, «Опыт прикладной метафизики субъекта», гл. 4]
 
@@ -236,7 +236,7 @@ Design of conditions for freedom has a limit: you can pass on experiences, open 
 
 ## 10 The Church and the Actualization of Tradition
 
-The definition of the Church as an infrastructure for personal eschatology poses a question about how church life helps one become capable of one's own answer to God. The infrastructure includes stored experience, worship, mystery, learning, communication and responsibility. Functional consideration is carried out in the Church's theological understanding and does not exhaust its secrets. [1, «Функционал Церкви»; 3, разд. XIII]
+Defining the Church as an infrastructure for the formation of personal eschatology raises the question of how ecclesial life helps a person become capable of their own response to God. This infrastructure includes preserved experience, worship, the sacraments, learning, communion, and the practice of responsibility. Functional analysis takes place within a theological understanding of the Church and does not exhaust its mystery. [1, «Функционал Церкви»; 3, разд. XIII]
 
 In this perspective, it is important to distinguish between the presence of a church form and its actualization in human life. The number of participants, discipline or administrative resilience indicate certain aspects of the activity, but they themselves do not attest to the completeness of the Christian response or act of grace.
 
@@ -362,7 +362,7 @@ Onthological ability to pay. The ability to accept the actual price of an answer
 
 Faith as a competence. The sustained ability to live and act out of a relationship with God and the accepted truth in uncertainty, while retaining responsibility and correction.
 
-Personal eschatology. The attitude of human development towards the extreme Christian horizon, which transforms the measure of the present and does not allow the final form to exhaust the personality.
+Personal eschatology. The relationship of human becoming to the ultimate Christian horizon, which transforms the measure of the present and prevents a finite form from exhausting the person.
 
 Grace is like a gifted horizon. The author's clarification of the conditions for freedom, humanity and a personal answer given by the Triune God. It's not measured by analytical procedure.
 
